@@ -1,5 +1,5 @@
 ---
-title: PARA vs Zettelkasten: 구조적 정합성에 대한 고찰
+title: "PARA vs Zettelkasten: 구조적 정합성에 대한 고찰"
 date: 2026-04-22
 tags: [KM, PARA, Zettelkasten, architecture]
 ---
