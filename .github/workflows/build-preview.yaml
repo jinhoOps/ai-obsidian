@@ -9,6 +9,8 @@ jobs:
   build-preview:
     if: ${{ github.repository == 'jackyzha0/quartz' }}
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     name: Build Preview
     steps:
       - uses: actions/checkout@v6
@@ -16,9 +18,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
 
       - name: Cache dependencies
         uses: actions/cache@v5
