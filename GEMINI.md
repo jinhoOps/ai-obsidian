@@ -45,6 +45,13 @@
   2. 발견된 문제점, 보안 취약성, 최적화 가능성(룰의 간소화 등)을 진단하여 피드백.
   3. 감사 결과 및 아키텍처 개선 제안 등 구체적인 산출물(리포트)이 발생할 경우, 이를 `output/` 폴더에 저장하여 시스템 발전 이력으로 보존.
 
+### 5. Publish (배포)
+- **목적**: Zettelkasten 시스템에 구축된 지식을 GitHub Pages 기반웹사이트(Quartz)로 발행.
+- **절차**:
+  1. 퍼블릭으로 공개할 노트의 프론트매터(Frontmatter) 검증 (`status: budding` 노트나 민감정보 포함 여부 확인, 해당 파일은 자동 필터링됨).
+  2. 노트를 작성/수정 후 Git 커밋 및 `main` 브랜치로 푸시(`git push`).
+  3. 푸시가 완료되면 GitHub Actions의 `Deploy Quartz site` CI/CD 파이프라인이 백그라운드에서 빌드 후 `https://jinhoops.github.io/ai-obsidian`로 자동 라이브 배포를 진행.
+
 ## 📜 에이전트 행동 지침 (Agent Guidelines)
 - **인코딩 (Encoding)**: 모든 파일 작성 및 읽기 시 반드시 `UTF-8` 인코딩을 사용합니다.
 - **언어 (Language)**: 사용자와의 모든 소통 및 `wiki/` 내 문서 작성은 **한국어**를 기본으로 합니다. 전문 용어의 경우 의미 전달을 위해 영문을 병기할 수 있습니다.
