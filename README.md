@@ -1,17 +1,26 @@
-# Quartz v4
+# 🏛️ AI Obsidian Knowledge Base
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> **에이전트 중심의 지식 허브 (Agent-Centric Knowledge Hub)**  
+> 외부의 정보를 수집하고 정제하여 나만의 지식 체계(Zettelkasten)로 구축하는 공간입니다.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+---
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## 🚀 Live Site
+공개된 지식 베이스를 확인해 보세요:  
+👉 **[https://jinhoops.github.io/ai-obsidian/](https://jinhoops.github.io/ai-obsidian/)**
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 📂 저장소 구조
+- **`content/wiki/`**: 정제된 지식 노트 (핵심)
+- **`content/raw/`**: 가공 전의 원시 데이터 보관소
+- **`content/output/`**: 에이전트가 생산한 최종 결과물
+- **`GEMINI.md`**: 지식 베이스 운영을 위한 AI 에이전트 규칙 (헌법)
 
-## Sponsors
+## 🛠️ 운영 안내
+이 저장소는 **Quartz 4** 프레임워크를 기반으로 하며, 다음과 같은 흐름으로 관리됩니다.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+1. **수집**: `content/raw/`에 정보 저장.
+2. **가공**: AI 에이전트가 `GEMINI.md` 지침에 따라 `wiki/` 노드로 컴파일.
+3. **배포**: GitHub Actions를 통해 `main` 브랜치 푸시 시 자동 배포.
+
+---
+*Built with ❤️ and [Quartz 4](https://quartz.jzhao.xyz/)*
