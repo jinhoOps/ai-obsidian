@@ -1,1 +1,7 @@
-{}
+{
+  "userIgnoreFilters": [
+    "quartz/",
+    "node_modules/",
+    "docs/"
+  ]
+}
