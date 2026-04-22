@@ -1,4 +1,5 @@
 ---
+title: 🏛️ Master Knowledge Index
 type: index
 created: 2026-04-22
 status: evergreen
