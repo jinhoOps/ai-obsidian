@@ -10,14 +10,14 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "AI Obsidian Knowledge Base",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "jinhoops.github.io/ai-obsidian",
-    ignorePatterns: ["private", "templates", ".obsidian", "raw", "output", "_raw", "_output"],
+    baseUrl: "https://jinhoops.github.io/ai-obsidian",
+    ignorePatterns: ["private", "templates", ".obsidian", "content/raw", "content/output"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
