@@ -58,4 +58,4 @@ Write-Host "성공: Antigravity 우클릭 메뉴가 등록되었습니다." -For
 ---
 **관련 노트:**
 - [[wiki/windows/_index|Windows 설정 인덱스]]
-- [[wiki/_master-index|마스터 인덱스]]
+- [[index|마스터 인덱스]]

@@ -2,7 +2,12 @@
 type: node
 created: 2026-04-16
 status: budding
-tags: [ai, software-3.0, harness, productivity, marketplace, executable-ssot]
+tags:
+  - ai
+  - harness
+  - productivity
+  - marketplace
+  - executable-ssot
 ---
 
 # 🏗️ Software 3.0 시대의 하네스와 조직 생산성

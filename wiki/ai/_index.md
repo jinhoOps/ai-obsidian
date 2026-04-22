@@ -18,4 +18,4 @@ tags: [ai, index]
 - [[wiki/ai/Obsidian_RAG_Methodology|Obsidian-RAG 방법론]]
 
 ---
-[[wiki/_master-index|🏠 마스터 인덱스로 돌아가기]]
+[[index|🏠 마스터 인덱스로 돌아가기]]

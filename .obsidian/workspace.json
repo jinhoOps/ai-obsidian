@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/_master-index.md",
+                "file": "GEMINI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_master-index"
+              "title": "GEMINI"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/_master-index.md",
+                "file": "GEMINI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_master-index 의 개요"
+              "title": "GEMINI 의 개요"
             }
           }
         ],
@@ -203,50 +203,49 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:그래프 뷰 열기": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-kanban:새 보드 만들기": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:빠른 전환기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "00e6794112b6990c",
   "lastOpenFiles": [
+    "wiki/_master-index.md",
+    "raw/archive/zettelkasten_principles.md",
+    "raw/archive",
+    "wiki/Zettelkasten_Principles.md",
+    "raw/zettelkasten_principles.md",
+    "index.md",
+    "log.md",
+    "wiki/ai/Software_3.0_Harness.md",
+    "wiki/ai/Obsidian_RAG_Methodology.md",
+    "wiki/windows/Antigravity_ContextMenu.md",
     "wiki/_agent_workflows.md",
     "wiki/_system_overview.md",
-    "wiki/_master-index.md",
-    "wiki/windows/Antigravity_ContextMenu.md",
+    "GEMINI.md",
+    "wiki/git_collaboration_guide.md",
     "wiki/windows/_index.md",
-    "wiki/ai/Software_3.0_Harness.md",
     "wiki/ai/Harness_Engineering.md",
     "wiki/ai/Free-code_Setup.md",
     "wiki/ai/AI_Development_Timeline.md",
     "wiki/ai/AI_Collaboration_Evolution.md",
-    "wiki/ai/Obsidian_RAG_Methodology.md",
     "raw/Prompt-Context-Harness-Evolution.md",
     "raw/archive/Prompt-Context-Harness-Evolution.md",
     "raw/archive/Software 3.0 시대, Harness를 통한 조직 생산성 저점 높이기.md",
     "raw/archive/free-code 설치 및 사용 방법  OpenAI Codex를 Claude Code 터미널 감각으로 붙이는 법.md",
     "wiki/ai/_index.md",
-    "GEMINI.md",
     "raw/free-code 설치 및 사용 방법  OpenAI Codex를 Claude Code 터미널 감각으로 붙이는 법.md",
     "raw/Software 3.0 시대, Harness를 통한 조직 생산성 저점 높이기.md",
     "raw/Software 3.0 시대, Harness를 통한 조직 생산성 저점 높이기 1.md",
-    "raw/HARNESS_ENGINEERING_GUIDE.md",
     "raw/archive/Harness_Engineering_ppt.pptx",
-    "raw/archive/HARNESS_ENGINEERING_GUIDE.md",
-    "raw/_HARNESS_ENGINEERING_GUIDE.md",
     "raw/Harness_Engineering_ppt.pptx",
     "raw/archive/Harness_Engineering.pptx",
     "raw/Harness_Engineering.pptx",
-    "wiki/ai/Gstack_Harness_Engineering.md",
-    "raw/archive/하네스 엔지니어링 - gstack(혼자서 팀처럼 개발하기) 리뷰  Garry Tan의 Claude Code 셋업을 내 프로젝트에 적용하는 법.md",
-    "raw/Where teams and agents work together.md",
     "wiki/ai",
     "wiki/windows"
   ]

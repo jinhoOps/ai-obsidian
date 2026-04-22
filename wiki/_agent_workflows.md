@@ -22,4 +22,4 @@ tags: [workflow, meta]
 - 처리가 완료된 `raw/` 파일을 `raw/archive/`로 이동
 
 ---
-[[wiki/_master-index|🏠 마스터 인덱스로 돌아가기]]
+[[index|🏠 마스터 인덱스로 돌아가기]]

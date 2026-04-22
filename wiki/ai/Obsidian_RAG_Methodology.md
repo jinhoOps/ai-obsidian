@@ -37,5 +37,5 @@ Andrej Karpathy의 지식 관리 방식에서 영감을 받은, 벡터 데이터
 ---
 **참고 링크:**
 - [[wiki/ai/_index|AI 지식 인덱스]]
-- [[wiki/_master-index|마스터 인덱스]]
+- [[index|마스터 인덱스]]
 - [원본 출처](https://wikidocs.net/289873)
