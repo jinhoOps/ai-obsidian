@@ -13,10 +13,12 @@ tags: [master, index]
 ## 📂 주요 지식 카테고리
 - [[wiki/ai/_index|AI 지식 인덱스]]
 - [[wiki/windows/_index|Windows 설정 인덱스]]
+- [[wiki/security/_index|보안 공지 인덱스 (KISA)]]
 - [[wiki/_system_overview|시스템 개요]]
 - [[wiki/_agent_workflows|에이전트 워크플로우]]
 
 ## ⚡ 최근 업데이트 (Latest)
+- [2026-04-22] `지식 복리 효과`, `PARA vs Zettelkasten`, `KISA 보안 공지` 컴파일 완료.
 - [2026-04-22] `Zettelkasten 원칙` 신규 노드 추가 및 인제스트 테스트 완료.
 - [2026-04-22] Zettelkasten 시스템 셋업 완료 및 `log.md`, `index.md` 초기화.
 - [2026-04-16] `AI 협업의 진화` 및 `Software 3.0 하네스` 관련 노드 추가.

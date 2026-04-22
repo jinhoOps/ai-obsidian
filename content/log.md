@@ -2,6 +2,13 @@
 
 This file tracks all autonomous actions performed by the Gemini CLI within this knowledge base.
 
+## [2026-04-22] compile | Multi-node Ingestion
+- Processed `raw/지식_복리_효과의_원리.md` -> `wiki/Knowledge_Compounding.md`.
+- Processed `raw/para-dilemma.md` -> `wiki/PARA_vs_Zettelkasten.md`.
+- Processed `raw/KISA_Security_Skill/` -> `wiki/security/` (3 nodes).
+- Updated `index.md` with new categories and latest activity.
+- Archived all processed raw sources.
+
 ## [2026-04-22] initialize | Setup tracking files
 - Created `log.md` to track system operations.
 - Synchronized `GEMINI.md` with the Zettelkasten Setup Plan.
