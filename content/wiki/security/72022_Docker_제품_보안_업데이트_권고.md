@@ -2,6 +2,7 @@
 type: security-notice
 created: 2026-04-22
 tags: [security, kisa, notice]
+original_date: 2026-04-08
 ---
 # Docker 제품 보안 업데이트 권고
 

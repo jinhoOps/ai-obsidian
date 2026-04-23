@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00e6794112b6990c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "51ef7c18b342e878",
             "type": "leaf",
             "state": {
@@ -210,8 +200,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "00e6794112b6990c",
+  "active": "51ef7c18b342e878",
   "lastOpenFiles": [
+    "content/wiki/security/72033_Cisco_제품_보안_업데이트_권고.md",
+    "content/wiki/security/72032_NGINX_제품_보안_업데이트_권고.md",
+    "content/wiki/security/72029_고유가_피해_지원금_사칭_피싱_주의_권고.md",
+    "content/wiki/security/72028_국내_중소기업_신규_랜섬웨어_범죄_확산_권고.md",
+    "content/wiki/security/72027_카카오톡_사칭_악성코드_유포_주의권고.md",
+    "content/wiki/security/72026_MS_4월_보안_위협_정기_보안_업데이트_권고.md",
+    "content/wiki/security/72025_Adobe_제품_보안_업데이트_권고.md",
+    "content/wiki/security/72024_Apache_제품_보안_업데이트_권고.md",
+    "content/wiki/security/72023_기업뱅킹_전자금융SW_취약점_클리닝_서비스.md",
+    "content/wiki/security/72022_Docker_제품_보안_업데이트_권고.md",
+    "content/wiki/security/72014_개발도구_공급망_연쇄적_사이버_공격주의_권고.md",
+    "content/wiki/security/2026-03-20_72005_중동발_지정학적_긴장고조에_따른_사이버_위협_대응_강화_권고.md",
+    "content/wiki/security/72005_중동발_긴장고조_사이버_위협_대응_강화_권고.md",
+    "content/wiki/security/71998_IT_관리자_개발자_유틸리티_위장_악성코드_주의.md",
     "wiki/security/2026-04-17_72033_Cisco_제품_보안_업데이트_권고.md",
     "wiki/security/2026-04-17_72032_NGINX_제품_보안_업데이트_권고.md",
     "wiki/security/2026-04-16_72029__고유가_피해_지원금__사칭_피싱_주의_권고.md",
@@ -224,25 +228,11 @@
     "wiki/security/2026-04-08_72022_Docker_제품_보안_업데이트_권고.md",
     "wiki/security/2026-04-01_72014_개발도구_공급망을_통한_연쇄적_사이버_공격주의_권고.md",
     "wiki/security/2026-03-20_72005_중동발_지정학적_긴장고조에_따른_사이버_위협_대응_강화_권고.md",
-    "wiki/security/2026-03-11_71998_IT_관리자_개발자_대상_유틸리티_도구로_위장한_악성코드_유포_주의_권고.md",
-    "wiki/security/_index.md",
-    "raw/archive/KISA_Security_Skill/data/weekly/2026-W16.md",
-    "raw/archive/KISA_Security_Skill/data/weekly/2026-W15.md",
-    "raw/archive/KISA_Security_Skill/data/weekly/2026-W12.md",
-    "raw/archive/KISA_Security_Skill/data/weekly/2026-W11.md",
-    "raw/archive/KISA_Security_Skill/data/weekly/2026-W14.md",
     "raw/archive/KISA_Security_Skill/attachments/개발도구 공급망의 연쇄적 공격(Supply Chain Diffusion Attack) 헌팅가이드.pdf",
     "raw/archive/KISA_Security_Skill/attachments/Operation SearchStrike - IT 관리자 및 개발자 대상 유틸리티 위장 악성코드 감염 헌팅가이드.pdf",
     "raw/archive/KISA_Security_Skill/attachments/260416_[보안공지]_국내 중소기업 대상 신규 랜섬웨어 범죄 확산에 따른 보안 권고문.pdf",
     "raw/archive/KISA_Security_Skill/attachments/260413_고유가_피해지원금_지급_사칭_피싱_주의_권고.pdf",
     "raw/archive/KISA_Security_Skill/data/weekly",
-    "raw/archive/KISA_Security_Skill/data/2026-04-17_72033_Cisco 제품 보안 업데이트 권고.md",
-    "raw/archive/KISA_Security_Skill/data/2026-04-17_72032_NGINX 제품 보안 업데이트 권고.md",
-    "raw/archive/KISA_Security_Skill/data/2026-04-16_72029__고유가 피해 지원금” 사칭 피싱 주의 권고.md",
-    "raw/archive/KISA_Security_Skill/data/2026-04-15_72027_카카오톡 사칭 악성코드 유포 주의권고.md",
-    "raw/archive/KISA_Security_Skill/data/2026-04-16_72028_국내 중소기업 대상 신규 랜섬웨어 범죄 확산에 따른 보안 권고문.md",
-    "raw/archive/KISA_Security_Skill/data/2026-04-13_72025_Adobe 제품 보안 업데이트 권고.md",
-    "raw/archive/KISA_Security_Skill/data/2026-04-15_72026_MS 4월 보안 위협에 따른 정기 보안 업데이트 권고.md",
     "raw/archive/KISA_Security_Skill/data",
     "raw/archive/KISA_Security_Skill/attachments",
     "raw/archive/KISA_Security_Skill",
