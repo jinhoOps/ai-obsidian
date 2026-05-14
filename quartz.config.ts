@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "https://jinhoops.github.io/ai-obsidian",
-    ignorePatterns: ["private", "templates", ".obsidian", "raw", "output"],
+    ignorePatterns: ["private", "templates", ".obsidian", "raw", "output", "meta", "agents.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

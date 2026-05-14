@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Wiki_YouTube",
+  "behavior": "create",
+  "noteContentFormat": "# {{title}}\n\n> [!ABSTRACT] AI Ingest Instruction\n> 이 파일은 `raw/podcasts`에 저장된 영상 소스입니다.\n> 인제스트 시 영상의 핵심 통찰을 정리하고, 시각화가 필요한 부분을 제안하세요.\n\n## 메타데이터\n- 영상 URL: {{url}}\n- 채널: {{author}}\n- 수집일: {{date}}\n\n---\n\n{{content}}",
+  "description": "YouTube 영상 수집을 위한 LLM Wiki 템플릿",
+  "properties": [
+    { "name": "type", "value": "raw", "type": "text" },
+    { "name": "category", "value": "video", "type": "text" },
+    { "name": "source", "value": "{{url}}", "type": "text" },
+    { "name": "channel", "value": "{{author}}", "type": "text" },
+    { "name": "clipped_date", "value": "{{date}}", "type": "date" },
+    { "name": "tags", "value": "youtube, video, ingest-ready", "type": "multitext" }
+  ],
+  "triggers": [],
+  "noteNameFormat": "{{title}}",
+  "path": "raw/podcasts"
+}

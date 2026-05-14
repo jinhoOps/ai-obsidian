@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Wiki_Research",
+  "behavior": "create",
+  "noteContentFormat": "# {{title}}\n\n> [!ABSTRACT] AI Ingest Instruction\n> 이 파일은 `raw/research`에 저장된 학술/연구 자료입니다.\n> 인제스트 시 가설, 방법론, 주요 결과를 체계적으로 구조화하여 요약하세요.\n\n## 메타데이터\n- 원본 URL: {{url}}\n- 저자: {{author}}\n- 수집일: {{date}}\n\n---\n\n{{content}}",
+  "description": "학술지, 연구 보고서 수집을 위한 LLM Wiki 템플릿",
+  "properties": [
+    { "name": "type", "value": "raw", "type": "text" },
+    { "name": "category", "value": "research", "type": "text" },
+    { "name": "source", "value": "{{url}}", "type": "text" },
+    { "name": "authors", "value": "{{author}}", "type": "text" },
+    { "name": "clipped_date", "value": "{{date}}", "type": "date" },
+    { "name": "tags", "value": "research, ingest-ready", "type": "multitext" }
+  ],
+  "triggers": [],
+  "noteNameFormat": "{{title}}",
+  "path": "raw/research"
+}

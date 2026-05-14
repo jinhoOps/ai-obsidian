@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Wiki_Podcast",
+  "behavior": "create",
+  "noteContentFormat": "# {{title}}\n\n> [!ABSTRACT] AI Ingest Instruction\n> 이 파일은 `raw/podcasts`에 저장된 오디오/트랜스크립트 소스입니다.\n> 인제스트 시 주요 대화 내용과 결론을 요약하세요.\n\n## 메타데이터\n- 원본 URL: {{url}}\n- 쇼/에피소드: {{author}}\n- 수집일: {{date}}\n\n---\n\n{{content}}",
+  "description": "팟캐스트 및 오디오 수집을 위한 LLM Wiki 템플릿",
+  "properties": [
+    { "name": "type", "value": "raw", "type": "text" },
+    { "name": "category", "value": "podcast", "type": "text" },
+    { "name": "source", "value": "{{url}}", "type": "text" },
+    { "name": "show", "value": "{{author}}", "type": "text" },
+    { "name": "clipped_date", "value": "{{date}}", "type": "date" },
+    { "name": "tags", "value": "podcast, ingest-ready", "type": "multitext" }
+  ],
+  "triggers": [],
+  "noteNameFormat": "{{title}}",
+  "path": "raw/podcasts"
+}

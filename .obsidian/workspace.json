@@ -11,10 +11,14 @@
             "id": "51ef7c18b342e878",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -170,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/zero-native - Zig와 웹 UI로 데스크톱 + 모바일 앱 빌드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "zero-native - Zig와 웹 UI로 데스크톱 + 모바일 앱 빌드 의 개요"
             }
           }
         ],
@@ -200,43 +205,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "51ef7c18b342e878",
+  "active": "c1fd1305fcf6f8d6",
   "lastOpenFiles": [
-    "content/wiki/security/72033_Cisco_제품_보안_업데이트_권고.md",
-    "content/wiki/security/72032_NGINX_제품_보안_업데이트_권고.md",
-    "content/wiki/security/72029_고유가_피해_지원금_사칭_피싱_주의_권고.md",
-    "content/wiki/security/72028_국내_중소기업_신규_랜섬웨어_범죄_확산_권고.md",
-    "content/wiki/security/72027_카카오톡_사칭_악성코드_유포_주의권고.md",
-    "content/wiki/security/72026_MS_4월_보안_위협_정기_보안_업데이트_권고.md",
-    "content/wiki/security/72025_Adobe_제품_보안_업데이트_권고.md",
-    "content/wiki/security/72024_Apache_제품_보안_업데이트_권고.md",
-    "content/wiki/security/72023_기업뱅킹_전자금융SW_취약점_클리닝_서비스.md",
-    "content/wiki/security/72022_Docker_제품_보안_업데이트_권고.md",
-    "content/wiki/security/72014_개발도구_공급망_연쇄적_사이버_공격주의_권고.md",
-    "content/wiki/security/2026-03-20_72005_중동발_지정학적_긴장고조에_따른_사이버_위협_대응_강화_권고.md",
-    "content/wiki/security/72005_중동발_긴장고조_사이버_위협_대응_강화_권고.md",
-    "content/wiki/security/71998_IT_관리자_개발자_유틸리티_위장_악성코드_주의.md",
-    "wiki/security/2026-04-17_72033_Cisco_제품_보안_업데이트_권고.md",
-    "wiki/security/2026-04-17_72032_NGINX_제품_보안_업데이트_권고.md",
-    "wiki/security/2026-04-16_72029__고유가_피해_지원금__사칭_피싱_주의_권고.md",
-    "wiki/security/2026-04-16_72028_국내_중소기업_대상_신규_랜섬웨어_범죄_확산에_따른_보안_권고문.md",
-    "wiki/security/2026-04-15_72027_카카오톡_사칭_악성코드_유포_주의권고.md",
-    "wiki/security/2026-04-15_72026_MS_4월_보안_위협에_따른_정기_보안_업데이트_권고.md",
-    "wiki/security/2026-04-10_72024_Apache_제품_보안_업데이트_권고.md",
-    "wiki/security/2026-04-13_72025_Adobe_제품_보안_업데이트_권고.md",
-    "wiki/security/2026-04-09_72023_기업뱅킹_전자금융_소프트웨어_취약점_관련_클리닝_서비스_가동_안내.md",
-    "wiki/security/2026-04-08_72022_Docker_제품_보안_업데이트_권고.md",
-    "wiki/security/2026-04-01_72014_개발도구_공급망을_통한_연쇄적_사이버_공격주의_권고.md",
-    "wiki/security/2026-03-20_72005_중동발_지정학적_긴장고조에_따른_사이버_위협_대응_강화_권고.md",
-    "raw/archive/KISA_Security_Skill/attachments/개발도구 공급망의 연쇄적 공격(Supply Chain Diffusion Attack) 헌팅가이드.pdf",
-    "raw/archive/KISA_Security_Skill/attachments/Operation SearchStrike - IT 관리자 및 개발자 대상 유틸리티 위장 악성코드 감염 헌팅가이드.pdf",
-    "raw/archive/KISA_Security_Skill/attachments/260416_[보안공지]_국내 중소기업 대상 신규 랜섬웨어 범죄 확산에 따른 보안 권고문.pdf",
-    "raw/archive/KISA_Security_Skill/attachments/260413_고유가_피해지원금_지급_사칭_피싱_주의_권고.pdf",
-    "raw/archive/KISA_Security_Skill/data/weekly",
-    "raw/archive/KISA_Security_Skill/data",
-    "raw/archive/KISA_Security_Skill/attachments",
-    "raw/archive/KISA_Security_Skill",
-    "wiki/security",
-    "raw/Naver_Works_Board_Skill/data/4070000000192118304_업무자동화 피드백/attachments/4070000000192118636"
+    "content/wiki/concepts/wiki-architecture.md",
+    "content/meta/agents.md",
+    "content/output/agents.md",
+    "content/wiki/agents.md",
+    "content/raw/agents.md",
+    "content/wiki/sources/zero-native-framework.md",
+    "content/wiki/sources/superpowers-methodology.md",
+    "content/wiki/sources/senior-dev-complexity.md",
+    "content/wiki/sources/garry-tan-gstack.md",
+    "content/wiki/entities/zero-native.md",
+    "content/wiki/entities/garry-tan.md",
+    "content/wiki/concepts/virtual-engineering-team.md",
+    "content/wiki/entities/superpowers.md",
+    "content/wiki/entities/gstack.md",
+    "content/wiki/concepts/speed-vs-scale.md",
+    "content/wiki/concepts/senior-as-editor.md",
+    "content/wiki/concepts/complexity-management.md",
+    "content/wiki/sources",
+    "content/wiki/entities",
+    "content/wiki/log.md",
+    "content/wiki/index.md",
+    "content/wiki/concepts",
+    "content/wiki",
+    "content/raw/podcasts/index.md",
+    "content/raw/notes/index.md",
+    "content/raw/articles/시니어 개발자가 전문성을 전달하지 못하는 이유.md",
+    "content/raw/articles/zero-native - Zig와 웹 UI로 데스크톱 + 모바일 앱 빌드.md",
+    "content/raw/articles/obrasuperpowers An agentic skills framework & software development methodology that works 1.md",
+    "content/raw/articles/index.md",
+    "content/raw/articles/garrytangstack Use Garry Tan's exact Claude Code setup 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA.md",
+    "content/raw/research",
+    "content/raw/podcasts",
+    "content/raw/notes",
+    "content/raw/articles",
+    "content/raw/assets",
+    "content/raw"
   ]
 }
