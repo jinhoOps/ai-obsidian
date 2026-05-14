@@ -1,7 +1,7 @@
 # 🏛️ AI Obsidian Knowledge Base
 
 > **에이전트 중심의 지식 허브 (Agent-Centric Knowledge Hub)**  
-> 외부의 정보를 수집하고 정제하여 나만의 지식 체계(Zettelkasten)로 구축하는 공간입니다.
+> 정보를 수집하고 정제하여 나만의 지식 체계로 구축하는 공간입니다.
 
 ---
 
