@@ -14,5 +14,5 @@
   ],
   "triggers": [],
   "noteNameFormat": "{{title}}",
-  "path": "raw/articles"
+  "path": "content/raw/articles"
 }

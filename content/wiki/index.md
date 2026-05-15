@@ -10,18 +10,28 @@
 ### 🏷️ 엔티티 (Entities)
 - [[anthropic]] (Anthropic)
 - [[claude-code]] (Claude Code)
+- [[free-code]] (Free-Code)
 - [[garry-tan]] (Garry Tan)
+- [[goddaehee]] (갓대희)
+- [[gsd]] (v1)
+- [[gsd2]] (v2)
 - [[gstack]]
 - [[mitchell-hashimoto]] (Mitchell Hashimoto)
+- [[oh-my-opencode]]
 - [[openai]] (OpenAI)
+- [[opencode]] (OpenCode)
 - [[superpowers]]
 - [[zero-native]]
 
 ### 💡 개념 (Concepts)
+- [[aggressive-delegation]] (공격적 위임)
 - [[complexity-management]] (복잡성 관리)
+- [[context-persistence]]
+- [[design-md]] (DESIGN.md)
 - [[executable-ssot]] (실행 가능한 SSOT)
 - [[harness-engineering]] (하네스 엔지니어링)
 - [[knowledge-compounding]] (지식 복리 효과)
+- [[milestone-phase-task]]
 - [[senior-as-editor]] (편집자로서의 시니어)
 - [[speed-vs-scale]] (속도와 확장성의 분리)
 - [[virtual-engineering-team]] (가상 엔지니어링 팀)
@@ -32,10 +42,18 @@
 _아직 페이지가 없습니다._
 
 ### 📄 소스 요약 (Source Summaries)
+- [[ai-collaboration-evolution]] (AI 협업의 진화: 프롬프트에서 하네스까지)
 - [[ai-development-timeline]] (AI 주요 개념 발전 타임라인)
+- [[awesome-design-md]] (Awesome DESIGN.md)
+- [[free-code-guide]] (free-code 설치 및 사용 가이드)
 - [[garry-tan-gstack]] (gstack: Garry Tan's AI Engineering Stack)
+- [[gsd-article]] (6-3. gsd — Get Shit Done 프로젝트 관리)
+- [[gsd-readme]] (GET SHIT DONE (GSD) README)
 - [[harness-engineering-deep-dive]] (하네스 엔지니어링 심층 분석)
 - [[knowledge-compounding-principle]] (지식 복리 효과의 원리)
+- [[oh-my-opencode-review]] (OpenCode 리뷰(2) : oh-my-opencode와 Sisyphus)
+- [[opencode-official]] (오픈 소스 AI 코딩 에이전트 (OpenCode))
+- [[opencode-review-1]] (OpenCode 리뷰(1) : 설치 및 기본 설정)
 - [[senior-dev-complexity]] (시니어 개발자와 AI: 복잡성 관리와 속도의 분리)
 - [[software-3-0-harness]] (Software 3.0 시대의 하네스와 조직 생산성)
 - [[superpowers-methodology]] (Superpowers: An agentic skills framework)
@@ -48,6 +66,6 @@ _아직 페이지가 없습니다._
 ---
 
 ## 통계
-- **총 페이지 수**: 26
-- **총 ingest된 소스 수**: 9
+- **총 페이지 수**: 44
+- **총 ingest된 소스 수**: 17
 - **마지막 업데이트**: 2026-05-15
