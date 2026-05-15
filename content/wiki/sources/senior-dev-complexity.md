@@ -16,7 +16,7 @@ GeekNews(Hada.io)에 올라온 아티클로, AI 시대에 시니어 개발자가
 
 ### 1. 복잡성 관리 vs 불확실성 감소
 - **시니어 개발자**: 시스템의 [[Complexity Management]]를 통해 안정성을 유지하려 함.
-- **비즈니스 조직**: 빠른 시장 학습을 통해 [[Uncertainty Reduction]]를 추구함.
+- **비즈니스 조직**: 빠른 시장 학습을 통해 Uncertainty Reduction를 추구함.
 - **해결책**: 기술적 해법을 비즈니스적 가치(더 빠른 실험 가능성)로 표현해야 함.
 
 ### 2. Speed와 Scale의 분리
@@ -28,7 +28,7 @@ GeekNews(Hada.io)에 올라온 아티클로, AI 시대에 시니어 개발자가
 - 상대의 속도 욕구를 인정하면서도, 복잡성을 줄이고 기존 자원을 재사용할 수 있는 대안을 제시하는 마법의 문장.
 
 ## 연결된 지식
-- **관련 인물**: [[Peter Naur]] (Theory Building), [[Andy Matuschak]]
+- **관련 인물**: Peter Naur (Theory Building), Andy Matuschak
 - **핵심 개념**: [[Complexity Management]], [[Senior as Editor]], [[Speed vs Scale]]
 
 ## 생각 및 메모

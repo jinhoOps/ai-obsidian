@@ -20,7 +20,7 @@ Jesse Vincent가 개발한 AI 에이전트용 소프트웨어 개발 방법론�
 - **Subagent-Driven Development**: 독립적인 서브에이전트가 각 작업을 수행하고 리뷰어 에이전트가 이를 검증.
 
 ### 2. 엄격한 TDD (Test-Driven Development)
-- [[Red-Green-Refactor]] 사이클을 도구 차원에서 강제.
+- Red-Green-Refactor 사이클을 도구 차원에서 강제.
 - 테스트 없이 작성된 코드는 에이전트가 스스로 삭제하거나 거부하도록 설계됨.
 
 ### 3. 주요 철학
@@ -28,8 +28,8 @@ Jesse Vincent가 개발한 AI 에이전트용 소프트웨어 개발 방법론�
 - **Evidence over claims**: 주장이 아닌 증거(테스트 결과)로 성공을 확인.
 
 ## 연결된 지식
-- **상위 개념**: [[AI-Driven Development]], [[Agentic Workflow]]
-- **비교 대상**: [[gstack]], [[GSD (Get Stuff Done)]]
+- **상위 개념**: AI-Driven Development, Agentic Workflow
+- **비교 대상**: gstack, GSD (Get Stuff Done)
 - **활용 계획**: `Stock Snowball` 프로젝트의 에이전트 구현 가이드라인에 반영 검토.
 
 ## 생각 및 메모

@@ -8,5 +8,9 @@
 - 저장 후 AI에게 `ingest` 요청
 
 ## 목록
-<!-- AI가 ingest 시 자동 업데이트 -->
-_아직 소스가 없습니다._
+- [[AI_Development_Timeline]]
+- [[Free-code_Setup]]
+- [[Harness_Engineering]]
+- [[Software_3.0_Harness]]
+- [[Zettelkasten Principles]]
+- [[지식 복리 효과의 원리]]

@@ -10,7 +10,7 @@ updated: 2026-05-14
 # Zero-Native: Zig 기반 데스크톱 앱 프레임워크
 
 ## 개요
-Vercel Labs에서 공개한 [[Zig]] 기반의 경량 데스크톱/모바일 앱 프레임워크인 [[Zero-Native]]에 대한 요약입니다. 기존의 Electron이나 Tauri와 유사하지만, Zig 언어의 특성을 살려 더 가볍고 빠른 성능을 지향합니다.
+Vercel Labs에서 공개한 Zig 기반의 경량 데스크톱/모바일 앱 프레임워크인 [[zero-native|Zero-Native]]에 대한 요약입니다. 기존의 Electron이나 Tauri와 유사하지만, Zig 언어의 특성을 살려 더 가볍고 빠른 성능을 지향합니다.
 
 ## 핵심 내용
 
@@ -24,8 +24,8 @@ Vercel Labs에서 공개한 [[Zig]] 기반의 경량 데스크톱/모바일 앱 
 - **JS-Zig Bridge**: `window.zero.invoke()`를 통해 안전한 통신 계층 제공.
 
 ## 연결된 지식
-- **경쟁 도구**: [[Tauri]] (Rust), [[Wails]] (Go), [[Electron]]
-- **기반 기술**: [[Zig]], [[WebView]]
+- **경쟁 도구**: Tauri (Rust), Wails (Go), Electron
+- **기반 기술**: Zig, WebView
 
 ## 생각 및 메모
 - 사용자는 경제 관련 프로젝트(`Stock Snowball`)의 데스크톱 앱 버전 제작을 위해 이 프레임워크의 도입 가능성을 열어두고 있습니다.

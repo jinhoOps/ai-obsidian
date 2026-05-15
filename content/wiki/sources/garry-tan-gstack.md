@@ -15,7 +15,7 @@ Y Combinator의 CEO Garry Tan이 공개한 AI 기반 소프트웨어 개발 방�
 ## 핵심 내용
 
 ### 1. 가상 엔지니어링 팀 (Virtual Engineering Team)
-AI 에이전트에게 [[CEO]], [[Designer]], [[Engineering Manager]], [[QA]] 등 23개의 세분화된 역할을 부여합니다. 이는 단순한 프롬프팅을 넘어, 각 역할에 맞는 엄격한 워크플로우를 강제하는 것을 의미합니다.
+AI 에이전트에게 CEO, Designer, Engineering Manager, QA 등 23개의 세분화된 역할을 부여합니다. 이는 단순한 프롬프팅을 넘어, 각 역할에 맞는 엄격한 워크플로우를 강제하는 것을 의미합니다.
 
 ### 2. 생산성 지표: Logical LOC
 AI가 생성하는 방대한 코드 양에 매몰되지 않고, 실제 제품의 가치를 변화시키는 '논리적 코드 변경'을 기준으로 생산성을 측정합니다. Garry Tan은 이를 통해 과거 대비 수백 배의 생산성 향상을 경험하고 있다고 주장합니다.
@@ -27,8 +27,8 @@ AI가 생성하는 방대한 코드 양에 매몰되지 않고, 실제 제품의
 - **Review/QA**: `/review`, `/qa`를 통한 실시간 브라우징 및 버그 수정
 
 ## 연결된 지식
-- **상위 개념**: [[AI-Driven Development]], [[Agentic Workflow]]
-- **비교 대상**: [[GSD (Get Stuff Done)]], [[Superpowers]]
+- **상위 개념**: AI-Driven Development, Agentic Workflow
+- **비교 대상**: GSD (Get Stuff Done), Superpowers
 - **활용 계획**: 경제 관련 개인 프로젝트 및 차기 개발 프로젝트에 도입 검토 중
 
 ## 생각 및 메모
