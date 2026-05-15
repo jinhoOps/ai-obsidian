@@ -15,9 +15,9 @@ Karpathy의 LLM Wiki 패턴을 기반으로 AI가 지식을 수집하고 연결�
 - **Skills**: `/ingest` (정보 수집) · `/query` (지식 탐색) · `/lint` (위키 정리)
 
 ### 🛠️ Tech Stack
-- **SSG**: Quartz 4 (GitHub Pages 배포)
+- **SSG**: [Quartz 4](https://quartz.jzhao.xyz/) (GitHub Pages 배포)
 - **Agent**: Gemini CLI (GEMINI.md 기반 운영)
-- **Tool**: Obsidian (Local Editor)
+- **Tool**: AntigravityIDE, Obsidian (Local Editor)
 
 ---
 *Built with ❤️ for Knowledge Management*
