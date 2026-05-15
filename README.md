@@ -2,7 +2,7 @@
 에이전트 중심의 지식 허브 (Agent-Centric Knowledge Hub)
 Karpathy의 LLM Wiki 패턴을 기반으로 AI가 지식을 수집하고 연결하는 공간입니다.
 
-👉 **[Live Site 바로가기](https://jinhoops.github.io/ai-obsidian/)**
+👉 **[Live Site : jinhoops.github.io/ai-obsidian/](https://jinhoops.github.io/ai-obsidian/)**
 
 ---
 
