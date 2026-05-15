@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "https://jinhoops.github.io/ai-obsidian",
+    baseUrl: "jinhoops.github.io/ai-obsidian",
     ignorePatterns: ["private", "templates", ".obsidian", "raw", "output", "meta", "agents.md"],
     defaultDateType: "modified",
     theme: {

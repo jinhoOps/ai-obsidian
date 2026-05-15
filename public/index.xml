@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>AI Obsidian Knowledge Base</title>
+      <link>https://jinhoops.github.io/ai-obsidian</link>
+      <description>최근 10 건 on AI Obsidian Knowledge Base</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>AI 지식 대리인 (AI Knowledge Base)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/</guid>
+    <description><![CDATA[ 🧠 AI 지식 대리인 (AI Knowledge Base) “지식은 공유될 때 더 크게 성장한다.” 이곳은 클라우드 엔지니어링의 기술적 논리와 경제 시스템의 흐름을 연결하는 비주얼 커넥터의 지식 위키입니다. ]]></description>
+    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/</guid>
+    <description><![CDATA[ 🧠 Wiki Index AI가 관리하는 지식 위키의 전체 카탈로그입니다. 새 소스를 ingest하거나 질문에 답할 때, AI는 이 인덱스를 먼저 읽고 관련 페이지를 탐색합니다. ]]></description>
+    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+  </item><item>
+    <title>log</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/log</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/log</guid>
+    <description><![CDATA[ 📋 Wiki Log 위키에서 일어난 모든 활동의 시간순 기록입니다. 각 항목은 ## [날짜] 작업유형 | 제목 형식으로 작성하여 파싱 가능하게 유지합니다. ]]></description>
+    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+  </item><item>
+    <title>나의 핵심맥락</title>
+    <link>https://jinhoops.github.io/ai-obsidian/%EB%82%98%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%A5%EB%9D%BD</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/%EB%82%98%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%A5%EB%9D%BD</guid>
+    <description><![CDATA[ 🧠 나의 맥락 요약 (My Core Context Summary) 페르소나: 지식의 가교 역할을 하는 ‘비주얼 커넥터’ 본질: 클라우드 엔지니어링의 기술적 논리와 경제 시스템 등의 흐름을 연결하여, 복잡한 지식을 누구나 이해하기 쉽게 시각화하고 풀이하는 지식 전달자. ]]></description>
+    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+  </item><item>
+    <title>복잡성 관리 (Complexity Management)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/complexity-management</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/complexity-management</guid>
+    <description><![CDATA[ 복잡성 관리 (Complexity Management) 개념 정의 시스템이 성장함에 따라 필연적으로 증가하는 엔트로피를 억제하고, 코드가 계속해서 이해 가능하고(Understandable), 수정 가능하며(Modifiable), 디버깅 가능하도록(Debuggable) 유지하는 시니어 개발자의 핵심 역량입니다. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>편집자로서의 시니어 (Senior as Editor)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/senior-as-editor</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/senior-as-editor</guid>
+    <description><![CDATA[ 편집자로서의 시니어 (Senior as Editor) 개념 정의 AI 에이전트가 코드의 초고를 대량으로 생산하는 시대에, 시니어 개발자의 정체성이 ‘코드 작성자(Writer)‘에서 ‘코드 편집자(Editor)‘로 변화함을 뜻하는 개념입니다. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>속도와 확장성의 분리 (Speed vs Scale)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/speed-vs-scale</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/speed-vs-scale</guid>
+    <description><![CDATA[ 속도와 확장성의 분리 (Speed vs Scale) 개념 정의 하나의 시스템에서 속도(빠른 실험)와 확장성(안정적인 운영)을 동시에 달성하려 할 때 발생하는 갈등을 해결하기 위해, 두 목표를 명시적으로 분리하여 운영하는 아키텍처 전략입니다. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>가상 엔지니어링 팀 (Virtual Engineering Team)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/virtual-engineering-team</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/virtual-engineering-team</guid>
+    <description><![CDATA[ 가상 엔지니어링 팀 (Virtual Engineering Team) 개념 정의 단일 AI 에이전트에게 한정된 역할을 주는 대신, 소프트웨어 개발 라이프사이클의 각 단계마다 전문화된 여러 페르소나(Persona)를 부여하여 협업하게 하는 전략적 워크플로우입니다. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>위키 아키텍처 (Wiki Architecture)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/wiki-architecture</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/wiki-architecture</guid>
+    <description><![CDATA[ 위키 아키텍처 (Wiki Architecture) Karpathy의 “LLM Wiki” 패턴을 기반으로 한 개인 지식 베이스. 핵심 원리: RAG처럼 매번 재탐색하지 않고, AI가 영구적으로 컴파일된 위키를 점진적으로 구축·유지한다. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Garry Tan (개리 탄)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/entities/garry-tan</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/entities/garry-tan</guid>
+    <description><![CDATA[ Garry Tan 인물 개요 현재 Y Combinator의 CEO이자 사장입니다. Palantir의 초기 멤버였으며, Posterous를 공동 창업했습니다. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
