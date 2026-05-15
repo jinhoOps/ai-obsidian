@@ -1,26 +1,23 @@
 # 🏛️ AI Obsidian Knowledge Base
+에이전트 중심의 지식 허브 (Agent-Centric Knowledge Hub)
+Karpathy의 LLM Wiki 패턴을 기반으로 AI가 지식을 수집하고 연결하는 공간입니다.
 
-> **에이전트 중심의 지식 허브 (Agent-Centric Knowledge Hub)**  
-> 정보를 수집하고 정제하여 나만의 지식 체계로 구축하는 공간입니다.
-
----
-
-## 🚀 Live Site
-공개된 지식 베이스를 확인해 보세요:  
-👉 **[https://jinhoops.github.io/ai-obsidian/](https://jinhoops.github.io/ai-obsidian/)**
-
-## 📂 저장소 구조
-- **`content/wiki/`**: 정제된 지식 노트 (핵심)
-- **`content/raw/`**: 가공 전의 원시 데이터 보관소
-- **`content/output/`**: 에이전트가 생산한 최종 결과물
-- **`GEMINI.md`**: 지식 베이스 운영을 위한 AI 에이전트 규칙 (헌법)
-
-## 🛠️ 운영 안내
-이 저장소는 **Quartz 4** 프레임워크를 기반으로 하며, 다음과 같은 흐름으로 관리됩니다.
-
-1. **수집**: `content/raw/`에 정보 저장.
-2. **가공**: AI 에이전트가 `GEMINI.md` 지침에 따라 `wiki/` 노드로 컴파일.
-3. **배포**: GitHub Actions를 통해 `main` 브랜치 푸시 시 자동 배포.
+👉 **[Live Site 바로가기](https://jinhoops.github.io/ai-obsidian/)**
 
 ---
-*Built with ❤️ and [Quartz 4](https://quartz.jzhao.xyz/)*
+
+### 🏗️ Architecture (LLM Wiki)
+- **Layer**: `content/raw/` (불변 원본) → `content/wiki/` (AI 정제) → `content/output/` (최종 결과물)
+- **Process**: 에이전트가 정보를 컴파일하여 Obsidian 기반 지식 체계 구축
+
+### 🤖 Agent Team & Workflow
+- **Team**: `@connector`, `@ingestor`, `@librarian`, `@synthesizer`
+- **Skills**: `/ingest` (정보 수집) · `/query` (지식 탐색) · `/lint` (위키 정리)
+
+### 🛠️ Tech Stack
+- **SSG**: Quartz 4 (GitHub Pages 배포)
+- **Agent**: Gemini CLI (GEMINI.md 기반 운영)
+- **Tool**: Obsidian (Local Editor)
+
+---
+*Built with ❤️ for Knowledge Management*
