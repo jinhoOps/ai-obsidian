@@ -11,6 +11,9 @@
 | `podcasts/` | 팟캐스트, 영상, 강의 트랜스크립트 | [→ index](podcasts/index.md) |
 | `assets/` | 이미지, PDF, 데이터 파일 | [→ index](assets/index.md) |
 
+## 목록 (기타)
+- [[ai-rules.md]] - Raw Layer AI 운영 규칙
+
 ## 규칙
 - **불변성**: 한 번 저장된 소스는 수정하지 않음 (Source of Truth)
 - **파일명**: `YYYY-MM-DD_제목-요약.md` 형식 권장

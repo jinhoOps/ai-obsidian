@@ -29,6 +29,7 @@
 - [[complexity-management]] (복잡성 관리)
 - [[context-persistence]]
 - [[design-md]] (DESIGN.md)
+- [[devops]] (데브옵스)
 - [[executable-ssot]] (실행 가능한 SSOT)
 - [[harness-engineering]] (하네스 엔지니어링)
 - [[knowledge-compounding]] (지식 복리 효과)
@@ -47,6 +48,7 @@ _아직 페이지가 없습니다._
 - [[ai-development-timeline]] (AI 주요 개념 발전 타임라인)
 - [[awesome-design-md]] (Awesome DESIGN.md)
 - [[conversation-harness-insights]] (하네스와 에이전트 워크플로우에 대한 대화적 고찰)
+- [[devops-roadmap]] (데브옵스 로드맵)
 - [[free-code-guide]] (free-code 설치 및 사용 가이드)
 - [[garry-tan-gstack]] (gstack: Garry Tan's AI Engineering Stack)
 - [[gsd-article]] (6-3. gsd — Get Shit Done 프로젝트 관리)
@@ -57,6 +59,7 @@ _아직 페이지가 없습니다._
 - [[oh-my-opencode-review]] (OpenCode 리뷰(2) : oh-my-opencode와 Sisyphus)
 - [[opencode-official]] (오픈 소스 AI 코딩 에이전트 (OpenCode))
 - [[opencode-review-1]] (OpenCode 리뷰(1) : 설치 및 기본 설정)
+- [[raw-layer-rules]] (Raw Layer — AI 운영 규칙)
 - [[senior-dev-complexity]] (시니어 개발자와 AI: 복잡성 관리와 속도의 분리)
 - [[software-3-0-harness]] (Software 3.0 시대의 하네스와 조직 생산성)
 - [[superpowers-methodology]] (Superpowers: An agentic skills framework)
@@ -69,6 +72,6 @@ _아직 페이지가 없습니다._
 ---
 
 ## 통계
-- **총 페이지 수**: 47
-- **총 ingest된 소스 수**: 19
-- **마지막 업데이트**: 2026-05-18
+- **총 페이지 수**: 50
+- **총 ingest된 소스 수**: 21
+- **마지막 업데이트**: 2026-05-18 (lint 완료)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/raw/articles/Open Code 리뷰(1)  OpenCode 설치(oh-my-opencode 사전 학습) 및 설정, 기본 명령어 살펴보기.md",
+                "file": "content/wiki/graphify-out/GRAPH_REPORT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Code 리뷰(1)  OpenCode 설치(oh-my-opencode 사전 학습) 및 설정, 기본 명령어 살펴보기"
+              "title": "GRAPH_REPORT"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/raw/articles/Open Code 리뷰(1)  OpenCode 설치(oh-my-opencode 사전 학습) 및 설정, 기본 명령어 살펴보기.md",
+                "file": "content/wiki/graphify-out/GRAPH_REPORT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Open Code 리뷰(1)  OpenCode 설치(oh-my-opencode 사전 학습) 및 설정, 기본 명령어 살펴보기 의 개요"
+              "title": "GRAPH_REPORT 의 개요"
             }
           }
         ],
@@ -215,6 +215,14 @@
   },
   "active": "c7a612b32d4fd739",
   "lastOpenFiles": [
+    "graphify-out/GRAPH_REPORT.md",
+    "content/raw/notes/데브옵스 로드맵.md",
+    "content/wiki/concepts/devops.md",
+    "content/wiki/sources/devops-roadmap.md",
+    "content/wiki/sources/raw-layer-rules.md",
+    "content/raw/notes/industrial Computing.png",
+    "content/raw/notes/devopsRoadmap.png",
+    "content/raw/articles/Open Code 리뷰(1)  OpenCode 설치(oh-my-opencode 사전 학습) 및 설정, 기본 명령어 살펴보기.md",
     "content/raw/articles/6-3. gsd — Get Shit Done 프로젝트 관리.md",
     "content/raw/GET SHIT DONE README.ko-KR.md",
     "content/wiki/concepts/design-md.md",
@@ -228,7 +236,6 @@
     "content/wiki/sources/opencode-official.md",
     "content/wiki/sources/opencode-review-1.md",
     "content/raw/articles/Open Code 리뷰(2)  oh-my-opencode 설치 및 설정 방법(기본 명령어, 슬래시 명령어, 연동 방법 등) with Claude,OpenAI,Gemini.md",
-    "content/raw/articles/Open Code 리뷰(1)  OpenCode 설치(oh-my-opencode 사전 학습) 및 설정, 기본 명령어 살펴보기.md",
     "content/raw/articles/오픈 소스 AI 코딩 에이전트.md",
     "content/raw/articles/garrytangstack Use Garry Tan's exact Claude Code setup 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA.md",
     "content/meta/ai-rules.md",
@@ -236,11 +243,6 @@
     "content/wiki/entities/claude-code.md",
     "content/wiki/entities/openai.md",
     "content/wiki/entities/anthropic.md",
-    "content/wiki/entities/mitchell-hashimoto.md",
-    "content/wiki/concepts/zettelkasten.md",
-    "content/wiki/concepts/knowledge-compounding.md",
-    "content/wiki/concepts/executable-ssot.md",
-    "content/wiki/concepts/harness-engineering.md",
     "node_modules/postcss-value-parser/lib",
     "node_modules/sharp/src",
     "node_modules/fast-glob/out/utils",
