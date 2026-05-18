@@ -1,0 +1,1222 @@
+{
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\globals.d.ts": {
+    "mtime": 1778743717.570504,
+    "hash": "8a4938dee4503692d85c617fe83c4e92"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\index.d.ts": {
+    "mtime": 1778743717.570504,
+    "hash": "a2ea10a55ebc086a25c900d47895375b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz.config.ts": {
+    "mtime": 1778810937.4938872,
+    "hash": "ce3ca7f9a552cdb7391e389ffa789cd8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz.layout.ts": {
+    "mtime": 1778814605.8446772,
+    "hash": "8f9a20b68a5f4f0ef24b8330fe60a442"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\postscript.js": {
+    "mtime": 1778811169.0979965,
+    "hash": "8024e7719b6bdb5f35f7f1f064bf7d70"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\prescript.js": {
+    "mtime": 1778811169.0907502,
+    "hash": "7b9c9fdefb200a2ff7d250affbe6d793"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\bootstrap-cli.mjs": {
+    "mtime": 1778743717.574559,
+    "hash": "27de182d6268dc77433959fd513127e7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\bootstrap-worker.mjs": {
+    "mtime": 1778743717.5760646,
+    "hash": "a4568ef53c5d8e441b80940a2338585a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\build.ts": {
+    "mtime": 1778743717.5770721,
+    "hash": "861ec7607a5e647a9362296914df8a0e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\cfg.ts": {
+    "mtime": 1778743717.5775776,
+    "hash": "972ea8748644c54f35f872bccf8cf3b2"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\worker.ts": {
+    "mtime": 1778743717.7984762,
+    "hash": "f7d3aadcb76ce5de30b1d5e87f1f21ac"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\cli\\args.js": {
+    "mtime": 1778743717.57886,
+    "hash": "ca86f01e63dc65ff7fd0be912f30644c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\cli\\constants.js": {
+    "mtime": 1778743717.5803664,
+    "hash": "32c014d43fd0aed7eefecaf454decde6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\cli\\handlers.js": {
+    "mtime": 1778743717.5813725,
+    "hash": "debc9ae5f494bcbf96dfa6a9bad06b9e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\cli\\helpers.js": {
+    "mtime": 1778743717.5833797,
+    "hash": "9ec7f4de0475c6160b13a4ae32952c56"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\ArticleTitle.tsx": {
+    "mtime": 1778743717.5843792,
+    "hash": "c3676bd09a83f641cf59a8c61658df7e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Backlinks.tsx": {
+    "mtime": 1778743717.58538,
+    "hash": "f0c48eb6a675c4aefd6eccbde4f3ebd6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Body.tsx": {
+    "mtime": 1778743717.5858898,
+    "hash": "babe408c7da74dbf3f4ee33d7c3a9b1e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Breadcrumbs.tsx": {
+    "mtime": 1778743717.5873957,
+    "hash": "0b78d2b0186d3b9541ef860064ccb267"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Comments.tsx": {
+    "mtime": 1778743717.5873957,
+    "hash": "408de52eda30a141ccbbe31ace9effab"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\ConditionalRender.tsx": {
+    "mtime": 1778743717.5884027,
+    "hash": "794513ac7a1f409e1ed6f443106dfa56"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\ContentMeta.tsx": {
+    "mtime": 1778743717.589403,
+    "hash": "d9c6915dcf252b7cf496a1f5f09f129c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Darkmode.tsx": {
+    "mtime": 1778743717.590403,
+    "hash": "6a9ae38a80b2adcd2e7cbeebd0cd91be"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Date.tsx": {
+    "mtime": 1778743717.5914028,
+    "hash": "41d250b49254e97257ce0e0cfe8b2ea3"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\DesktopOnly.tsx": {
+    "mtime": 1778743717.591911,
+    "hash": "fbb65f062a07c0b9b4ef7a2929485675"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Explorer.tsx": {
+    "mtime": 1778743717.5929143,
+    "hash": "0c626b0de3483fc197675c47ea576802"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Flex.tsx": {
+    "mtime": 1778743717.5944202,
+    "hash": "bbf5d4ce862190a666e20d6d4d981a20"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Footer.tsx": {
+    "mtime": 1778743717.5954258,
+    "hash": "235fe36a95188f026565ca1084b38f7d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Graph.tsx": {
+    "mtime": 1778743717.5954258,
+    "hash": "faa6a01e51ad940fe78b66a88894e038"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Head.tsx": {
+    "mtime": 1778743717.596978,
+    "hash": "a0ca8f8c40f4ee3b6f0f3ab510c5802b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Header.tsx": {
+    "mtime": 1778743717.5979848,
+    "hash": "8e81f5a8295ee39a46924e19b25856ac"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\index.ts": {
+    "mtime": 1778743717.6062086,
+    "hash": "80eb223728d76a8afd4fe160f2d63a85"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\MobileOnly.tsx": {
+    "mtime": 1778743717.5985508,
+    "hash": "464b90f150fe3b5796095e9b00e0e8ba"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\OverflowList.tsx": {
+    "mtime": 1778743717.5990903,
+    "hash": "8ad0dd1fa0a60e4c32469350e694f0c7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\PageList.tsx": {
+    "mtime": 1778743717.6000967,
+    "hash": "464cf79c6fb20fddbacf41bb85ab0286"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\PageTitle.tsx": {
+    "mtime": 1778743717.6011307,
+    "hash": "2cc36830d107c325e578814ee61c6f57"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\ReaderMode.tsx": {
+    "mtime": 1778743717.6016366,
+    "hash": "278a3cad28548cfecb982254807178e9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\RecentNotes.tsx": {
+    "mtime": 1778743717.60315,
+    "hash": "c7902392b2273e337b869b90c00da6ff"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\renderPage.tsx": {
+    "mtime": 1778743717.6119306,
+    "hash": "7332722fc00d2ce4511f0240348a4b0d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Search.tsx": {
+    "mtime": 1778743717.60315,
+    "hash": "7ee59f389a54c2e81aa425f2bfc69b5a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\Spacer.tsx": {
+    "mtime": 1778743717.6041565,
+    "hash": "bd27b6675b6868a0979e6c761f7df229"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\TableOfContents.tsx": {
+    "mtime": 1778743717.6041565,
+    "hash": "60b75ca66b3424f39c4b22a9537e7d9b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\TagList.tsx": {
+    "mtime": 1778743717.6062086,
+    "hash": "13581a34526e56b47158a8a25c802a0b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\types.ts": {
+    "mtime": 1778743717.6397207,
+    "hash": "855d898740e2161baea77c73f4567b40"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\pages\\404.tsx": {
+    "mtime": 1778743717.607215,
+    "hash": "90ecff41c2289d1e3ad1b0db892678d7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\pages\\Content.tsx": {
+    "mtime": 1778743717.6084137,
+    "hash": "809eed6c96ae684efba229f4ec0bdccf"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\pages\\FolderContent.tsx": {
+    "mtime": 1778743717.60942,
+    "hash": "df9860f5e0c811346e15610827e46b7c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\pages\\TagContent.tsx": {
+    "mtime": 1778743717.6109233,
+    "hash": "807fbf7767f7f2fc0545272d90422fce"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\callout.inline.ts": {
+    "mtime": 1778743717.6129298,
+    "hash": "709f8484d0c37112f5451b0c8c61bb27"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\checkbox.inline.ts": {
+    "mtime": 1778743717.6139288,
+    "hash": "019fb82b340f4f37b14fded7ae9eb0ed"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\clipboard.inline.ts": {
+    "mtime": 1778743717.6139288,
+    "hash": "e3ecac16e0cc2b720ebc3b8083df5415"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\comments.inline.ts": {
+    "mtime": 1778743717.6149306,
+    "hash": "db914b4fca7561ec3c8145de0b7badac"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\darkmode.inline.ts": {
+    "mtime": 1778743717.6149306,
+    "hash": "b372759f38d419ea1b559b8d1775f860"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\explorer.inline.ts": {
+    "mtime": 1778743717.6164367,
+    "hash": "0fc50b096e2794ea4f809822c3fc1c53"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\graph.inline.ts": {
+    "mtime": 1778743717.6179514,
+    "hash": "6b17f1b4a28c6723dce4a389dc3b314f"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\mermaid.inline.ts": {
+    "mtime": 1778743717.6189547,
+    "hash": "e3744729b41e3d2ef443de1b2c9d5777"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\popover.inline.ts": {
+    "mtime": 1778743717.6204605,
+    "hash": "2e735162b964974c3752210985b26d7b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\readermode.inline.ts": {
+    "mtime": 1778743717.6204605,
+    "hash": "af1a0fc8b1079f97e45b19e2aebfe613"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\search.inline.ts": {
+    "mtime": 1778743717.6229815,
+    "hash": "cf7f65b2a8011a0e3b1d6204f7dda327"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\search.test.ts": {
+    "mtime": 1778743717.6234858,
+    "hash": "d9d6b4feebb6c4029938814585f9a72e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\spa.inline.ts": {
+    "mtime": 1778743717.6244936,
+    "hash": "b52a168328cd531b034b846563764b0a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\toc.inline.ts": {
+    "mtime": 1778743717.6254928,
+    "hash": "cb57592a04d7b7dd9c5021eea3749aeb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\components\\scripts\\util.ts": {
+    "mtime": 1778743717.6270003,
+    "hash": "51bec4a83cb5e865065e042669537470"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\index.ts": {
+    "mtime": 1778743717.6415203,
+    "hash": "165e5ee4da38ee1554eda7df102e422c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\ar-SA.ts": {
+    "mtime": 1778743717.6425436,
+    "hash": "e8c10a9afed66fdd4f00fc481f08eed8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\ca-ES.ts": {
+    "mtime": 1778743717.6435401,
+    "hash": "577315ffab97241f510db829f3f810ba"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\cs-CZ.ts": {
+    "mtime": 1778743717.6435401,
+    "hash": "33e71ed49a996b5ca62f93d5624b8461"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\de-DE.ts": {
+    "mtime": 1778743717.6450062,
+    "hash": "e280f226ff71d5d10874c44c4befd63d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\definition.ts": {
+    "mtime": 1778743717.6455092,
+    "hash": "73d8c0ff69823803932894f7f2ec87ab"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\en-GB.ts": {
+    "mtime": 1778743717.6455092,
+    "hash": "1d55c5b57d8ac7e14933b8c77ef75be8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\en-US.ts": {
+    "mtime": 1778743717.6470344,
+    "hash": "73c81a51d3c3fc956218098a19f0468c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\es-ES.ts": {
+    "mtime": 1778743717.6485734,
+    "hash": "fba48269466f716a3cf27272fec89660"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\fa-IR.ts": {
+    "mtime": 1778743717.6491497,
+    "hash": "8f7c811ea2b5609085673795b0c88ec1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\fi-FI.ts": {
+    "mtime": 1778743717.6501648,
+    "hash": "97b010d493349db83e65446fa151539b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\fr-FR.ts": {
+    "mtime": 1778743717.6501648,
+    "hash": "fb6ad17ac499bdb2a3d42d721a56d8db"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\he-IL.ts": {
+    "mtime": 1778743717.651778,
+    "hash": "a885d5d1d6cb138ee3567969525520bd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\hu-HU.ts": {
+    "mtime": 1778743717.651778,
+    "hash": "58aca22f2d363795b5c60c7e04ae04e1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\id-ID.ts": {
+    "mtime": 1778743717.6532993,
+    "hash": "ef2ec66f424a983a342a8fca17ac1392"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\it-IT.ts": {
+    "mtime": 1778743717.6543055,
+    "hash": "180e6fb2d583e3df8336a45bb5348245"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\ja-JP.ts": {
+    "mtime": 1778743717.6543055,
+    "hash": "f4a7242fd12079bf32dd5e9708a6bcbe"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\kk-KZ.ts": {
+    "mtime": 1778743717.6563597,
+    "hash": "67917321af036e6e527a65b8267a2fa8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\ko-KR.ts": {
+    "mtime": 1778743717.6563597,
+    "hash": "19914e0a0c2db6d380adb00e6ce00b41"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\lt-LT.ts": {
+    "mtime": 1778743717.6573653,
+    "hash": "cd3752d718a1302998153c3058d53ce7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\nb-NO.ts": {
+    "mtime": 1778743717.658397,
+    "hash": "992e2fcd5e10b22cb639c6acf9944287"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\nl-NL.ts": {
+    "mtime": 1778743717.659402,
+    "hash": "d1a2fbcd91de810d69c96e1a5d4fd22b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\pl-PL.ts": {
+    "mtime": 1778743717.659402,
+    "hash": "e1d1b241d5b244f42e12d06d28a7aef2"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\pt-BR.ts": {
+    "mtime": 1778743717.6609397,
+    "hash": "5019637363e8cbf6c151766083af1734"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\ro-RO.ts": {
+    "mtime": 1778743717.6609397,
+    "hash": "95f4e6307bd05c274d8fd527129f03ef"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\ru-RU.ts": {
+    "mtime": 1778743717.6619465,
+    "hash": "f3cc20db8ec6ce2c104903e58edc6570"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\th-TH.ts": {
+    "mtime": 1778743717.6619465,
+    "hash": "db731a68097b3bf876944d6f5dcaf17e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\tr-TR.ts": {
+    "mtime": 1778743717.6634486,
+    "hash": "f92772e835e34da7c60102f10eb5cf68"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\uk-UA.ts": {
+    "mtime": 1778743717.664452,
+    "hash": "3d314c7151c5ba6d7f540314411887f8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\vi-VN.ts": {
+    "mtime": 1778743717.6654592,
+    "hash": "45ce64338123163367c992af5e41f3b8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\zh-CN.ts": {
+    "mtime": 1778743717.6654592,
+    "hash": "5ab498ae4bb56c25631321c7ff1b8ae8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\i18n\\locales\\zh-TW.ts": {
+    "mtime": 1778743717.6664543,
+    "hash": "d6325a796c50f2482261d94125a9c511"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\index.ts": {
+    "mtime": 1778743717.6817076,
+    "hash": "ea6ce7fb140200893d5560c1d4f42dd8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\types.ts": {
+    "mtime": 1778743717.6939971,
+    "hash": "03d730464727231b3d0d2591fb49882d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\vfile.ts": {
+    "mtime": 1778743717.6955428,
+    "hash": "65573f6eb4926e363945f3755cac9dd0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\404.tsx": {
+    "mtime": 1778743717.6675713,
+    "hash": "725fd153b85fea5762d8043e39c64b88"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\aliases.ts": {
+    "mtime": 1778743717.6685781,
+    "hash": "f6e451ae4ea02d1bcbe6b4a8688e9a61"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\assets.ts": {
+    "mtime": 1778743717.669579,
+    "hash": "46917a9bd326524649b1c31585899323"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\cname.ts": {
+    "mtime": 1778743717.670586,
+    "hash": "541c9bff0de2a7fd1785152bbd36296f"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\componentResources.ts": {
+    "mtime": 1778743717.670586,
+    "hash": "12f266277145b19600b7a0b2515ca5dc"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\contentIndex.tsx": {
+    "mtime": 1778743717.6721506,
+    "hash": "0b27c578793408f2baa29cf924e17776"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\contentPage.tsx": {
+    "mtime": 1778743717.6731575,
+    "hash": "19cb2e65c3f339752ee65c1aa1077557"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\favicon.ts": {
+    "mtime": 1778743717.6741738,
+    "hash": "54a075543067bb08903d74b1a7f3c895"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\folderPage.tsx": {
+    "mtime": 1778743717.6746144,
+    "hash": "fff067c3a8b418fb66d4988c6d9b0ff0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\helpers.ts": {
+    "mtime": 1778743717.675619,
+    "hash": "2d8f409d87ba05581c5da5c485eda954"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\index.ts": {
+    "mtime": 1778743717.6761236,
+    "hash": "d2038b765d42997bb96693e0dbbbde5e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\ogImage.tsx": {
+    "mtime": 1778743717.6771288,
+    "hash": "799a77d5245bb5f36f070d47ae0bfade"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\static.ts": {
+    "mtime": 1778743717.6776538,
+    "hash": "b6e01e0a655f9f92ec32da98b586ca03"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\emitters\\tagPage.tsx": {
+    "mtime": 1778743717.678665,
+    "hash": "ad7869e0a76aabcdbd5977b48e0ef044"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\filters\\draft.ts": {
+    "mtime": 1778743717.6796787,
+    "hash": "7951df8c8307aa7a4588121cedc7a685"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\filters\\explicit.ts": {
+    "mtime": 1778743717.6801941,
+    "hash": "8f9704fe8dd175ea3505ef43c7a6624c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\filters\\index.ts": {
+    "mtime": 1778743717.6801941,
+    "hash": "55ee07ae19c6e2b1161cd037e4fc5e19"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\citations.ts": {
+    "mtime": 1778743717.6827195,
+    "hash": "7ffdb57e124a8422bcb571e740e6cf1d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\description.ts": {
+    "mtime": 1778743717.6827195,
+    "hash": "18e253c1ab128fee51a872908fcf8c4b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\frontmatter.ts": {
+    "mtime": 1778743717.6837194,
+    "hash": "ed7f63e3113ee1a5c44c51205d585a1b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\gfm.ts": {
+    "mtime": 1778743717.685436,
+    "hash": "b01793c966332796b8140d6be23eb95a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\index.ts": {
+    "mtime": 1778743717.6864522,
+    "hash": "f51b81b7f9f46128885ea31e35db7ad7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\lastmod.ts": {
+    "mtime": 1778743717.6864522,
+    "hash": "f465a2f32f00607b5cfd11fcf0dba1f4"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\latex.ts": {
+    "mtime": 1778743717.6879666,
+    "hash": "631f0346858c0b6d751681095bf3cca5"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\linebreaks.ts": {
+    "mtime": 1778743717.6889696,
+    "hash": "e01696b6744afb9a2f248d2e218e4850"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\links.ts": {
+    "mtime": 1778743717.6889696,
+    "hash": "c6ba8af3785d6dc12ed8b2a14ee3eb14"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\ofm.ts": {
+    "mtime": 1778743717.689971,
+    "hash": "667c605c66786b8975ed1974b86ed01c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\oxhugofm.ts": {
+    "mtime": 1778743717.6914837,
+    "hash": "84619d6088f64798180685ff8a6b484b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\roam.ts": {
+    "mtime": 1778743717.6924863,
+    "hash": "4ed1e496454a2de5f9e547de02319ed8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\syntax.ts": {
+    "mtime": 1778743717.6924863,
+    "hash": "bb934b4f5a081c82e2c26b332c0ecccf"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\plugins\\transformers\\toc.ts": {
+    "mtime": 1778743717.6939971,
+    "hash": "a55bf20a2149675c4d63c5913a701cfd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\processors\\emit.ts": {
+    "mtime": 1778743717.6955428,
+    "hash": "e276609a127cde6f1e43728de34a400e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\processors\\filter.ts": {
+    "mtime": 1778743717.6970975,
+    "hash": "2297b46b80282d047c2228b9a8dd0688"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\processors\\parse.ts": {
+    "mtime": 1778743717.698109,
+    "hash": "2f6da3277900661eeacdd081b3b66cbb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\clone.ts": {
+    "mtime": 1778743717.707017,
+    "hash": "b4f7050df12ad14c0883425ce9148b01"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\ctx.ts": {
+    "mtime": 1778743717.7080305,
+    "hash": "272b585ef19d639a2683f948d3b965a7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\emoji.ts": {
+    "mtime": 1778743717.7080305,
+    "hash": "9942b5892fe088d4eef22369459f2e83"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\escape.ts": {
+    "mtime": 1778743717.7862298,
+    "hash": "690c8fb09d750746ebe279d9de3f94cb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\fileTrie.test.ts": {
+    "mtime": 1778743717.7862298,
+    "hash": "34220cebe3c333401878875536e0a0fc"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\fileTrie.ts": {
+    "mtime": 1778743717.7883475,
+    "hash": "ab516b2d7ece712dd879afc2a0f653a5"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\glob.ts": {
+    "mtime": 1778743717.7893567,
+    "hash": "df53de999e68987764436d87b7b25a03"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\jsx.tsx": {
+    "mtime": 1778743717.7893567,
+    "hash": "cea0c0dff994fa949c7b752ee590f69a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\lang.ts": {
+    "mtime": 1778743717.7903569,
+    "hash": "94bf51cbf94a3a44c7c87e48ab149a4a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\log.ts": {
+    "mtime": 1778743717.791355,
+    "hash": "6cec9de590665aeeddf98d02d8b02b0b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\og.tsx": {
+    "mtime": 1778743717.792397,
+    "hash": "e3c92091722218be83fccdc2d836c06b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\path.test.ts": {
+    "mtime": 1778743717.792397,
+    "hash": "2267d587a12bb346f059152f16adb7c8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\path.ts": {
+    "mtime": 1778743717.7939003,
+    "hash": "539396500de7ecd0d4bf1b59e8b407f1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\perf.ts": {
+    "mtime": 1778743717.7939003,
+    "hash": "bdb417a9cfe49d5509bf116955513111"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\random.ts": {
+    "mtime": 1778743717.7954118,
+    "hash": "01df28c2f5f3133e0f0b89527d4c8149"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\resources.tsx": {
+    "mtime": 1778743717.7954118,
+    "hash": "a51a654d316a5bc2bcb5371d5c6679fe"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\sourcemap.ts": {
+    "mtime": 1778743717.7954118,
+    "hash": "3378f2533abd7182f43ae33366afe093"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\theme.ts": {
+    "mtime": 1778743717.796943,
+    "hash": "ee0d8871c626305774e1ab58420d1e75"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\util\\trace.ts": {
+    "mtime": 1778743717.7979465,
+    "hash": "3841b07cdf8437c60bbef6df31b63e9b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\CODE_OF_CONDUCT.md": {
+    "mtime": 1778743717.5283923,
+    "hash": "9bc7828b6a2906b05841f82b9546b05b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\GEMINI.md": {
+    "mtime": 1779064847.2369132,
+    "hash": "253af4bc0499ce9a07de4b8debd1512c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\LICENSE.txt": {
+    "mtime": 1778743717.5298977,
+    "hash": "db99912204d44bbfaa34f4eb8f04603c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\README.md": {
+    "mtime": 1778814298.030488,
+    "hash": "e474a06a964b37bf409dcfce25f36653"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\index.md": {
+    "mtime": 1778811108.2733674,
+    "hash": "316af31bc8288eac8c4e7748a5b6373c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\\ub098\uc758 \ud575\uc2ec\ub9e5\ub77d.md": {
+    "mtime": 1778743717.5695043,
+    "hash": "b988aedf788fb0de9cf9ca61960e4a12"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\meta\\ai-rules.md": {
+    "mtime": 1778743717.5334506,
+    "hash": "82fd5adff883cac250f9c5850433ef3e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\output\\ai-rules.md": {
+    "mtime": 1778743717.5384784,
+    "hash": "37a04c9343edead1caaafb2c9b1265e8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\output\\index.md": {
+    "mtime": 1778743717.5394783,
+    "hash": "4a65e4f580ae16ef74f8a9ed623441cc"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\ai-rules.md": {
+    "mtime": 1778743717.5394783,
+    "hash": "62245cd7e72725f158c91a397920e582"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\GET SHIT DONE README.ko-KR.md": {
+    "mtime": 1779064453.4183197,
+    "hash": "d4806d4611d1a7c32f0ebff2fafb4221"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\index.md": {
+    "mtime": 1778743717.551693,
+    "hash": "5b6313c35ea01bdbd426d09ec7266eea"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\6-3. gsd \u2014 Get Shit Done \ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac.md": {
+    "mtime": 1778825376.751413,
+    "hash": "26e3ab765c8b4a2e8f10354f70b3b2b9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\garrytangstack Use Garry Tan's exact Claude Code setup 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA.md": {
+    "mtime": 1778743717.5425003,
+    "hash": "8e0b6b6645610a13eb14a2c59230380d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\index.md": {
+    "mtime": 1778743717.5455208,
+    "hash": "d4d700a267df535fa099bec2a864cd8c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\obrasuperpowers An agentic skills framework & software development methodology that works 1.md": {
+    "mtime": 1778743717.5455208,
+    "hash": "ab05ca53f199b599e16988f572bfd5b1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md": {
+    "mtime": 1778822852.104267,
+    "hash": "89e8c82faf075b162ed684066bc665ad"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md": {
+    "mtime": 1778822818.0447278,
+    "hash": "e866789a6cecb9194d54f8d1859edd89"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\VoltAgentawesome-design-md A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.md": {
+    "mtime": 1778743717.5409846,
+    "hash": "67fdc2164b3a731c65831d9663af71e9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\zero-native - Zig\uc640 \uc6f9 UI\ub85c \ub370\uc2a4\ud06c\ud1b1 + \ubaa8\ubc14\uc77c \uc571 \ube4c\ub4dc.md": {
+    "mtime": 1778743717.5480986,
+    "hash": "1dc942db136503ab669d30d30c805e4d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\\uc2dc\ub2c8\uc5b4 \uac1c\ubc1c\uc790\uac00 \uc804\ubb38\uc131\uc744 \uc804\ub2ec\ud558\uc9c0 \ubabb\ud558\ub294 \uc774\uc720.md": {
+    "mtime": 1778743717.5491724,
+    "hash": "78b005073b848bc8493240db05421e10"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\\uc624\ud508 \uc18c\uc2a4 AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8.md": {
+    "mtime": 1778822814.9417293,
+    "hash": "19ee845ec9ae3cbbef40675023746c87"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\assets\\index.md": {
+    "mtime": 1778743717.5506868,
+    "hash": "43f06544f7de90397ad4e9a8eeecb988"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\AI \uc8fc\uc694 \uac1c\ub150 \ubc1c\uc804 \ud0c0\uc784\ub77c\uc778.md": {
+    "mtime": 1778811655.7366261,
+    "hash": "618c76691440796cbb02990293632d07"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\AI_Collaboration_Evolution.md": {
+    "mtime": 1778811671.704258,
+    "hash": "30cec46c36f4f1ed0ac82ac66f960554"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\AI_Development_Timeline.md": {
+    "mtime": 1778811728.1738577,
+    "hash": "7cf237fbb79958804e1260404b8c0b2a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\conversation-harness-insights.md": {
+    "mtime": 1779067175.0219684,
+    "hash": "39f3ca200eb4baa587d5cf0cbb7af222"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\Free-code_Setup.md": {
+    "mtime": 1778811728.2390842,
+    "hash": "e087a2196ea66ca621a8dd46320be0f6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\Harness_Engineering.md": {
+    "mtime": 1778812186.6931076,
+    "hash": "adec64eef810d263ccb374f836b1b33e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\index.md": {
+    "mtime": 1779066631.921234,
+    "hash": "e5660c2d5ba5df8f378f1ac8de8ad9f6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\Software_3.0_Harness.md": {
+    "mtime": 1778811746.0808926,
+    "hash": "6f0443f11286fdd10c72069c3a10ccb0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\Zettelkasten Principles.md": {
+    "mtime": 1778811530.2888234,
+    "hash": "177fb8b219af1ed74b4cab043722a8dd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\\uc9c0\uc2dd \ubcf5\ub9ac \ud6a8\uacfc\uc758 \uc6d0\ub9ac.md": {
+    "mtime": 1778811515.7366211,
+    "hash": "374846a405c4c000481116942dc00072"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\\ud558\ub124\uc2a4-\uc5d0\uc774\uc804\ud2b8\uc6cc\ud06c\ud50c\ub85c\uc6b0.md": {
+    "mtime": 1779069466.938768,
+    "hash": "a7e051f21827c510de58a54f95a82577"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\podcasts\\index.md": {
+    "mtime": 1778743717.553208,
+    "hash": "c5d95f25de07b115416009189f57e63c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\ai-rules.md": {
+    "mtime": 1778743717.5542195,
+    "hash": "bc9c1bbbb40dd2930c0d57bcef5052ff"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\index.md": {
+    "mtime": 1779067252.7599287,
+    "hash": "b0c69eb41de92e8b72ed22d9985b1e0e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\log.md": {
+    "mtime": 1779067258.5326693,
+    "hash": "d14a65b2789a691d7b5d74cc58e32718"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\agentic-workflow.md": {
+    "mtime": 1779066943.928867,
+    "hash": "729d0b8b53d5ad734466bebf4ef8f5b2"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\aggressive-delegation.md": {
+    "mtime": 1778823190.589798,
+    "hash": "bcb8845ee6166491057880ade6e1041c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\complexity-management.md": {
+    "mtime": 1778743717.5562878,
+    "hash": "28eb424e31ca6179402745cdd63156a1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\design-md.md": {
+    "mtime": 1778823190.589798,
+    "hash": "7e74a5bd0ba4d7f36211b2e6148bbe5e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\executable-ssot.md": {
+    "mtime": 1778813562.3463087,
+    "hash": "cb3c5d60ce754d33cacc178adbee0976"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\harness-engineering.md": {
+    "mtime": 1779067241.6335077,
+    "hash": "a6e8fd33cba44fa3136b42cbfb916a38"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\knowledge-compounding.md": {
+    "mtime": 1778812588.3351667,
+    "hash": "557209c238489c13c8624294cae7bebd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\senior-as-editor.md": {
+    "mtime": 1778743717.5562878,
+    "hash": "7074e04fed54d63b8bb08ba17d2186cd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\speed-vs-scale.md": {
+    "mtime": 1778743717.5578036,
+    "hash": "4e1ab9f863daea70b4ecff75630b312e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\virtual-engineering-team.md": {
+    "mtime": 1778825431.794424,
+    "hash": "d762707d34198912e7a606f7121c8e27"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\wiki-architecture.md": {
+    "mtime": 1778743717.558807,
+    "hash": "8ef1951b27a095fffbb7f8642c670b6d"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\zettelkasten.md": {
+    "mtime": 1778812595.3684309,
+    "hash": "0a0fa2575630e9d411a974cdf77d3e74"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\anthropic.md": {
+    "mtime": 1778812607.3489783,
+    "hash": "69ae6d4e9ca03fa4f0148524da8b0f44"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\claude-code.md": {
+    "mtime": 1778813566.3775754,
+    "hash": "601e7e3a6f92ce87c959a8cd386688b5"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\garry-tan.md": {
+    "mtime": 1778743717.5608754,
+    "hash": "a62a0bafd8cc54dc714de47fcd166c27"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\gsd.md": {
+    "mtime": 1778825423.0084517,
+    "hash": "bc3b00e734702ea9c16be917af88ef87"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\gsd2.md": {
+    "mtime": 1778825428.3630953,
+    "hash": "21a47eab53ff5292a2c17f8ee71dfd16"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\gstack.md": {
+    "mtime": 1778743717.5618842,
+    "hash": "d5c7318b979a08a7f7c15ec441791627"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\mitchell-hashimoto.md": {
+    "mtime": 1778812601.402086,
+    "hash": "1b17214537bc387822eefe63a87ced49"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\oh-my-opencode.md": {
+    "mtime": 1778823190.589798,
+    "hash": "dfbbdc3157ffd63332d52bcd39859036"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\openai.md": {
+    "mtime": 1778812612.9023843,
+    "hash": "6efd4dea99ef16b684a58f1bce264f1f"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\opencode.md": {
+    "mtime": 1778823190.589798,
+    "hash": "b6f91e011cd848abcd99627d617e6c35"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\superpowers.md": {
+    "mtime": 1778743717.5618842,
+    "hash": "74895e7cff43c341cbbf0397c970e5b7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\zero-native.md": {
+    "mtime": 1778743717.5629742,
+    "hash": "c1c60e66161a9b7feef75dcd1324b9f0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\ai-collaboration-evolution.md": {
+    "mtime": 1778823190.589798,
+    "hash": "1c20eeba788f1247c8756179cf59d476"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\ai-development-timeline.md": {
+    "mtime": 1778812534.5943048,
+    "hash": "c41a5ff5819952120cf418a0040f1acc"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\awesome-design-md.md": {
+    "mtime": 1778823190.589798,
+    "hash": "38a75d8bb5be7c21e916348e25cf2761"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\conversation-harness-insights.md": {
+    "mtime": 1779067231.2373898,
+    "hash": "69cad05f392b72c3ae1228ff43b9809e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\free-code-guide.md": {
+    "mtime": 1778823190.589798,
+    "hash": "0db2896dc208ec4a68db21494818774c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\garry-tan-gstack.md": {
+    "mtime": 1778813560.3218148,
+    "hash": "b189801e0ae47e13c588a93f8d5ab6c8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gsd-article.md": {
+    "mtime": 1778825417.4552474,
+    "hash": "1cbfc3588ed5e90bd4691cdd5dfb99ed"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gsd-readme.md": {
+    "mtime": 1778825412.24971,
+    "hash": "17f80366805e8034f28b7248ea5e1bf1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\harness-engineering-deep-dive.md": {
+    "mtime": 1778812547.671672,
+    "hash": "6f6e98388c615c6528a2b992a01896e0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\harness-vs-workflow.md": {
+    "mtime": 1779066713.18005,
+    "hash": "a655a7f4844fb73849a8db9f9d24555a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\knowledge-compounding-principle.md": {
+    "mtime": 1778812565.5280347,
+    "hash": "a5b10f7b4302097e3abcab29496c50cd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\oh-my-opencode-review.md": {
+    "mtime": 1778823190.589798,
+    "hash": "286c398ff841632b85cb94c9fb57e7de"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\opencode-official.md": {
+    "mtime": 1778823190.589798,
+    "hash": "ea4bbe6d3e28aa3ae16e5469795cf032"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\opencode-review-1.md": {
+    "mtime": 1778823190.589798,
+    "hash": "bc506177a233a6f71af7bab741ef1eba"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\senior-dev-complexity.md": {
+    "mtime": 1778813558.3078947,
+    "hash": "9561657d52c3ac196235810b97dec04a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\software-3-0-harness.md": {
+    "mtime": 1778812553.9716256,
+    "hash": "6e28fb3b3d5ccc72582ea00f3d0d60a4"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\superpowers-methodology.md": {
+    "mtime": 1778813556.296352,
+    "hash": "8dce5547603fd03167a9b4adef13f7a2"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\zero-native-framework.md": {
+    "mtime": 1778813554.2863426,
+    "hash": "a5b8e9487453af0b0e0f1302a07c00a9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\zettelkasten-principles.md": {
+    "mtime": 1778812559.5286076,
+    "hash": "58c0dbfe14cedbf232b93c514cc0fdd6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\404.html": {
+    "mtime": 1778811168.8975022,
+    "hash": "43b9b123002d9e5ae2ac8a2de3c594cb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\index.html": {
+    "mtime": 1778811168.8964436,
+    "hash": "70eb4e8ce9ebc749fecedbfb09cbc226"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\\ub098\uc758-\ud575\uc2ec\ub9e5\ub77d.html": {
+    "mtime": 1778811169.1446977,
+    "hash": "e75be88076b81b91ee751bef99257a72"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\ai-agent.html": {
+    "mtime": 1778811169.1446977,
+    "hash": "fc097d63d13665329c3a7506927dd385"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\ai-agents.html": {
+    "mtime": 1778811169.157599,
+    "hash": "a61afd0017b0df9c92eedf7371224ab3"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\ai-strategy.html": {
+    "mtime": 1778811169.0922632,
+    "hash": "45a8b7ae50cfaef4140a1cfcaf93f873"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\ai-workflow.html": {
+    "mtime": 1778811169.113211,
+    "hash": "b292e517830aa8f24daeb78480771dde"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\architecture.html": {
+    "mtime": 1778811169.1060605,
+    "hash": "b9fb260aa77c36a3188a7465e25da4f5"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\builder.html": {
+    "mtime": 1778811169.1367652,
+    "hash": "4e94900de3952e6d854e832b8cc35811"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\collaboration.html": {
+    "mtime": 1778811169.1177907,
+    "hash": "0d2289df36696e7249fe28aa724509eb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\complexity.html": {
+    "mtime": 1778811169.1666603,
+    "hash": "b6d592b9e7f7faeb702ba4801592b15e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\engineering-principles.html": {
+    "mtime": 1778811168.8964436,
+    "hash": "24bd3c5cb6f2936c6da993b3f10ff90a"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\framework.html": {
+    "mtime": 1778811169.1469352,
+    "hash": "20590da8c8a9071ca925d1dfd1a204fc"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\gstack.html": {
+    "mtime": 1778811169.1641476,
+    "hash": "453ddacd9cd7cd8cd705cc3be4da5c50"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\index.html": {
+    "mtime": 1778811169.2146735,
+    "hash": "d928af35883f05d8fc6b798b7e74f1ab"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\llm-wiki.html": {
+    "mtime": 1778811169.1243334,
+    "hash": "284bac396daf46d6c25ec129fd96d921"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\methodology.html": {
+    "mtime": 1778811169.169801,
+    "hash": "1352a8018a541aa6c43b289fac4f3d36"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\native-app.html": {
+    "mtime": 1778811169.2005641,
+    "hash": "94bf5afc44e7ca31396c0a2b9214343f"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\person.html": {
+    "mtime": 1778811169.1278665,
+    "hash": "f8eec857e799b26478c4307b2b4bb2e0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\productivity.html": {
+    "mtime": 1778811169.15912,
+    "hash": "40044d0119eb84e04e5db1b4ed35fc40"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\senior-dev.html": {
+    "mtime": 1778811169.0644739,
+    "hash": "41df1dd9e267d6e35aba79f75c796887"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\software-engineering.html": {
+    "mtime": 1778811169.1621418,
+    "hash": "07291a0e461bb42c39e6519f5f14d0be"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\stability.html": {
+    "mtime": 1778811169.0848057,
+    "hash": "4d43d64263de0c55f8d00b65298c44b1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\strategy.html": {
+    "mtime": 1778811169.1096876,
+    "hash": "c94279b64de1cb40ac80ba3e1d859e36"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\superpowers.html": {
+    "mtime": 1778811169.170815,
+    "hash": "d930b62ec1e756ef267ab3db97d66b22"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\tdd.html": {
+    "mtime": 1778811169.1489851,
+    "hash": "0b022f00519f2007e6e125cd174411d6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\tool.html": {
+    "mtime": 1778811169.1404355,
+    "hash": "bd0446dfa17cef92c51c05c254b7c961"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\vercel.html": {
+    "mtime": 1778811169.1545782,
+    "hash": "ff5af1cf78f7bad861cb98dfc9bd6816"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\web-ui.html": {
+    "mtime": 1778811169.1748724,
+    "hash": "c74dde9151dfcde9c384c74c6fcfd3a2"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\wiki-system.html": {
+    "mtime": 1778811169.1208284,
+    "hash": "690b5233e242564a66bd75dae99be98c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\workflow.html": {
+    "mtime": 1778811169.0979965,
+    "hash": "acbc75bfb23277088283d38ccadf701e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\y-combinator.html": {
+    "mtime": 1778811169.1324232,
+    "hash": "5813f677623cdb73a60bc01894b483b8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\zero-native.html": {
+    "mtime": 1778811169.204099,
+    "hash": "ee960146f0f6463bc8b9610c86e07be9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\tags\\zig.html": {
+    "mtime": 1778811169.1525714,
+    "hash": "b0c70ce82c8ccf18453265e17dcb5fec"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\index.html": {
+    "mtime": 1778811169.0644739,
+    "hash": "a0b14e65fe0ea8867b10a61ca912c6e1"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\log.html": {
+    "mtime": 1778811169.1243334,
+    "hash": "c8ddeb54409f52113f078b5b737e7640"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\complexity-management.html": {
+    "mtime": 1778811169.0644739,
+    "hash": "9f3055c74c50806820dedd47efd11171"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\index.html": {
+    "mtime": 1778811168.89859,
+    "hash": "c38692a6746fcdafe7e73826c80bce5b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\senior-as-editor.html": {
+    "mtime": 1778811169.0848057,
+    "hash": "2de2e5b3f7254e24a698387084a38d02"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\speed-vs-scale.html": {
+    "mtime": 1778811169.0922632,
+    "hash": "d356585c8c73418f488ffec676d7ce35"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\virtual-engineering-team.html": {
+    "mtime": 1778811169.0979965,
+    "hash": "20dea83c61a88e8f6ddeeb6d099d3586"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\wiki-architecture.html": {
+    "mtime": 1778811169.1060605,
+    "hash": "93e8fffa78967566b3f96b66d28c2346"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\garry-tan.html": {
+    "mtime": 1778811169.1096876,
+    "hash": "cb296fa5d29b6d90ee9c11da998790ea"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\gstack.html": {
+    "mtime": 1778811169.113211,
+    "hash": "b17a6be2310eea983991db5d6b79efeb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\index.html": {
+    "mtime": 1778811169.0848057,
+    "hash": "2a880a88175f10ba0781e3f2dfd71c25"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\superpowers.html": {
+    "mtime": 1778811169.1177907,
+    "hash": "c83fb78415cf5b58291673557d266241"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\zero-native.html": {
+    "mtime": 1778811169.1208284,
+    "hash": "7eca069810dd7bf6488bcf07f69d2e64"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\garry-tan-gstack.html": {
+    "mtime": 1778811169.1288743,
+    "hash": "318ddcd38c8ca44fd49e9eea90207294"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\index.html": {
+    "mtime": 1778811169.0917578,
+    "hash": "74c5d24ad2a92c3068cfa88239854ebe"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\senior-dev-complexity.html": {
+    "mtime": 1778811169.1334603,
+    "hash": "660b51fb990ae7f406d629b0ebb49ea7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\superpowers-methodology.html": {
+    "mtime": 1778811169.1372697,
+    "hash": "f23e0c2adfe4c023696e9c9ba9843de3"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\zero-native-framework.html": {
+    "mtime": 1778811169.141634,
+    "hash": "dca599e605a315a768f204ac14161f32"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\index-og-image.webp": {
+    "mtime": 1778811169.174327,
+    "hash": "68f57aa85f59f254123915f55110f42f"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\\ub098\uc758-\ud575\uc2ec\ub9e5\ub77d-og-image.webp": {
+    "mtime": 1778811170.7747064,
+    "hash": "f274a9f5960c43da8a2ae299923bd853"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\static\\icon.png": {
+    "mtime": 1778743717.7003198,
+    "hash": "f03c27d75fac3d5968b7b155a6ec52f8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\static\\og-image.png": {
+    "mtime": 1778743717.7018733,
+    "hash": "9a0df0e1725d0e140867041059c29ee9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\index-og-image.webp": {
+    "mtime": 1778811170.188186,
+    "hash": "d481b59c15b263dacf2b476f198986f4"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\log-og-image.webp": {
+    "mtime": 1778811170.2814496,
+    "hash": "f53bb591a9fa4673978a0a78abc3db4e"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\complexity-management-og-image.webp": {
+    "mtime": 1778811169.2944493,
+    "hash": "89adfbfd35e9c5501a5df7f494dda74b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\senior-as-editor-og-image.webp": {
+    "mtime": 1778811169.4088151,
+    "hash": "931c03df6e28038e51dccf62317af27b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\speed-vs-scale-og-image.webp": {
+    "mtime": 1778811169.5089412,
+    "hash": "eebc03e30180c5da181a9a4d2c87a0c0"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\virtual-engineering-team-og-image.webp": {
+    "mtime": 1778811169.60657,
+    "hash": "968259b9e518d2ab15bdf327b2ba00eb"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\concepts\\wiki-architecture-og-image.webp": {
+    "mtime": 1778811169.7053132,
+    "hash": "85a71aa2087d5ae50e86703d1f5d576c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\garry-tan-og-image.webp": {
+    "mtime": 1778811169.8091655,
+    "hash": "193bfbdb10f71b9a89f8c27202d8dd15"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\gstack-og-image.webp": {
+    "mtime": 1778811169.9006288,
+    "hash": "c067490425032dd813f30739fb9f2daa"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\superpowers-og-image.webp": {
+    "mtime": 1778811169.9995182,
+    "hash": "5396135f28d780273a41c73e75bb86c6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\entities\\zero-native-og-image.webp": {
+    "mtime": 1778811170.0923903,
+    "hash": "58ad905f6d4c06be277e87aeaa63ae83"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\garry-tan-gstack-og-image.webp": {
+    "mtime": 1778811170.3797219,
+    "hash": "4d39906e0ad1ef2342d346b6aabacf30"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\senior-dev-complexity-og-image.webp": {
+    "mtime": 1778811170.4764173,
+    "hash": "f5e5459cf5d9f93fa65d3d27eed7bb13"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\superpowers-methodology-og-image.webp": {
+    "mtime": 1778811170.5728095,
+    "hash": "5726bbb20d3e4e949abfb1100b7b6940"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\public\\wiki\\sources\\zero-native-framework-og-image.webp": {
+    "mtime": 1778811170.6743982,
+    "hash": "0fedf6a142ca7c39deb465471043afdd"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\static\\icon.png": {
+    "mtime": 1778743717.7003198,
+    "hash": "f03c27d75fac3d5968b7b155a6ec52f8"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\quartz\\static\\og-image.png": {
+    "mtime": 1778743717.7018733,
+    "hash": "9a0df0e1725d0e140867041059c29ee9"
+  }
+}

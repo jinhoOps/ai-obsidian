@@ -3,8 +3,41 @@
 > 위키에서 일어난 모든 활동의 시간순 기록입니다.
 > 각 항목은 `## [날짜] 작업유형 | 제목` 형식으로 작성하여 파싱 가능하게 유지합니다.
 
+## [2026-05-18] ingest | 하네스 및 워크플로우 대화적 고찰 반영
+- **소스**: `raw/notes/conversation-harness-insights.md`
+- **작업**: 사용자와의 대화 내용을 바탕으로 하네스를 '목적 달성 루프'로 정의. 쉬운 비유(OS, 운동장, 주방)를 통해 접근성 강화.
+- **생성/업데이트된 페이지**:
+    - [[conversation-harness-insights]] (Source): 신규 생성
+    - [[harness-engineering]] (Concept): '루프' 정의 및 비유 보강
+- **맥락**: 하네스 엔지니어링의 본질을 '출발지에서 도착지까지의 안정적인 도달을 보장하는 시스템 설계'로 명확히 함.
+
+---
+
+## [2026-05-18] refine | 하네스 개념 정제 (3계층 분류 제거)
+- **작업**: 워크플로우와 혼선을 주는 하네스의 '3계층(실행/개발/작업)' 분류를 제거하고, `GEMINI.md` 중심의 거버넌스 정의로 일원화.
+- **업데이트된 페이지**:
+    - [[harness-engineering]] (Concept): 3계층 섹션 삭제 및 '거버넌스 레이어' 중심 재구성.
+    - [[agentic-workflow]] (Concept): 하네스(Governance) vs 워크플로우(Operations) 대비 강화.
+- **맥락**: 하네스를 '인프라/절차'가 아닌 '규범/헌법'으로 명확히 정의하여 에이전트 운영의 안정성과 논리적 일관성 확보.
+
+---
+
+## [2026-05-18] ingest | 하네스 vs 워크플로우 (거버넌스 vs 오퍼레이션) 구분
+- **소스**: `raw/notes/하네스-에이전트워크플로우.md`
+- **작업**: 하네스를 '헌법'으로, 워크플로우를 'SOP'로 정의하여 개념적 뉘앙스 확장. 사용자 제안으로 '음식점' 비유(주방 vs 레시피) 추가 도입.
+- **생성된 페이지**:
+    - [[harness-vs-workflow]] (Source)
+    - [[agentic-workflow]] (Concept)
+- **업데이트된 페이지**:
+    - [[harness-engineering]] (Concept)
+    - [[index.md]] (System)
+- **맥락**: 하네스 엔지니어링의 기술적 정의를 넘어 '거버넌스' 차원의 이해를 돕기 위해 "헌법 vs SOP", "운동장 vs 경기 방식", "음식점 주방 vs 레시피" 비유 도입. 지식의 대중적 이해도를 높이기 위한 작업.
+
+---
+
 ## [2026-05-15] ingest | GSD v1 (get-shit-done) vs v2 (gsd2) 지식 체계화
-- **소스**: `raw/GET SHIT DONE README.ko-KR.md`, `raw/articles/6-3. gsd — Get Shit Done 프로젝트 관리.md`
+- **소스**: `raw/GET SHIT DONE README.ko-KR.md`
+, `raw/articles/6-3. gsd — Get Shit Done 프로젝트 관리.md`
 - **작업**: v1(실행 중심)과 v2(자율 중심)의 명확한 구분 및 하네스 도구 간 관계 정립
 - **생성된 페이지**:
     - [[gsd-readme]], [[gsd-article]] (Sources)

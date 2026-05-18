@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>wiki — graphify tree viewer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      margin: 20px 0 0 24px;
+      font-size: 2.2rem;
+      font-weight: bold;
+      color: #1e3a56;
+    }
+    .controls {
+      margin: 20px 0 15px 24px;
+    }
+    button {
+      margin-right: 10px;
+      padding: 8px 18px;
+      background: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: background 0.2s ease-in-out;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    button:active {
+      background: #004085;
+    }
+    #tree-container {
+      width: calc(100vw - 48px); /* Adjust for body margin/padding */
+      height: 85vh;
+      overflow: auto;
+      border-radius: 8px;
+      background: #fff;
+      margin-left: 24px;
+      margin-right: 24px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      border: 1px solid #ddd;
+    }
+    svg {
+      background: #fff;
+      border-radius: 8px;
+      display: block; /* Important for D3 */
+    }
+    .node circle {
+      stroke-width: 2.5px;
+    }
+    .node text { /* Base style for the <text> container */
+      font: 13px 'Segoe UI', sans-serif;
+      paint-order: stroke fill; /* Ensures text is readable over lines */
+      stroke: #fff; /* White halo */
+      stroke-width: 3px; /* Halo thickness */
+      stroke-linejoin: round;
+      stroke-opacity: 0.85; /* Halo opacity */
+    }
+    .link {
+      fill: none;
+      stroke-opacity: 0.7;
+      stroke-width: 2px;
+    }
+  </style>
+</head>
+<body>
+  <h1>wiki — Knowledge Graph</h1>
+  <div class="controls">
+    <button onclick="expandAll()">Expand All</button>
+    <button onclick="collapseAll()">Collapse All</button>
+    <button onclick="resetView()">Reset View</button>
+  </div>
+  <div id="tree-container">
+    <svg id="tree-svg" width="6000" height="8000"></svg>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+    const initialJsonData = {"name":"wiki","total_count":270,"children":[{"name":"aggressive-delegation.md","total_count":5,"children":[{"name":"aggressive-delegation.md","total_count":1,"children":[]},{"name":"공격적 위임 (Aggressive Delegation)","total_count":1,"children":[]},{"name":"💎 장점","total_count":1,"children":[]},{"name":"💡 비유","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"ai-collaboration-evolution.md","total_count":6,"children":[{"name":"AI 협업의 진화: 프롬프트에서 하네스까지","total_count":1,"children":[]},{"name":"ai-collaboration-evolution.md","total_count":1,"children":[]},{"name":"🏆 기업별 전략 비교 (OpenAI vs Anthropic)","total_count":1,"children":[]},{"name":"📌 진화의 3단계","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"ai-development-timeline.md","total_count":5,"children":[{"name":"AI 주요 개념 발전 타임라인","total_count":1,"children":[]},{"name":"ai-development-timeline.md","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"ai-rules.md","total_count":15,"children":[{"name":"AI 체크리스트","total_count":1,"children":[]},{"name":"ai-rules.md","total_count":1,"children":[]},{"name":"code:yaml (---)","total_count":1,"children":[]},{"name":"Ingest 시","total_count":1,"children":[]},{"name":"Lint 시","total_count":1,"children":[]},{"name":"Quartz 빌드","total_count":1,"children":[]},{"name":"✍️ AI 소유","total_count":1,"children":[]},{"name":"레이어 정의","total_count":1,"children":[]},{"name":"본문 규칙","total_count":1,"children":[]},{"name":"업데이트 시","total_count":1,"children":[]},{"name":"페이지 Frontmatter","total_count":1,"children":[]},{"name":"하위 폴더","total_count":1,"children":[]},{"name":"핵심 원칙","total_count":1,"children":[]},{"name":"🔗 연결성","total_count":1,"children":[]},{"name":"🧠 Wiki Layer — AI 운영 규칙","total_count":1,"children":[]}]},{"name":"anthropic.md","total_count":5,"children":[{"name":"Anthropic","total_count":1,"children":[]},{"name":"anthropic.md","total_count":1,"children":[]},{"name":"주요 기여 및 도구","total_count":1,"children":[]},{"name":"하네스 접근법","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"awesome-design-md.md","total_count":5,"children":[{"name":"Awesome DESIGN.md","total_count":1,"children":[]},{"name":"awesome-design-md.md","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"claude-code.md","total_count":4,"children":[{"name":"Claude Code","total_count":1,"children":[]},{"name":"claude-code.md","total_count":1,"children":[]},{"name":"주요 특징","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"complexity-management.md","total_count":6,"children":[{"name":"complexity-management.md","total_count":1,"children":[]},{"name":"개념 정의","total_count":1,"children":[]},{"name":"관련 개념","total_count":1,"children":[]},{"name":"복잡성 관리 (Complexity Management)","total_count":1,"children":[]},{"name":"비즈니스와의 충돌 및 조율","total_count":1,"children":[]},{"name":"핵심 원칙","total_count":1,"children":[]}]},{"name":"design-md.md","total_count":5,"children":[{"name":"design-md.md","total_count":1,"children":[]},{"name":"DESIGN.md","total_count":1,"children":[]},{"name":"💡 비유","total_count":1,"children":[]},{"name":"📋 주요 구성 요소","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"executable-ssot.md","total_count":7,"children":[{"name":"executable-ssot.md","total_count":1,"children":[]},{"name":"실행 가능한 SSOT (Executable SSOT)","total_count":1,"children":[]},{"name":"🌟 주요 가치","total_count":1,"children":[]},{"name":"📋 정의","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]},{"name":"🛠️ 구현 사례","total_count":1,"children":[]},{"name":"🧩 비유로 이해하기","total_count":1,"children":[]}]},{"name":"free-code-guide.md","total_count":5,"children":[{"name":"free-code 설치 및 사용 가이드","total_count":1,"children":[]},{"name":"free-code-guide.md","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"garry-tan-gstack.md","total_count":9,"children":[{"name":"1. 가상 엔지니어링 팀 (Virtual Engineering Team)","total_count":1,"children":[]},{"name":"2. 생산성 지표: Logical LOC","total_count":1,"children":[]},{"name":"3. 주요 워크플로우","total_count":1,"children":[]},{"name":"garry-tan-gstack.md","total_count":1,"children":[]},{"name":"gstack: Garry Tan's AI Engineering Stack","total_count":1,"children":[]},{"name":"개요","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"garry-tan.md","total_count":5,"children":[{"name":"Garry Tan","total_count":1,"children":[]},{"name":"garry-tan.md","total_count":1,"children":[]},{"name":"관련 지식","total_count":1,"children":[]},{"name":"인물 개요","total_count":1,"children":[]},{"name":"철학 및 관점","total_count":1,"children":[]}]},{"name":"gsd-article.md","total_count":5,"children":[{"name":"6-3. gsd — Get Shit Done 프로젝트 관리","total_count":1,"children":[]},{"name":"gsd-article.md","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"gsd-readme.md","total_count":5,"children":[{"name":"GET SHIT DONE (GSD) README","total_count":1,"children":[]},{"name":"gsd-readme.md","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"gsd.md","total_count":8,"children":[{"name":"gsd (Get Shit Done) - v1","total_count":1,"children":[]},{"name":"gsd.md","total_count":1,"children":[]},{"name":"v2와의 차이점","total_count":1,"children":[]},{"name":"관련 도구 조합","total_count":1,"children":[]},{"name":"정의","total_count":1,"children":[]},{"name":"주요 명령어","total_count":1,"children":[]},{"name":"주요 특징","total_count":1,"children":[]},{"name":"핵심 아키텍처 (계층 구조)","total_count":1,"children":[]}]},{"name":"gsd2.md","total_count":6,"children":[{"name":"[[gsd]] (v1)와의 차이","total_count":1,"children":[]},{"name":"gsd2 (gsd-2) - v2","total_count":1,"children":[]},{"name":"gsd2.md","total_count":1,"children":[]},{"name":"권장 상황","total_count":1,"children":[]},{"name":"정의","total_count":1,"children":[]},{"name":"특징","total_count":1,"children":[]}]},{"name":"gstack.md","total_count":6,"children":[{"name":"gstack","total_count":1,"children":[]},{"name":"gstack.md","total_count":1,"children":[]},{"name":"관련 프로젝트/도구","total_count":1,"children":[]},{"name":"사용자 인사이트","total_count":1,"children":[]},{"name":"정의","total_count":1,"children":[]},{"name":"핵심 기능","total_count":1,"children":[]}]},{"name":"harness-engineering-deep-dive.md","total_count":5,"children":[{"name":"harness-engineering-deep-dive.md","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"하네스 엔지니어링 (Harness Engineering) 심층 분석","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"harness-engineering.md","total_count":7,"children":[{"name":"harness-engineering.md","total_count":1,"children":[]},{"name":"하네스 엔지니어링 (Harness Engineering)","total_count":1,"children":[]},{"name":"🏗️ 하네스의 3계층","total_count":1,"children":[]},{"name":"📋 정의","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]},{"name":"🚀 설계 7원칙","total_count":1,"children":[]},{"name":"🧩 비유로 이해하기","total_count":1,"children":[]}]},{"name":"index.md","total_count":9,"children":[{"name":"index.md","total_count":1,"children":[]},{"name":"카테고리","total_count":1,"children":[]},{"name":"통계","total_count":1,"children":[]},{"name":"🌐 종합 (Synthesis)","total_count":1,"children":[]},{"name":"🏷️ 엔티티 (Entities)","total_count":1,"children":[]},{"name":"💡 개념 (Concepts)","total_count":1,"children":[]},{"name":"📄 소스 요약 (Source Summaries)","total_count":1,"children":[]},{"name":"🔗 비교/분석 (Comparisons)","total_count":1,"children":[]},{"name":"🧠 Wiki Index","total_count":1,"children":[]}]},{"name":"knowledge-compounding-principle.md","total_count":5,"children":[{"name":"knowledge-compounding-principle.md","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"지식 복리 효과의 원리","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"knowledge-compounding.md","total_count":6,"children":[{"name":"knowledge-compounding.md","total_count":1,"children":[]},{"name":"지식 복리 효과 (Knowledge Compounding)","total_count":1,"children":[]},{"name":"📋 정의","total_count":1,"children":[]},{"name":"🔑 복리 효과를 위한 조건","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]},{"name":"🧩 비유로 이해하기","total_count":1,"children":[]}]},{"name":"log.md","total_count":8,"children":[{"name":"[2026-05-14] ingest | gstack: Garry Tan's AI Engineering Stack","total_count":1,"children":[]},{"name":"[2026-05-14] ingest | 에이전틱 프레임워크 및 시니어 개발 전략 소스 3종","total_count":1,"children":[]},{"name":"[2026-05-14] init | 위키 시스템 초기화","total_count":1,"children":[]},{"name":"[2026-05-15] ingest | GSD v1 (get-shit-done) vs v2 (gsd2) 지식 체계화","total_count":1,"children":[]},{"name":"[2026-05-15] ingest | OpenCode & oh-my-opencode 및 하네스 진화론","total_count":1,"children":[]},{"name":"[2026-05-15] ingest | 하네스 엔지니어링 및 지식 관리 전략 소스 6종","total_count":1,"children":[]},{"name":"log.md","total_count":1,"children":[]},{"name":"📋 Wiki Log","total_count":1,"children":[]}]},{"name":"mitchell-hashimoto.md","total_count":5,"children":[{"name":"Mitchell Hashimoto","total_count":1,"children":[]},{"name":"mitchell-hashimoto.md","total_count":1,"children":[]},{"name":"주요 활동 및 기여","total_count":1,"children":[]},{"name":"핵심 철학","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"oh-my-opencode-review.md","total_count":5,"children":[{"name":"oh-my-opencode-review.md","total_count":1,"children":[]},{"name":"OpenCode 리뷰(2) : oh-my-opencode와 Sisyphus","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"oh-my-opencode.md","total_count":5,"children":[{"name":"oh-my-opencode","total_count":1,"children":[]},{"name":"oh-my-opencode.md","total_count":1,"children":[]},{"name":"💡 주요 개념","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]},{"name":"🚀 핵심 아키텍처","total_count":1,"children":[]}]},{"name":"openai.md","total_count":5,"children":[{"name":"OpenAI","total_count":1,"children":[]},{"name":"openai.md","total_count":1,"children":[]},{"name":"주요 기여 및 도구","total_count":1,"children":[]},{"name":"하네스 접근법","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"opencode-official.md","total_count":5,"children":[{"name":"opencode-official.md","total_count":1,"children":[]},{"name":"오픈 소스 AI 코딩 에이전트 (OpenCode)","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"opencode-review-1.md","total_count":5,"children":[{"name":"OpenCode 리뷰(1) : 설치 및 기본 설정","total_count":1,"children":[]},{"name":"opencode-review-1.md","total_count":1,"children":[]},{"name":"📌 핵심 내용","total_count":1,"children":[]},{"name":"📝 메모","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]}]},{"name":"opencode.md","total_count":5,"children":[{"name":"OpenCode","total_count":1,"children":[]},{"name":"opencode.md","total_count":1,"children":[]},{"name":"🔍 개요","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]},{"name":"🛠️ 주요 기능","total_count":1,"children":[]}]},{"name":"senior-as-editor.md","total_count":6,"children":[{"name":"senior-as-editor.md","total_count":1,"children":[]},{"name":"개념 정의","total_count":1,"children":[]},{"name":"역할의 변화","total_count":1,"children":[]},{"name":"의의","total_count":1,"children":[]},{"name":"편집자로서의 시니어 (Senior as Editor)","total_count":1,"children":[]},{"name":"필요 역량","total_count":1,"children":[]}]},{"name":"senior-dev-complexity.md","total_count":9,"children":[{"name":"1. 복잡성 관리 vs 불확실성 감소","total_count":1,"children":[]},{"name":"2. Speed와 Scale의 분리","total_count":1,"children":[]},{"name":"3. \"Can we try something quicker?\"","total_count":1,"children":[]},{"name":"senior-dev-complexity.md","total_count":1,"children":[]},{"name":"개요","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"시니어 개발자와 AI: 복잡성 관리와 속도의 분리","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"software-3-0-harness.md","total_count":5,"children":[{"name":"Software 3.0 시대의 하네스와 조직 생산성","total_count":1,"children":[]},{"name":"software-3-0-harness.md","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"speed-vs-scale.md","total_count":6,"children":[{"name":"speed-vs-scale.md","total_count":1,"children":[]},{"name":"개념 정의","total_count":1,"children":[]},{"name":"기대 효과","total_count":1,"children":[]},{"name":"두 가지 시스템 모델","total_count":1,"children":[]},{"name":"속도와 확장성의 분리 (Speed vs Scale)","total_count":1,"children":[]},{"name":"활용 사례","total_count":1,"children":[]}]},{"name":"superpowers-methodology.md","total_count":9,"children":[{"name":"1. 에이전틱 워크플로우 (Agentic Workflow)","total_count":1,"children":[]},{"name":"2. 엄격한 TDD (Test-Driven Development)","total_count":1,"children":[]},{"name":"3. 주요 철학","total_count":1,"children":[]},{"name":"superpowers-methodology.md","total_count":1,"children":[]},{"name":"Superpowers: An agentic skills framework","total_count":1,"children":[]},{"name":"개요","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"superpowers.md","total_count":6,"children":[{"name":"Superpowers","total_count":1,"children":[]},{"name":"superpowers.md","total_count":1,"children":[]},{"name":"사용자 인사이트","total_count":1,"children":[]},{"name":"정의","total_count":1,"children":[]},{"name":"지원 환경","total_count":1,"children":[]},{"name":"핵심 특징","total_count":1,"children":[]}]},{"name":"virtual-engineering-team.md","total_count":6,"children":[{"name":"virtual-engineering-team.md","total_count":1,"children":[]},{"name":"가상 엔지니어링 팀 (Virtual Engineering Team)","total_count":1,"children":[]},{"name":"개념 정의","total_count":1,"children":[]},{"name":"관련 사례","total_count":1,"children":[]},{"name":"기대 효과","total_count":1,"children":[]},{"name":"핵심 원리","total_count":1,"children":[]}]},{"name":"wiki-architecture.md","total_count":11,"children":[{"name":"3-Layer + Meta 구조","total_count":1,"children":[]},{"name":"code:block1 (AI_Obsidian/                       ← Quartz 프로젝트 루트)","total_count":1,"children":[]},{"name":"code:yaml (---)","total_count":1,"children":[]},{"name":"Quartz 빌드 규칙","total_count":1,"children":[]},{"name":"wiki-architecture.md","total_count":1,"children":[]},{"name":"역할 분담","total_count":1,"children":[]},{"name":"워크플로우","total_count":1,"children":[]},{"name":"위키 아키텍처 (Wiki Architecture)","total_count":1,"children":[]},{"name":"위키 페이지 작성 규칙","total_count":1,"children":[]},{"name":"제약 사항","total_count":1,"children":[]},{"name":"핵심 파일","total_count":1,"children":[]}]},{"name":"zero-native-framework.md","total_count":8,"children":[{"name":"1. 기술적 특징","total_count":1,"children":[]},{"name":"2. 보안 및 성능","total_count":1,"children":[]},{"name":"zero-native-framework.md","total_count":1,"children":[]},{"name":"Zero-Native: Zig 기반 데스크톱 앱 프레임워크","total_count":1,"children":[]},{"name":"개요","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"zero-native.md","total_count":6,"children":[{"name":"Zero-Native","total_count":1,"children":[]},{"name":"zero-native.md","total_count":1,"children":[]},{"name":"비교","total_count":1,"children":[]},{"name":"사용자 인사이트","total_count":1,"children":[]},{"name":"정의","total_count":1,"children":[]},{"name":"핵심 특징","total_count":1,"children":[]}]},{"name":"zettelkasten-principles.md","total_count":5,"children":[{"name":"Zettelkasten Principles","total_count":1,"children":[]},{"name":"zettelkasten-principles.md","total_count":1,"children":[]},{"name":"생각 및 메모","total_count":1,"children":[]},{"name":"연결된 지식","total_count":1,"children":[]},{"name":"핵심 내용","total_count":1,"children":[]}]},{"name":"zettelkasten.md","total_count":6,"children":[{"name":"zettelkasten.md","total_count":1,"children":[]},{"name":"제텔카스텐 (Zettelkasten)","total_count":1,"children":[]},{"name":"🌟 LLM Wiki와의 관계","total_count":1,"children":[]},{"name":"📋 핵심 원칙","total_count":1,"children":[]},{"name":"🔗 연결된 지식","total_count":1,"children":[]},{"name":"🧩 비유로 이해하기","total_count":1,"children":[]}]}]};
+
+    function transformData(jsonData) {
+        // Helper function to recursively build the children structure
+        function processNode(node, parentL1StageName) {
+            let displayName = node.name;
+            // Append total_count if it exists and is not already in the name
+            if (node.total_count !== undefined) {
+                if (!/\(Total Count: \d+\)$/.test(displayName)) {
+                    displayName += ` (Total Count: ${node.total_count})`;
+                }
+            }
+
+            const newNode = { name: displayName };
+
+            if (parentL1StageName === "Root") {
+                 newNode.originalStageName = node.name;
+            } else {
+                newNode.originalStageName = parentL1StageName;
+            }
+
+            if (node.children && node.children.length > 0) {
+                const stageNameToPass = (parentL1StageName === "Root") ? node.name : parentL1StageName;
+                newNode.children = node.children.map(child => processNode(child, stageNameToPass));
+            }
+
+            return newNode;
+        }
+
+        let rootDisplayName = jsonData.name;
+        if (jsonData.total_count !== undefined && !/\(Total Count: \d+\)$/.test(rootDisplayName)) {
+            rootDisplayName += ` (Total Count: ${jsonData.total_count})`;
+        }
+
+        return {
+            name: rootDisplayName,
+            originalStageName: "Root",
+            children: (jsonData.children || []).map(child => processNode(child, "Root"))
+        };
+    }
+
+    const treeData = transformData(initialJsonData);
+
+    // Auto-populated phaseColors: every depth-1 child of the root gets
+    // a stable colour from a bigger palette so all top-level dirs are
+    // distinguishable.
+    const PALETTE = [
+      ["#3498DB","#2980B9","#AED6F1"], ["#2ECC71","#27AE60","#A9DFBF"],
+      ["#E74C3C","#C0392B","#F5B7B1"], ["#9B59B6","#8E44AD","#D7BDE2"],
+      ["#F39C12","#D68910","#FAD7A0"], ["#1ABC9C","#117864","#A2D9CE"],
+      ["#34495E","#1B2631","#ABB2B9"], ["#E67E22","#BA4A00","#F5CBA7"],
+      ["#16A085","#0E6655","#A2D9CE"], ["#D35400","#A04000","#EDBB99"],
+      ["#7F8C8D","#566573","#D5DBDB"], ["#C0392B","#7B241C","#F5B7B1"],
+      ["#2E86C1","#1B4F72","#A9CCE3"], ["#28B463","#196F3D","#A9DFBF"],
+      ["#AF7AC5","#6C3483","#D2B4DE"],
+    ];
+    const phaseColors = { "Root": { fill: "#4A4A4A", stroke: "#333333", collapsedFill: "#6C757D" },
+                          "Default": { fill: "#BDC3C7", stroke: "#95A5A6", collapsedFill: "#ECF0F1" } };
+    (initialJsonData.children || []).forEach((c, i) => {
+      const pal = PALETTE[i % PALETTE.length];
+      phaseColors[c.name] = { fill: pal[0], stroke: pal[1], collapsedFill: pal[2] };
+    });
+
+    const levelSpecificPalettes = {
+      0: { fill: "#4A4A4A", stroke: "#333333", collapsedFill: "#6C757D" },
+      2: { fill: "#6ab04c", stroke: "#508a38", collapsedFill: "#a3d391" },
+      3: { fill: "#f0932b", stroke: "#d0730f", collapsedFill: "#f6c07e" },
+      4: { fill: "#be2edd", stroke: "#a01cb3", collapsedFill: "#e08bf2" },
+      5: { fill: "#00a8ff", stroke: "#007ac1", collapsedFill: "#74d2ff" },
+      6: { fill: "#e55039", stroke: "#c23620", collapsedFill: "#f09a8d" },
+      default: { fill: "#747d8c", stroke: "#57606f", collapsedFill: "#a4b0be" }
+    };
+
+    const svgElement = d3.select("#tree-svg");
+    const initialSvgWidth = +svgElement.attr("width");
+    const initialSvgHeight = +svgElement.attr("height");
+    const margin = { top: 40, right: 120, bottom: 80, left: 450 };
+    let width = initialSvgWidth - margin.left - margin.right;
+    let height = initialSvgHeight - margin.top - margin.bottom;
+    const duration = 500;
+    let nodeCounter = 0;
+    const g = svgElement.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+    const treemap = d3.tree().nodeSize([40, 0]);
+    let rootNode = d3.hierarchy(treeData, d => d.children);
+    rootNode.x0 = 0;
+    rootNode.y0 = 0;
+
+    if (rootNode.children) {
+      rootNode.children.forEach(d_child => {
+        if (d_child.children) { collapseBranch(d_child); }
+      });
+    }
+    updateTree(rootNode);
+
+    function collapseBranch(d) { if (d.children) { d._children = d.children; d._children.forEach(collapseBranch); d.children = null; } }
+    function expandBranch(d) { if (d._children) { d.children = d._children; d._children = null; } if (d.children) { d.children.forEach(expandBranch); } }
+    window.expandAll = () => { expandBranch(rootNode); updateTree(rootNode); };
+    window.collapseAll = () => { if (rootNode.children) { rootNode.children.forEach(collapseBranch); } updateTree(rootNode); };
+    window.resetView = () => { if (rootNode.children) { rootNode.children.forEach(d_child => { if (d_child.children || d_child._children) { collapseBranch(d_child); } }); } if (rootNode._children && !rootNode.children) { rootNode.children = rootNode._children; rootNode._children = null; } updateTree(rootNode); };
+
+    function updateTree(source) {
+      const treeLayoutData = treemap(rootNode);
+      let nodes = treeLayoutData.descendants();
+      let links = treeLayoutData.descendants().slice(1);
+
+      let minX = 0;
+      let maxX = 0;
+      if (nodes.length > 0) {
+        minX = d3.min(nodes, d => d.x);
+        maxX = d3.max(nodes, d => d.x);
+      }
+
+      let neededHeight = Math.max(initialSvgHeight, maxX - minX + margin.top + margin.bottom + 100);
+      svgElement.transition().duration(duration / 2).attr("height", neededHeight);
+      g.transition().duration(duration / 2).attr("transform", `translate(${margin.left},${margin.top - minX + 40})`);
+
+      nodes.forEach(d => { d.y = d.depth * 400; }); // Adjust horizontal separation if needed
+
+      const node = g.selectAll('g.node').data(nodes, d => d.id || (d.id = ++nodeCounter));
+      const nodeEnter = node.enter().append('g')
+        .attr('class', d => "node" + (d.children || d._children ? " node--internal" : " node--leaf") + (d._children ? " _children" : ""))
+        .attr('transform', d => `translate(${source.y0},${source.x0})`)
+        .on('click', (event, d) => { if (d.children) { d._children = d.children; d.children = null; } else if (d._children) { d.children = d._children; d._children = null; } updateTree(d); })
+        .style('cursor', d => (d.children || d._children) ? 'pointer' : 'default');
+
+      nodeEnter.append('circle').attr('r', 1e-6);
+
+      nodeEnter.append('text')
+        .attr('dy', '.35em')
+        .attr('x', d => d.children || d._children ? -14 : 14)
+        .attr('text-anchor', d => d.children || d._children ? 'end' : 'start')
+        .style("fill-opacity", 1e-6)
+        .call(wrapText, 380);
+
+      const nodeUpdate = nodeEnter.merge(node);
+      nodeUpdate.transition().duration(duration)
+        .attr('transform', d => `translate(${d.y},${d.x})`)
+        .attr('class', d => "node" + (d.children ? " node--internal" : " node--leaf") + (d._children ? " node--internal _children" : ""));
+
+      nodeUpdate.select('circle').attr('r', 8.5)
+        .style('fill', d => {
+            let palette;
+            if (d.depth === 0) {
+                palette = levelSpecificPalettes[0];
+            } else if (d.depth === 1) {
+                palette = phaseColors[d.data.originalStageName] || phaseColors.Default;
+            } else {
+                palette = levelSpecificPalettes[d.depth] || levelSpecificPalettes.default;
+            }
+            if (d._children) return palette.collapsedFill;
+            if (d.children) return palette.fill;
+            return "#fff";
+        })
+        .style('stroke', d => {
+            let palette;
+            if (d.depth === 0) {
+                palette = levelSpecificPalettes[0];
+            } else if (d.depth === 1) {
+                palette = phaseColors[d.data.originalStageName] || phaseColors.Default;
+            } else {
+                palette = levelSpecificPalettes[d.depth] || levelSpecificPalettes.default;
+            }
+            return palette.stroke;
+        });
+      nodeUpdate.select('text').style("fill-opacity", 1).call(wrapText, 380);
+
+      const nodeExit = node.exit().transition().duration(duration).attr('transform', d => `translate(${source.y},${source.x})`).remove();
+      nodeExit.select('circle').attr('r', 1e-6);
+      nodeExit.select('text').style('fill-opacity', 1e-6);
+
+      const link = g.selectAll('path.link').data(links, d => d.id);
+      const linkEnter = link.enter().insert('path', "g").attr('class', 'link').attr('d', d => { const o = { x: source.x0, y: source.y0 }; return diagonal(o, o); });
+
+      linkEnter.merge(link).transition().duration(duration).attr('d', d => diagonal(d, d.parent))
+        .style('stroke', d => {
+            const sourceNode = d.parent;
+            if (!sourceNode) return phaseColors.Default.stroke;
+            const l1AncestorName = sourceNode.data.originalStageName;
+            const colorPalette = phaseColors[l1AncestorName] || phaseColors.Default;
+            return colorPalette.stroke;
+        });
+      link.exit().transition().duration(duration).attr('d', d => { const o = { x: source.x, y: source.y }; return diagonal(o, o); }).remove();
+      nodes.forEach(d => { d.x0 = d.x; d.y0 = d.y; });
+    }
+
+    function diagonal(s, d) { return `M ${s.y} ${s.x} C ${(s.y + d.y) / 2} ${s.x}, ${(s.y + d.y) / 2} ${d.x}, ${d.y} ${d.x}`; }
+
+    function wrapText(textElements, maxWidth) {
+        const textPartColors = {
+            name: '#343a40',
+            count: '#0056b3'
+        };
+        const countRegex = /(\s\(Total Count: \d+\))$/;
+
+        textElements.each(function () {
+            const textD3 = d3.select(this);
+            const originalNodeText = textD3.datum().data.name;
+            const x = parseFloat(textD3.attr("x") || 0);
+            const initialDy = textD3.attr("dy");
+            const textAnchor = textD3.attr("text-anchor");
+            const lineHeight = 1.1;
+
+            textD3.text(null);
+
+            let namePart = originalNodeText;
+            let countPartText = "";
+
+            const countMatch = originalNodeText.match(countRegex);
+            if (countMatch && originalNodeText.endsWith(countMatch[0])) {
+                namePart = originalNodeText.substring(0, originalNodeText.length - countMatch[0].length).trim();
+                countPartText = countMatch[0].trim();
+            }
+
+            const tokens = [];
+            namePart.split(/\s+/).filter(Boolean).forEach(word => {
+                tokens.push({ text: word, type: 'name' });
+            });
+            if (countPartText) {
+                tokens.push({ text: countPartText, type: 'count' });
+            }
+
+            if (tokens.length === 0 && originalNodeText) {
+                tokens.push({ text: originalNodeText, type: 'name' });
+            }
+
+            let currentTspan = textD3.append("tspan").attr("x", x).attr("dy", initialDy);
+            if (textAnchor === "end") currentTspan.attr("text-anchor", "end");
+
+            let lineTokens = [];
+
+            for (let i = 0; i < tokens.length; i++) {
+                const tokenObj = tokens[i];
+
+                lineTokens.push(tokenObj);
+                currentTspan.text(lineTokens.map(t => t.text).join(" "));
+
+                if (currentTspan.node().getComputedTextLength() > maxWidth && lineTokens.length > 1) {
+                    lineTokens.pop();
+
+                    currentTspan.text(null);
+                    lineTokens.forEach((prevToken, idx) => {
+                        currentTspan.append("tspan")
+                            .text((idx > 0 ? " " : "") + prevToken.text)
+                            .style("fill", textPartColors[prevToken.type] || textPartColors.name)
+                            .style("font-weight", prevToken.type === 'count' ? "bold" : "normal");
+                    });
+
+                    lineTokens = [tokenObj];
+                    currentTspan = textD3.append("tspan").attr("x", x).attr("dy", lineHeight + "em");
+                    if (textAnchor === "end") currentTspan.attr("text-anchor", "end");
+                }
+            }
+
+            currentTspan.text(null);
+            lineTokens.forEach((token, idx) => {
+                currentTspan.append("tspan")
+                    .text((idx > 0 ? " " : "") + token.text)
+                    .style("fill", textPartColors[token.type] || textPartColors.name)
+                    .style("font-weight", token.type === 'count' ? "bold" : "normal");
+            });
+
+            if (textD3.selectAll("tspan > tspan").empty() && textD3.select("tspan").text().length === 0 && originalNodeText) {
+                let t = textD3.select("tspan");
+                let displayText = originalNodeText;
+                t.text(displayText).style("fill", textPartColors.name);
+                if (t.node() && t.node().getComputedTextLength() > maxWidth && displayText.length > 20) {
+                    let estimatedChars = Math.floor(maxWidth / (t.node().getComputedTextLength()/displayText.length) );
+                    displayText = displayText.substring(0, Math.max(0, estimatedChars - 3)) + "...";
+                    t.text(displayText);
+                }
+            }
+        });
+    }
+  </script>
+</body>
+</html>
