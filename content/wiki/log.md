@@ -3,10 +3,11 @@
 > 위키에서 일어난 모든 활동의 시간순 기록입니다.
 > 각 항목은 `## [날짜] 작업유형 | 제목` 형식으로 작성하여 파싱 가능하게 유지합니다.
 
-## [2026-05-19] ingest | GSD 워크플로우 명령어 흐름
-- `content/raw/notes/gsd-명령어-흐름.md` 인제스트 완료
-- [[gsd-workflow-commands]] 소스 요약 페이지 생성
-- 마일스톤 종료 5단계(Audit -> Complete -> Cleanup -> Extract -> New) 정석 절차 명시
+## [2026-05-19] ingest | GSD 워크플로우 명령어 흐름 (Update)
+- `content/raw/notes/gsd-명령어-흐름.md` 변경 사항 반영 및 업데이트
+- [[gsd-workflow-commands]] 페이지를 **치트시트 형태**로 전면 개편
+- `/gsd-progress --next` (이지 모드) 명령어 추가
+- 마일스톤 종료 5단계(Audit -> Complete -> Cleanup -> Extract -> New) 정석 절차를 표 형태로 시각화
 
 ## [2026-05-18] lint | 위키 건강 검진 및 지식 구조 재조정
 

@@ -34,6 +34,13 @@ draft: false
 
 ## 2. 일상적인 작업 및 페이즈 관리
 
+### 시작하기에 앞서..
+
+```bash
+/gsd-progress --next
+```
+- 무지성으로 하려면 gsd 에게 알아서 다음단계 파악하게 할 수 있습니다.
+
 ### 진행 상황 확인
 ```bash
 /gsd-progress
