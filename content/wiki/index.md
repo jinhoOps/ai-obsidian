@@ -51,6 +51,7 @@ _아직 페이지가 없습니다._
 - [[devops-roadmap]] (데브옵스 로드맵)
 - [[free-code-guide]] (free-code 설치 및 사용 가이드)
 - [[garry-tan-gstack]] (gstack: Garry Tan's AI Engineering Stack)
+- [[gsd-workflow-commands]] (GSD 워크플로우 명령어 흐름)
 - [[gsd-article]] (6-3. gsd — Get Shit Done 프로젝트 관리)
 - [[gsd-readme]] (GET SHIT DONE (GSD) README)
 - [[harness-engineering-deep-dive]] (하네스 엔지니어링 심층 분석)
@@ -72,6 +73,6 @@ _아직 페이지가 없습니다._
 ---
 
 ## 통계
-- **총 페이지 수**: 50
-- **총 ingest된 소스 수**: 21
-- **마지막 업데이트**: 2026-05-18 (lint 완료)
+- **총 페이지 수**: 51
+- **총 ingest된 소스 수**: 22
+- **마지막 업데이트**: 2026-05-19 (ingest 완료)
