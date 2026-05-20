@@ -1,0 +1,13 @@
+{
+  "userIgnoreFilters": [
+    "quartz/",
+    "node_modules/",
+    "docs/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  }
+}
