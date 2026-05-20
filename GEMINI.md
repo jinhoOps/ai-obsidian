@@ -74,6 +74,19 @@ draft: false
 
 ---
 
+## 🏛️ 지식 거버넌스 원칙 (Knowledge Governance)
+
+지식의 왜곡을 방지하고 복리 효과의 신뢰성을 극대화하기 위해 다음 **3대 헌법적 통제**를 강제합니다.
+
+1. **도메인 고유성 보존 (Domain Sovereignty)**: 
+   산업적·전통적으로 확립된 고유한 기술/학문 도메인(예: Cloud Engineering, DevOps, SRE, Microservices 등)을 에이전틱 AI 개발이나 특정 도구 맥락에 맞추기 위해 강제로 축소, 종속, 또는 아전인수격으로 왜곡하여 정의하지 않는다.
+2. **수평적 대조 원칙 (Parallel Mapping)**: 
+   기존 패러다임과 AI 에이전트 전용 패러다임(예: Harness Engineering) 간에 개념적 평행선이 존재할 경우, 수직적으로 종속시키는 대신 **수평적 독립 패러다임으로 병렬 구축하고 명확한 비교 대조군(Comparison Matrix)을 제시**한다.
+3. **산업 표준 정의 준수 (Industry Rigor)**: 
+   모든 개념의 요약 및 컴파일 시, 자의적인 생략이나 수식을 지양하고 업계 표준 정의 및 공인된 기술적 가치를 충실히 존중하여 백과사전식 객관성을 유지한다.
+
+---
+
 *상세 규칙은 [[wiki-architecture]]와 `.agents/skills/` 스킬 파일을 참조하세요.*
 
 ## graphify
