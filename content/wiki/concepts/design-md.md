@@ -5,8 +5,8 @@ tags: [design-system, ai-prompting, documentation]
 created: 2026-05-15
 updated: 2026-05-15
 draft: false
+sources: [wiki/sources/awesome-design-md.md]
 ---
-
 # DESIGN.md
 
 AI 에이전트가 읽고 UI를 생성할 수 있도록 설계된 평문(Markdown) 기반의 디자인 시스템 규격입니다.
@@ -21,5 +21,5 @@ AI 에이전트가 읽고 UI를 생성할 수 있도록 설계된 평문(Markdow
 - **Component Styling**: 버튼, 카드 등의 상태별 디자인.
 
 ## 🔗 연결된 지식
-- 관련 도구: [[volt-agent]], [[google-stitch]]
+- 관련 도구: volt-agent, google-stitch
 - 관련 소스: [[awesome-design-md]]

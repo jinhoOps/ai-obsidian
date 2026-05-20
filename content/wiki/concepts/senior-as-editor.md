@@ -5,8 +5,8 @@ tags: [senior-dev, ai-strategy, workflow]
 sources: [wiki/sources/senior-dev-complexity.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # 편집자로서의 시니어 (Senior as Editor)
 
 ## 개념 정의

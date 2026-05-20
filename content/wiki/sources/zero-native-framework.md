@@ -5,8 +5,8 @@ tags: [zig, web-ui, native-app, zero-native, vercel]
 sources: [raw/articles/zero-native - Zig와 웹 UI로 데스크톱 + 모바일 앱 빌드.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # Zero-Native: Zig 기반 데스크톱 앱 프레임워크
 
 ## 개요

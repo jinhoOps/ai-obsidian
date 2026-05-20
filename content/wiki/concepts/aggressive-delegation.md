@@ -5,8 +5,8 @@ tags: [agent-strategy, delegation, architecture]
 created: 2026-05-15
 updated: 2026-05-15
 draft: false
+sources: [wiki/sources/oh-my-opencode-review.md]
 ---
-
 # 공격적 위임 (Aggressive Delegation)
 
 메인 오케스트레이터가 모든 일을 직접 처리하지 않고, 가능한 모든 세부 작업을 전문 서브 에이전트에게 즉시 넘기는 에이전트 운영 전략입니다.
@@ -20,5 +20,5 @@ draft: false
 3. **최적 모델 활용**: 검색은 빠른 모델로, 복잡한 설계는 고성능 모델로 분리하여 실행.
 
 ## 🔗 연결된 지식
-- 관련 도구: [[oh-my-opencode]], [[sisyphus]]
+- 관련 도구: [[oh-my-opencode]], [[oh-my-opencode|Sisyphus]]
 - 관련 개념: [[harness-engineering]]

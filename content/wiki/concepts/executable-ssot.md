@@ -29,4 +29,4 @@ draft: false
 
 ## 🔗 연결된 지식
 - [[harness-engineering]] (하네스 엔지니어링)
-- [[software-3-0]] (Software 3.0)
+- [[software-3-0-harness]] (Software 3.0)

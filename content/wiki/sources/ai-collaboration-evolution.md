@@ -22,7 +22,7 @@ AI와 협업하는 방식의 단계별 진화 과정과 주요 전략을 분석�
 - **Anthropic**: 적대적 피드백 루프(GAN 영감), Planner/Generator/Evaluator 3-에이전트 체계.
 
 ## 🔗 연결된 지식
-- 개념: [[harness-engineering]], [[context-engineering]]
+- 개념: [[harness-engineering]], context-engineering
 - 엔티티: [[openai]], [[anthropic]]
 
 ## 📝 메모

@@ -5,8 +5,8 @@ tags: [architecture, strategy, ai-workflow]
 sources: [wiki/sources/senior-dev-complexity.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # 속도와 확장성의 분리 (Speed vs Scale)
 
 ## 개념 정의

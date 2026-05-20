@@ -5,8 +5,8 @@ tags: [ai-agent, tool, open-source]
 created: 2026-05-15
 updated: 2026-05-15
 draft: false
+sources: [wiki/sources/opencode-official.md]
 ---
-
 # OpenCode
 
 75개 이상의 LLM 모델을 지원하고 프라이버시를 최우선으로 설계된 오픈소스 AI 코딩 에이전트입니다.

@@ -5,8 +5,8 @@ tags: [ai-agents, productivity, software-engineering, gstack]
 sources: [raw/articles/garrytangstack Use Garry Tan's exact Claude Code setup 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # gstack: Garry Tan's AI Engineering Stack
 
 ## 개요

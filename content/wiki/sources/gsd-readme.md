@@ -22,7 +22,7 @@ draft: false
 
 ## 🔗 연결된 지식
 - 엔티티: [[gsd]], [[claude-code]], [[opencode]]
-- 개념: [[harness-engineering]], [[context-engineering]], [[parallel-waves]]
+- 개념: [[harness-engineering]], context-engineering, parallel-waves
 
 ## 📝 메모
 - 사용자는 이 시스템을 "실행과 완수를 우선하는 가장 공격적인 모드"로 이해하고 있음.

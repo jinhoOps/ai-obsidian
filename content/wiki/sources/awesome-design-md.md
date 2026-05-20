@@ -19,8 +19,8 @@ AI 에이전트가 읽고 이해할 수 있는 디자인 시스템 규격인 `DE
 4. **구성 요소**: 시각적 테마, 색상 역할, 타이포그래피 계층, 컴포넌트 명세 등 포함.
 
 ## 🔗 연결된 지식
-- 엔티티: [[volt-agent]], [[google-stitch]]
-- 개념: [[design-md]], [[design-system-for-ai]]
+- 엔티티: volt-agent, google-stitch
+- 개념: [[design-md]], design-system-for-ai
 
 ## 📝 메모
 - "에이전트 지시 실력 향상"을 위해 디자인 명세를 어떻게 텍스트로 전달할지에 대한 표준 가이드를 제공함.

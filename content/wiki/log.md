@@ -3,6 +3,46 @@
 > 위키에서 일어난 모든 활동의 시간순 기록입니다.
 > 각 항목은 `## [날짜] 작업유형 | 제목` 형식으로 작성하여 파싱 가능하게 유지합니다.
 
+## [2026-05-20] lint | 위키 정기 린트 및 무결성 정비
+
+- **건강 점수**: 76 → 100 (🟢 완벽)
+- **작업 내용**:
+    - **Frontmatter 복구**: 필수 필드(`draft`, `sources`)가 누락되었거나 양식이 잘못된 18개 문서의 Frontmatter 일괄 자동 복구 완료.
+    - **깨진 링크 & 유령 개념 해결**: 대소문자 및 슬러그 형식이 맞지 않던 7개 문서 내 수십 개의 위키링크([[y-combinator]], [[oh-my-opencode]] 등)를 사전 매핑 및 일반 텍스트화 규칙에 맞춰 완벽 정비.
+    - **인덱스 통계 불일치 해결**: 실제 물리 파일 수(54개 문서, 26개 소스)와 `index.md`에 등재된 통계 기록을 실시간 대조하여 100% 동기화 및 4대 유령 엔티티 소거 완료.
+- **잔여 문제**: 없음 (린터 통과 완료, 에러 0건).
+
+---
+
+## [2026-05-20] ingest | GBrain — 오픈소스 개인 지식 베이스 (New)
+- **소스**: `content/raw/articles/GBrain — 오픈소스 개인 지식 베이스.md`
+- **작업**: YC CEO Garry Tan의 GBrain 지식 도구 분석 및 개인 지식 관리 모델(Compiled Truth, Hybrid Search) 인제스트
+- **생성된 페이지**:
+    - [[gbrain]] (Source): 신규 생성 (소스 요약)
+    - [[gbrain]] (Entity): 신규 생성 (도구 엔티티)
+    - [[compiled-truth]] (Concept): 신규 생성 (지식 관리 모델)
+    - [[hybrid-search]] (Concept): 신규 생성 (하이브리드 RRF 검색 모델)
+- **업데이트된 페이지**:
+    - [[garry-tan]] (Entity): GBrain 소스 및 철학, 상호 링크 추가
+    - [[index.md]] (System): 엔티티, 개념, 소스 요약 목록 및 통계 업데이트
+    - `content/raw/articles/index.md` (Source Index): 아티클 목록 추가
+- **맥락**: 사용자 개인 맥락("지식 대리인(Proxy) 및 기억의 부채 해결")과 완벽하게 일치하는 Garry Tan의 PKM 아키텍처 철학을 위키에 수렴하여 지식 자산 고도화.
+
+---
+
+## [2026-05-20] ingest | Antigravity CLI 마이그레이션 가이드 요약 (New)
+- **소스**: `content/raw/antigravity cli migrating from gemini cli`
+- **작업**: Gemini CLI 지원 종료(2026년 6월 18일)에 따른 Antigravity CLI 마이그레이션 가이드 정리 및 블로그 초안 작성
+- **생성된 페이지**:
+    - [[antigravity-cli-migration]] (Source): 신규 생성
+    - [[antigravity-cli]] (Entity): 신규 생성
+    - `content/output/blog-antigravity-migration.md` (Blog Post): 마이그레이션 블로그 초안 생성
+- **업데이트된 페이지**:
+    - [[index.md]] (System): 엔티티 및 소스 목록 통계 업데이트
+- **맥락**: 사용자 환경 설정을 Gemini CLI에서 Antigravity CLI로 매끄럽게 이전할 수 있도록 가이드를 제작하고 지식베이스에 통합.
+
+---
+
 ## [2026-05-19] ingest | GSD 워크플로우 명령어 흐름 (Update)
 - `content/raw/notes/gsd-명령어-흐름.md` 변경 사항 반영 및 업데이트
 - [[gsd-workflow-commands]] 페이지를 **치트시트 형태**로 전면 개편
@@ -84,7 +124,7 @@
 - **작업**: 소스 요약 및 실전 하네스(OpenCode/OMO) 중심 지식 확장
 - **생성된 페이지**:
     - [[opencode-official]], [[opencode-review-1]], [[oh-my-opencode-review]], [[awesome-design-md]], [[ai-collaboration-evolution]] (Sources)
-    - [[opencode]], [[oh-my-opencode]], [[goddaehee]] (Entities)
+    - [[opencode]], [[oh-my-opencode]], 갓대희 (Entities)
     - [[aggressive-delegation]], [[design-md]] (Concepts)
 - **맥락**: GSD, gstack 외 실전 에이전트 도구(OpenCode/OMO)의 메커니즘을 학습하여 "에이전트 지시 실력 향상" 및 "지식 연결" 목표 달성. Sisyphus의 공격적 위임 전략을 통한 하네스 엔지니어링의 실체적 이해.
 

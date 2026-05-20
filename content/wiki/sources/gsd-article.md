@@ -23,7 +23,7 @@ draft: false
 
 ## 🔗 연결된 지식
 - 엔티티: [[gsd]], [[gsd2]], [[gstack]], [[superpowers]]
-- 개념: [[context-persistence]], [[milestone-phase-task]]
+- 개념: context-persistence, milestone-phase-task
 
 ## 📝 메모
 - 사용자는 v1과 v2의 명확한 구분을 위해 이 문서를 인제스트함.

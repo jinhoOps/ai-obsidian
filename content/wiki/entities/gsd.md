@@ -5,8 +5,8 @@ tags: [tool, project-management, framework, context-engineering]
 sources: [wiki/sources/gsd-readme.md, wiki/sources/gsd-article.md]
 created: 2026-05-15
 updated: 2026-05-15
+draft: false
 ---
-
 # gsd (Get Shit Done) - v1
 
 ## 정의

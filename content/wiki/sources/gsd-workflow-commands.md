@@ -52,7 +52,7 @@ draft: false
 
 ## 🔗 연결된 지식
 - **엔티티**: [[gsd]], [[claude-code]]
-- **개념**: [[milestone-phase-task]], [[context-persistence]], [[harness-engineering]]
+- **개념**: milestone-phase-task, context-persistence, [[harness-engineering]]
 
 ## 📝 메모
 - `/gsd-progress --next` 플래그는 사용자의 인지 부하를 줄여주는 '이지 모드' 진입점입니다.

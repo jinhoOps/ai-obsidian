@@ -5,8 +5,8 @@ tags: [ai-strategy, workflow, collaboration]
 sources: [wiki/sources/garry-tan-gstack.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # 가상 엔지니어링 팀 (Virtual Engineering Team)
 
 ## 개념 정의
@@ -15,7 +15,7 @@ updated: 2026-05-14
 ## 핵심 원리
 1.  **관점의 분리**: 코드를 작성하는 AI와 이를 리뷰하는 AI, 기획을 검증하는 AI를 분리하여 상호 견제와 보완이 일어나게 합니다.
 2.  **엄격한 워크플로우**: 각 역할은 정해진 체크리스트나 스킬 세트를 가지고 동작하며, 이전 단계의 결과물을 입력값으로 받아 품질을 높입니다.
-3.  **전문 지식의 내재화**: 각 페르소나(예: [[QA]], [[Security]])는 해당 분야의 모범 사례(Best Practices)를 프롬프트나 도구 형태로 장착하고 있습니다.
+3.  **전문 지식의 내재화**: 각 페르소나(예: QA, 보안)는 해당 분야의 모범 사례(Best Practices)를 프롬프트나 도구 형태로 장착하고 있습니다.
 
 ## 기대 효과
 - **품질 향상**: 'AI 슬롭(Slop)'을 방지하고, 인간 수준의 엄격한 리뷰와 테스트가 가능해집니다.

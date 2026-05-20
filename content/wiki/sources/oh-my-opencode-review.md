@@ -19,8 +19,8 @@ draft: false
 4. **Ultrawork (ulw)**: 하위 태스크 분해, 실행, 검증을 자동화하는 마법의 키워드.
 
 ## 🔗 연결된 지식
-- 엔티티: [[oh-my-opencode]], [[sisyphus]], [[oracle]], [[librarian]]
-- 개념: [[aggressive-delegation]], [[todo-continuation-enforcer]], [[harness-engineering]]
+- 엔티티: [[oh-my-opencode]], [[oh-my-opencode|Sisyphus]], Oracle, Librarian
+- 개념: [[aggressive-delegation]], todo-continuation-enforcer, [[harness-engineering]]
 
 ## 📝 메모
 - 사용자의 "gsd, gstack 등 방법론 공부" 목표와 직결되는 실전형 하네스 구현체임.

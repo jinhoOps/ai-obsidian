@@ -5,8 +5,8 @@ tags: [senior-dev, ai-strategy, complexity, software-engineering]
 sources: [raw/articles/시니어 개발자가 전문성을 전달하지 못하는 이유.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # 시니어 개발자와 AI: 복잡성 관리와 속도의 분리
 
 ## 개요
@@ -15,7 +15,7 @@ GeekNews(Hada.io)에 올라온 아티클로, AI 시대에 시니어 개발자가
 ## 핵심 내용
 
 ### 1. 복잡성 관리 vs 불확실성 감소
-- **시니어 개발자**: 시스템의 [[Complexity Management]]를 통해 안정성을 유지하려 함.
+- **시니어 개발자**: 시스템의 [[complexity-management|Complexity Management]]를 통해 안정성을 유지하려 함.
 - **비즈니스 조직**: 빠른 시장 학습을 통해 Uncertainty Reduction를 추구함.
 - **해결책**: 기술적 해법을 비즈니스적 가치(더 빠른 실험 가능성)로 표현해야 함.
 
@@ -29,7 +29,7 @@ GeekNews(Hada.io)에 올라온 아티클로, AI 시대에 시니어 개발자가
 
 ## 연결된 지식
 - **관련 인물**: Peter Naur (Theory Building), Andy Matuschak
-- **핵심 개념**: [[Complexity Management]], [[Senior as Editor]], [[Speed vs Scale]]
+- **핵심 개념**: [[complexity-management|Complexity Management]], [[senior-as-editor|Senior as Editor]], [[speed-vs-scale|Speed vs Scale]]
 
 ## 생각 및 메모
 - 사용자는 자신의 부족한 역량을 극복하기 위해 시니어 개발자들의 '복잡성 관리'와 '시스템적 사고'를 배우고자 합니다.

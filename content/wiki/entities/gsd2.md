@@ -5,8 +5,8 @@ tags: [tool, autonomous-agent, experimental]
 sources: [wiki/sources/gsd-article.md]
 created: 2026-05-15
 updated: 2026-05-15
+draft: false
 ---
-
 # gsd2 (gsd-2) - v2
 
 ## 정의

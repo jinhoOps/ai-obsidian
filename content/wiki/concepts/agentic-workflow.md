@@ -37,5 +37,5 @@ draft: false
 ## 🔗 연결된 지식
 - [[harness-engineering]] (하네스 엔지니어링)
 - [[wiki-architecture]] (위키 아키텍처)
-- [[skill-ingest]] (인제스트 스킬)
-- [[skill-query]] (쿼리 스킬)
+- `ingest` 스킬 (인제스트 스킬)
+- `query` 스킬 (쿼리 스킬)

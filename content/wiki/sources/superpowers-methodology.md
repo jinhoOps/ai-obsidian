@@ -5,8 +5,8 @@ tags: [ai-agents, methodology, tdd, superpowers]
 sources: [raw/articles/obrasuperpowers An agentic skills framework & software development methodology that works 1.md]
 created: 2026-05-14
 updated: 2026-05-14
+draft: false
 ---
-
 # Superpowers: An agentic skills framework
 
 ## 개요

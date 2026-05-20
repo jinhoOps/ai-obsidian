@@ -5,8 +5,8 @@ tags: [harness, plugin, ai-team, productivity]
 created: 2026-05-15
 updated: 2026-05-15
 draft: false
+sources: [wiki/sources/oh-my-opencode-review.md]
 ---
-
 # oh-my-opencode
 
 단일 AI 에이전트를 전문화된 AI 팀으로 변환하는 OpenCode 전용 플러그인(하네스)입니다.
@@ -18,8 +18,8 @@ draft: false
 
 ## 💡 주요 개념
 - [[aggressive-delegation]] (공격적 위임)
-- [[todo-continuation-enforcer]]
-- [[ultrawork]]
+- todo-continuation-enforcer
+- ultrawork
 
 ## 🔗 연결된 지식
 - 기반 도구: [[opencode]]

@@ -19,8 +19,8 @@ OpenCode의 설치 방법과 초기 모델 설정, 그리고 비용 효율적인
 4. **/init 명령어**: 프로젝트 구조를 분석하여 `AGENTS.md`를 생성하는 하네스 구축의 첫 단계.
 
 ## 🔗 연결된 지식
-- 엔티티: [[opencode]], [[ollama]], [[goddaehee]]
-- 개념: [[cost-optimization]], [[harness-engineering]]
+- 엔티티: [[opencode]], Ollama, 갓대희
+- 개념: cost-optimization, [[harness-engineering]]
 
 ## 📝 메모
 - `AGENTS.md`를 통한 컨텍스트 주입은 사용자가 원하는 "지식 연결"의 핵심 도구임.
