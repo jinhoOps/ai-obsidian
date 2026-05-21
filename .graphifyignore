@@ -1,0 +1,17 @@
+# graphify 스캔 제외 목록
+# gitignore 형식을 따릅니다
+
+# Quartz 프레임워크 소스 (분석 대상 아님)
+quartz/
+
+# Quartz 빌드 산출물 (번들 JS, 컴파일 HTML - 소스 아님)
+public/
+public/postscript.js
+
+# node_modules
+node_modules/
+
+**/graphify-out/cache/*
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
