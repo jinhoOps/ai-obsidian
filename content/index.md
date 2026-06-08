@@ -20,6 +20,7 @@ layout: landing
 ---
 
 ## 📈 최근 활동
+- [[top-20-ai-news-2026-06|6월 첫째 주 AI 20대 소식]] 요약 및 종합
 - Garry Tan의 [[gstack]] 분석 및 정리
 - [[virtual-engineering-team|가상 엔지니어링 팀]] 전략 수립
 - [[complexity-management|복잡성 관리]] 방법론 연구

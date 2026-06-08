@@ -6,65 +6,65 @@
       <description>최근 10 건 on AI Obsidian Knowledge Base</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>AI 지식 대리인 (AI Knowledge Base)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/</guid>
-    <description><![CDATA[ 🧠 AI 지식 대리인 (AI Knowledge Base) “지식은 공유될 때 더 크게 성장한다.” 이곳은 클라우드 엔지니어링의 기술적 논리와 경제 시스템의 흐름을 연결하는 비주얼 커넥터의 지식 위키입니다. ]]></description>
-    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+    <title>gstack</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/entities/gstack</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/entities/gstack</guid>
+    <description><![CDATA[ gstack Garry Tan이 개발한 Claude Code 기반의 에이전틱 스킬 프레임워크이자, 소프트웨어 개발 라이프사이클 전체를 조율하는 AI 소프트웨어 공장(Software Factory) 하네스입니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>index</title>
+    <title>oh-my-opencode</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/entities/oh-my-opencode</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/entities/oh-my-opencode</guid>
+    <description><![CDATA[ oh-my-opencode 단일 AI 에이전트를 전문화된 AI 팀으로 변환하여 오토파일럿 병렬 개발 파이프라인을 지원하는 OpenCode 전용 플러그인(하네스)입니다. 🚀 핵심 아키텍처 및 에이전트 팀 1. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>OpenCode</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/entities/opencode</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/entities/opencode</guid>
+    <description><![CDATA[ OpenCode SST (Serverless Stack) 팀이 개발한 AI 코딩 에이전트로, 75개 이상의 LLM 모델을 자유롭게 매핑할 수 있고 로컬 오프라인 실행(Ollama 등)을 통한 완전한 프라이버시(데이터 미저장)를 지원하는 오픈소스 프로젝트입니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Wiki Index</title>
     <link>https://jinhoops.github.io/ai-obsidian/wiki/</link>
     <guid>https://jinhoops.github.io/ai-obsidian/wiki/</guid>
     <description><![CDATA[ 🧠 Wiki Index AI가 관리하는 지식 위키의 전체 카탈로그입니다. 새 소스를 ingest하거나 질문에 답할 때, AI는 이 인덱스를 먼저 읽고 관련 페이지를 탐색합니다. ]]></description>
-    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>log</title>
+    <title>Wiki Log</title>
     <link>https://jinhoops.github.io/ai-obsidian/wiki/log</link>
     <guid>https://jinhoops.github.io/ai-obsidian/wiki/log</guid>
-    <description><![CDATA[ 📋 Wiki Log 위키에서 일어난 모든 활동의 시간순 기록입니다. 각 항목은 ## [날짜] 작업유형 | 제목 형식으로 작성하여 파싱 가능하게 유지합니다. ]]></description>
-    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+    <description><![CDATA[ 📜 Wiki Log 위키에서 일어난 모든 활동의 시간순 기록입니다. 각 항목은 ## [날짜] 작업유형 | 제목 형식으로 작성하여 파싱 가능하게 유지합니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>나의 핵심맥락</title>
-    <link>https://jinhoops.github.io/ai-obsidian/%EB%82%98%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%A5%EB%9D%BD</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/%EB%82%98%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%A5%EB%9D%BD</guid>
-    <description><![CDATA[ 🧠 나의 맥락 요약 (My Core Context Summary) 페르소나: 지식의 가교 역할을 하는 ‘비주얼 커넥터’ 본질: 클라우드 엔지니어링의 기술적 논리와 경제 시스템 등의 흐름을 연결하여, 복잡한 지식을 누구나 이해하기 쉽게 시각화하고 풀이하는 지식 전달자. ]]></description>
-    <pubDate>Thu, 14 May 2026 05:51:19 GMT</pubDate>
+    <title>AI 주요 개념 발전 타임라인</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/sources/ai-development-timeline</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/sources/ai-development-timeline</guid>
+    <description><![CDATA[ AI 주요 개념 발전 타임라인 2020년부터 2026년까지 인공지능 기술의 주요 변곡점을 정리한 타임라인입니다. 단순한 모델 성능 향상을 넘어, 에이전트 기술의 표준화와 하네스 엔지니어링의 등장 과정을 보여줍니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>복잡성 관리 (Complexity Management)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/complexity-management</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/complexity-management</guid>
-    <description><![CDATA[ 복잡성 관리 (Complexity Management) 개념 정의 시스템이 성장함에 따라 필연적으로 증가하는 엔트로피를 억제하고, 코드가 계속해서 이해 가능하고(Understandable), 수정 가능하며(Modifiable), 디버깅 가능하도록(Debuggable) 유지하는 시니어 개발자의 핵심 역량입니다. ]]></description>
-    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+    <title>2026년 6월 첫째 주 AI 업계 동향 및 플랫폼 전쟁</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/sources/choi-openai-threads-2026-06</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/sources/choi-openai-threads-2026-06</guid>
+    <description><![CDATA[ 🌐 2026년 6월 첫째 주 AI 업계 동향 및 플랫폼 전쟁 (전체 상세 브리핑) 이 문서는 2026년 6월 첫째 주(6월 1일~7일)에 발생한 글로벌 빅테크 및 AI 스타트업들의 대규모 발표를 모아놓은 스레드 글을 누락 없이 전체 정리한 지식 컴파일 페이지입니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>편집자로서의 시니어 (Senior as Editor)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/senior-as-editor</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/senior-as-editor</guid>
-    <description><![CDATA[ 편집자로서의 시니어 (Senior as Editor) 개념 정의 AI 에이전트가 코드의 초고를 대량으로 생산하는 시대에, 시니어 개발자의 정체성이 ‘코드 작성자(Writer)‘에서 ‘코드 편집자(Editor)‘로 변화함을 뜻하는 개념입니다. ]]></description>
-    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+    <title>gstack: Garry Tan&#039;s AI Engineering Stack</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/sources/garry-tan-gstack</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/sources/garry-tan-gstack</guid>
+    <description><![CDATA[ gstack: Garry Tan’s AI Engineering Stack Y Combinator의 CEO Garry Tan이 공개한 AI 에이전트 기반의 고속 제품 배포 스택(gstack)과 운영 철학을 정리한 소스 요약입니다. 📌 핵심 내용 1. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>속도와 확장성의 분리 (Speed vs Scale)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/speed-vs-scale</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/speed-vs-scale</guid>
-    <description><![CDATA[ 속도와 확장성의 분리 (Speed vs Scale) 개념 정의 하나의 시스템에서 속도(빠른 실험)와 확장성(안정적인 운영)을 동시에 달성하려 할 때 발생하는 갈등을 해결하기 위해, 두 목표를 명시적으로 분리하여 운영하는 아키텍처 전략입니다. ]]></description>
-    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+    <title>gstack, gsd, superpowers 통합 가이드</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/sources/gstack-gsd-superpowers-integration</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/sources/gstack-gsd-superpowers-integration</guid>
+    <description><![CDATA[ 🔗 gstack, gsd, superpowers 통합 가이드 세 가지 에이전트 도구를 역할별로 연계하여 강력한 자율형 프로젝트 관리 파이프라인을 구축하는 설계 가이드입니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item><item>
-    <title>가상 엔지니어링 팀 (Virtual Engineering Team)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/virtual-engineering-team</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/virtual-engineering-team</guid>
-    <description><![CDATA[ 가상 엔지니어링 팀 (Virtual Engineering Team) 개념 정의 단일 AI 에이전트에게 한정된 역할을 주는 대신, 소프트웨어 개발 라이프사이클의 각 단계마다 전문화된 여러 페르소나(Persona)를 부여하여 협업하게 하는 전략적 워크플로우입니다. ]]></description>
-    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>위키 아키텍처 (Wiki Architecture)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/wiki/concepts/wiki-architecture</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/wiki/concepts/wiki-architecture</guid>
-    <description><![CDATA[ 위키 아키텍처 (Wiki Architecture) Karpathy의 “LLM Wiki” 패턴을 기반으로 한 개인 지식 베이스. 핵심 원리: RAG처럼 매번 재탐색하지 않고, AI가 영구적으로 컴파일된 위키를 점진적으로 구축·유지한다. ]]></description>
-    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Garry Tan (개리 탄)</title>
-    <link>https://jinhoops.github.io/ai-obsidian/wiki/entities/garry-tan</link>
-    <guid>https://jinhoops.github.io/ai-obsidian/wiki/entities/garry-tan</guid>
-    <description><![CDATA[ Garry Tan 인물 개요 현재 Y Combinator의 CEO이자 사장입니다. Palantir의 초기 멤버였으며, Posterous를 공동 창업했습니다. ]]></description>
-    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+    <title>gstack 설치 가이드 (Antigravity CLI 용)</title>
+    <link>https://jinhoops.github.io/ai-obsidian/wiki/sources/gstack-installation-agy</link>
+    <guid>https://jinhoops.github.io/ai-obsidian/wiki/sources/gstack-installation-agy</guid>
+    <description><![CDATA[ 🛠️ gstack 설치 가이드 (Antigravity CLI 용) gstack을 Antigravity CLI(agy) 및 OpenClaw 환경에서 설치하고 동작 방식을 테스트하기 위한 실전 가이드입니다. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

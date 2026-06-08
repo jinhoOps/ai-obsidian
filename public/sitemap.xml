@@ -1,9 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://jinhoops.github.io/ai-obsidian/</loc>
-    <lastmod>2026-05-14T05:51:19.000Z</lastmod>
+    <lastmod>2026-05-15T02:13:19.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/agentic-workflow</loc>
+    <lastmod>2026-05-17T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/aggressive-delegation</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/compiled-truth</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/complexity-management</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/design-md</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/devops</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/executable-ssot</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/harness-engineering</loc>
+    <lastmod>2026-05-17T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/hybrid-search</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/knowledge-compounding</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/senior-as-editor</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
@@ -17,11 +44,44 @@
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/wiki-architecture</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/concepts/zettelkasten</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/anthropic</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/antigravity-cli</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/claude-code</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/garry-tan</loc>
-    <lastmod>2026-05-13T15:00:00.000Z</lastmod>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/gbrain</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/gsd</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/gsd2</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/gstack</loc>
-    <lastmod>2026-05-13T15:00:00.000Z</lastmod>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/mitchell-hashimoto</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/oh-my-opencode</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/openai</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/opencode</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/superpowers</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
@@ -29,23 +89,104 @@
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/entities/zero-native</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/graphify-out/GRAPH_REPORT</loc>
+    <lastmod>2026-05-18T01:58:32.000Z</lastmod>
+  </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/</loc>
-    <lastmod>2026-05-14T05:51:19.000Z</lastmod>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/log</loc>
-    <lastmod>2026-05-14T05:51:19.000Z</lastmod>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/ai-collaboration-evolution</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/ai-development-timeline</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/antigravity-cli-getting-started</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/antigravity-cli-migration</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/antigravity-cli-using</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/awesome-design-md</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/choi-openai-threads-2026-06</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/conversation-harness-insights</loc>
+    <lastmod>2026-05-17T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/devops-roadmap</loc>
+    <lastmod>2026-05-17T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/free-code-guide</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/garry-tan-gstack</loc>
-    <lastmod>2026-05-13T15:00:00.000Z</lastmod>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/gbrain</loc>
+    <lastmod>2026-05-19T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/gsd-article</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/gsd-readme</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/gsd-workflow-commands</loc>
+    <lastmod>2026-05-18T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/gstack-gsd-superpowers-integration</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/gstack-installation-agy</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/harness-engineering-deep-dive</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/harness-vs-workflow</loc>
+    <lastmod>2026-05-17T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/knowledge-compounding-principle</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/oh-my-opencode-review</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/opencode-official</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/opencode-review-1</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/raw-layer-rules</loc>
+    <lastmod>2026-05-17T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/senior-dev-complexity</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/software-3-0-harness</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/superpowers-methodology</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/zero-native-framework</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/sources/zettelkasten-principles</loc>
+    <lastmod>2026-05-14T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://jinhoops.github.io/ai-obsidian/wiki/synthesis/top-20-ai-news-2026-06</loc>
+    <lastmod>2026-06-07T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jinhoops.github.io/ai-obsidian/%EB%82%98%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%A5%EB%9D%BD</loc>
     <lastmod>2026-05-14T05:51:19.000Z</lastmod>
