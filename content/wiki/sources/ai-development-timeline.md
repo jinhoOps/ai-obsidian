@@ -2,9 +2,9 @@
 title: "AI 주요 개념 발전 타임라인"
 type: source
 tags: [ai, timeline, agents, harness-engineering, evolution]
-sources: [content/raw/notes/AI_Development_Timeline.md]
+sources: [content/raw/notes/AI_Development_Timeline.md, "content/raw/notes/AI 주요 개념 발전 타임라인.md"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-08
 draft: false
 ---
 

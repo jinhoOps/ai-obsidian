@@ -9,7 +9,9 @@
 
 ## 목록
 - [[AI_Development_Timeline]]
+- [[AI 주요 개념 발전 타임라인]]
 - [[Free-code_Setup]]
+- [[gstack + gsd + superpowers 함께 사용하기]]
 - [[Harness_Engineering]]
 - [[Software_3.0_Harness]]
 - [[Zettelkasten Principles]]

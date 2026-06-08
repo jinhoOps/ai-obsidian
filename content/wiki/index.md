@@ -1,3 +1,13 @@
+---
+title: "Wiki Index"
+type: meta
+tags: [index, portal]
+sources: []
+created: 2026-05-14
+updated: 2026-06-08
+draft: false
+---
+
 # 🧠 Wiki Index
 
 > AI가 관리하는 지식 위키의 전체 카탈로그입니다.
@@ -50,11 +60,14 @@ _아직 페이지가 없습니다._
 - [[antigravity-cli-using]] (Antigravity CLI 상세 사용법)
 - [[antigravity-cli-migration]] (Antigravity CLI 마이그레이션 가이드 요약)
 - [[awesome-design-md]] (Awesome DESIGN.md)
+- [[choi-openai-threads-2026-06]] (2026년 6월 첫째 주 AI 업계 동향 및 플랫폼 전쟁)
 - [[conversation-harness-insights]] (하네스와 에이전트 워크플로우에 대한 대화적 고찰)
 - [[devops-roadmap]] (데브옵스 로드맵)
 - [[free-code-guide]] (free-code 설치 및 사용 가이드)
 - [[garry-tan-gstack]] (gstack: Garry Tan's AI Engineering Stack)
 - [[gbrain]] (GBrain — 오픈소스 개인 지식 베이스)
+- [[gstack-gsd-superpowers-integration]] (gstack, gsd, superpowers 통합 가이드)
+- [[gstack-installation-agy]] (gstack 설치 가이드 (Antigravity CLI 용))
 - [[gsd-workflow-commands]] (GSD 워크플로우 명령어 흐름)
 - [[gsd-article]] (6-3. gsd — Get Shit Done 프로젝트 관리)
 - [[gsd-readme]] (GET SHIT DONE (GSD) README)
@@ -77,6 +90,6 @@ _아직 페이지가 없습니다._
 ---
 
 ## 통계
-- **총 페이지 수**: 54
-- **총 ingest된 소스 수**: 26
-- **마지막 업데이트**: 2026-05-20 (위키 건강 검진 및 린트 작업 완료)
+- **총 페이지 수**: 58
+- **총 ingest된 소스 수**: 29
+- **마지막 업데이트**: 2026-06-08 (신규 소스 4건 인제스트 및 린트 완료)

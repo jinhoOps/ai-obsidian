@@ -55,13 +55,9 @@
     "mtime": 1778743717.5394783,
     "hash": "4a65e4f580ae16ef74f8a9ed623441cc"
   },
-  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\output\\slides\\llm-wiki-presentation\\index copy.html": {
-    "mtime": 1779327562.7259355,
-    "hash": "9c8ec629ca68563489929cd31f5a49b4"
-  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\output\\slides\\llm-wiki-presentation\\index.html": {
-    "mtime": 1779328083.241158,
-    "hash": "a595f5cf8a445b45401423665368f6a7"
+    "mtime": 1779350660.6717703,
+    "hash": "3bb9838951f57a9cee013fa779f46347"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\ai-rules.md": {
     "mtime": 1778743717.5394783,
@@ -75,13 +71,17 @@
     "mtime": 1779064453.4183197,
     "hash": "d4806d4611d1a7c32f0ebff2fafb4221"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\GSTACK \uc124\uce58 - agy (Antigravity CLI).md": {
+    "mtime": 1779414184.1844,
+    "hash": "1c4bed0f4553ed673c244e1516ec7ecb"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\index.md": {
-    "mtime": 1779073366.5676887,
-    "hash": "ec09ad9fcdabbdf4e4336874926267b6"
+    "mtime": 1780879449.6120455,
+    "hash": "c6cc17830854c8815b6c364537c26523"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\6-3. gsd \u2014 Get Shit Done \ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac.md": {
-    "mtime": 1779175601.4348202,
-    "hash": "52d6895ec27d9a41c30718f342f37aba"
+    "mtime": 1779409258.2466972,
+    "hash": "06064916f821a1aebdcaa552334f5d67"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\garrytangstack Use Garry Tan's exact Claude Code setup 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA.md": {
     "mtime": 1778743717.5425003,
@@ -92,8 +92,8 @@
     "hash": "bcc24e56563d392a8178e90a6b2ab7fd"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\index.md": {
-    "mtime": 1779263270.8867457,
-    "hash": "fc637bc0961e40822ff2bf6739df0d56"
+    "mtime": 1780879447.7258625,
+    "hash": "ab15cc2bfe7d6193dcfed1e6ae304811"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\obrasuperpowers An agentic skills framework & software development methodology that works 1.md": {
     "mtime": 1778743717.5455208,
@@ -106,6 +106,10 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md": {
     "mtime": 1778822818.0447278,
     "hash": "e866789a6cecb9194d54f8d1859edd89"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Post by @choi.openai on Threads.md": {
+    "mtime": 1780877832.6828485,
+    "hash": "8d535dda4bca4a230c5760ec4033e119"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\VoltAgentawesome-design-md A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.md": {
     "mtime": 1778743717.5409846,
@@ -151,13 +155,17 @@
     "mtime": 1779179932.9867926,
     "hash": "03c62b6f9d418edd681960338e45383b"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\gstack + gsd + superpowers \ud568\uaed8 \uc0ac\uc6a9\ud558\uae30.md": {
+    "mtime": 1779409270.1513634,
+    "hash": "3d3588b3865c26643398afedc57d6c94"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\Harness_Engineering.md": {
     "mtime": 1778812186.6931076,
     "hash": "adec64eef810d263ccb374f836b1b33e"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\index.md": {
-    "mtime": 1779073366.5676887,
-    "hash": "6ea78267a46eb070e6620152f0da475d"
+    "mtime": 1780879445.6136727,
+    "hash": "a650b1a8eac5949a559add618c5ebd5a"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\Software_3.0_Harness.md": {
     "mtime": 1778811746.0808926,
@@ -184,16 +192,16 @@
     "hash": "c5d95f25de07b115416009189f57e63c"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\ai-rules.md": {
-    "mtime": 1779263455.3832963,
-    "hash": "05f81fe5699fe99a9b238dc59607a85f"
+    "mtime": 1780880353.980028,
+    "hash": "2996f77279e84be8156770eaaef7a7ab"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\index.md": {
-    "mtime": 1779263462.2850995,
-    "hash": "9b6baedec2bbcdefb7471b5502ebf0d8"
+    "mtime": 1780880350.8832183,
+    "hash": "377c14122bf0d8ffcb6e9e3c86095851"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\log.md": {
-    "mtime": 1779264247.88196,
-    "hash": "1cb9e5a677593c7cdce10bfb08b6e9d2"
+    "mtime": 1780880368.2780077,
+    "hash": "c0ff767e55b07df084d4a65bb28cf14b"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\agentic-workflow.md": {
     "mtime": 1779263455.3874116,
@@ -316,8 +324,8 @@
     "hash": "fa3923b02875adf583acbcb206ad467b"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\ai-development-timeline.md": {
-    "mtime": 1778812534.5943048,
-    "hash": "c41a5ff5819952120cf418a0040f1acc"
+    "mtime": 1780879416.753992,
+    "hash": "2fbb49b4970dfe62c6a10b9e3b8dffa8"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\antigravity-cli-getting-started.md": {
     "mtime": 1779243846.8240898,
@@ -334,6 +342,10 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\awesome-design-md.md": {
     "mtime": 1779263455.401465,
     "hash": "cdf829193ab8ad471ec594a6c076fbe9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\choi-openai-threads-2026-06.md": {
+    "mtime": 1780879428.9247978,
+    "hash": "66af82a9125f4f958119cbb0c8dd9dab"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\conversation-harness-insights.md": {
     "mtime": 1779067231.2373898,
@@ -366,6 +378,14 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gsd-workflow-commands.md": {
     "mtime": 1779263455.407719,
     "hash": "09881a4aa02a1b2bbab6da830d527eb9"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gstack-gsd-superpowers-integration.md": {
+    "mtime": 1780879423.8136942,
+    "hash": "56737fef2565f98ae3d5e70ed12b222b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gstack-installation-agy.md": {
+    "mtime": 1780879420.0737255,
+    "hash": "203be0f86924897c6940a3a025d1f0f2"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\harness-engineering-deep-dive.md": {
     "mtime": 1778812547.671672,

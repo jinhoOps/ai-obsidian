@@ -13,6 +13,9 @@
 
 ## 목록 (기타)
 - [[ai-rules.md]] - Raw Layer AI 운영 규칙
+- [[GET SHIT DONE README.ko-KR.md]] - Get Shit Done README
+- [[GSTACK 설치 - agy (Antigravity CLI).md]] - Antigravity CLI용 gstack 설치 가이드
+- [[antigravity cli migrating from gemini cli.md]] - Antigravity CLI 마이그레이션 가이드
 
 ## 규칙
 - **불변성**: 한 번 저장된 소스는 수정하지 않음 (Source of Truth)

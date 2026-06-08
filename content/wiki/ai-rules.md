@@ -1,8 +1,10 @@
 ---
 title: "Wiki Layer — AI 운영 규칙"
 type: meta
+tags: [meta, rules]
+sources: [GEMINI.md]
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-06-08
 draft: true
 ---
 
