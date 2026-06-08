@@ -1,6 +1,6 @@
 ---
 title: "AI 협업의 진화: 프롬프트에서 하네스까지"
-type: node
+type: source
 tags: [ai-strategy, harness-engineering, evolution]
 sources: [content/raw/notes/AI_Collaboration_Evolution.md]
 created: 2026-05-15

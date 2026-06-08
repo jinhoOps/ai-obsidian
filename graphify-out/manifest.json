@@ -15,6 +15,10 @@
     "mtime": 1779091610.7990654,
     "hash": "73e820545b4fe5ab9b6a16808c2e9407"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\meta\\lint_check.py": {
+    "mtime": 1780883953.3365505,
+    "hash": "1465e617e765c12a55ea7e80a2b3a667"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\CODE_OF_CONDUCT.md": {
     "mtime": 1778743717.5283923,
     "hash": "9bc7828b6a2906b05841f82b9546b05b"
@@ -55,10 +59,6 @@
     "mtime": 1778743717.5394783,
     "hash": "4a65e4f580ae16ef74f8a9ed623441cc"
   },
-  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\output\\slides\\llm-wiki-presentation\\index.html": {
-    "mtime": 1779350660.6717703,
-    "hash": "3bb9838951f57a9cee013fa779f46347"
-  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\ai-rules.md": {
     "mtime": 1778743717.5394783,
     "hash": "62245cd7e72725f158c91a397920e582"
@@ -88,12 +88,12 @@
     "hash": "8e0b6b6645610a13eb14a2c59230380d"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\GBrain \u2014 \uc624\ud508\uc18c\uc2a4 \uac1c\uc778 \uc9c0\uc2dd \ubca0\uc774\uc2a4.md": {
-    "mtime": 1779255888.3037639,
-    "hash": "bcc24e56563d392a8178e90a6b2ab7fd"
+    "mtime": 1780880945.3360133,
+    "hash": "8915b54ac96c83d7a1971460bd896a7a"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\index.md": {
-    "mtime": 1780879447.7258625,
-    "hash": "ab15cc2bfe7d6193dcfed1e6ae304811"
+    "mtime": 1780883940.133835,
+    "hash": "7e6dbc57c9a2aa7cb793958b239313c7"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\obrasuperpowers An agentic skills framework & software development methodology that works 1.md": {
     "mtime": 1778743717.5455208,
@@ -108,8 +108,8 @@
     "hash": "e866789a6cecb9194d54f8d1859edd89"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Post by @choi.openai on Threads.md": {
-    "mtime": 1780877832.6828485,
-    "hash": "8d535dda4bca4a230c5760ec4033e119"
+    "mtime": 1780880932.333168,
+    "hash": "ac07c2eba6fab2480782b2be440ed880"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\VoltAgentawesome-design-md A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.md": {
     "mtime": 1778743717.5409846,
@@ -196,12 +196,12 @@
     "hash": "2996f77279e84be8156770eaaef7a7ab"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\index.md": {
-    "mtime": 1780880350.8832183,
-    "hash": "377c14122bf0d8ffcb6e9e3c86095851"
+    "mtime": 1780884532.9342427,
+    "hash": "c92b5fa39bd1c89ef8d8b8c4fe889ddb"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\log.md": {
-    "mtime": 1780880368.2780077,
-    "hash": "c0ff767e55b07df084d4a65bb28cf14b"
+    "mtime": 1780884535.3529675,
+    "hash": "1fb82631c11b3b1bd1a40d88cca14b33"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\agentic-workflow.md": {
     "mtime": 1779263455.3874116,
@@ -292,24 +292,24 @@
     "hash": "8b31508a4f5f8e0a5e8d5d70c7977f61"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\gstack.md": {
-    "mtime": 1779263472.3410983,
-    "hash": "fc422e0c8bf58010afb765ccbd57c68a"
+    "mtime": 1780883924.5058627,
+    "hash": "51184f90b773a6f89969cdfe52c6917c"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\mitchell-hashimoto.md": {
     "mtime": 1778812601.402086,
     "hash": "1b17214537bc387822eefe63a87ced49"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\oh-my-opencode.md": {
-    "mtime": 1779263455.3967009,
-    "hash": "bdbcf805e43eded3d4f7de25367b356d"
+    "mtime": 1780883919.2685118,
+    "hash": "7f6749058f97ee9a97ef0b51989044a4"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\openai.md": {
     "mtime": 1778812612.9023843,
     "hash": "6efd4dea99ef16b684a58f1bce264f1f"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\opencode.md": {
-    "mtime": 1779263447.1939635,
-    "hash": "445df03b20eaa9a241f054ca72fcaf8c"
+    "mtime": 1780883929.295417,
+    "hash": "93ac2090307970a62e31fb1f30479a10"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\superpowers.md": {
     "mtime": 1779263472.3430836,
@@ -320,8 +320,8 @@
     "hash": "43e5860c517fff25b9c6ae006b2e71ad"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\ai-collaboration-evolution.md": {
-    "mtime": 1779263455.3989522,
-    "hash": "fa3923b02875adf583acbcb206ad467b"
+    "mtime": 1780883757.8863583,
+    "hash": "5958f1f685823167fceca9f7a0b81449"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\ai-development-timeline.md": {
     "mtime": 1780879416.753992,
@@ -344,8 +344,8 @@
     "hash": "cdf829193ab8ad471ec594a6c076fbe9"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\choi-openai-threads-2026-06.md": {
-    "mtime": 1780879428.9247978,
-    "hash": "66af82a9125f4f958119cbb0c8dd9dab"
+    "mtime": 1780883738.3660605,
+    "hash": "481f2bfc7c32a67c3f7c52fc87b79d6b"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\conversation-harness-insights.md": {
     "mtime": 1779067231.2373898,
@@ -360,8 +360,8 @@
     "hash": "8a40a866c2d9d525a575bfc777ad1e73"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\garry-tan-gstack.md": {
-    "mtime": 1779263447.1867445,
-    "hash": "0cccd6f520230803c65f064d23d78d58"
+    "mtime": 1780883903.3206124,
+    "hash": "4a333dd7e40ce91969258e3fbe57dfa2"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gbrain.md": {
     "mtime": 1779263455.4051702,
@@ -400,16 +400,16 @@
     "hash": "a5b10f7b4302097e3abcab29496c50cd"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\oh-my-opencode-review.md": {
-    "mtime": 1779263455.4087226,
-    "hash": "7d0393d72572b22bd8e3e85b37684218"
+    "mtime": 1780883909.8540637,
+    "hash": "810a7723ef1a92418afdd6e75526ebb5"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\opencode-official.md": {
     "mtime": 1779263455.410915,
     "hash": "e86f012cf746f9568053acf4a2d24482"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\opencode-review-1.md": {
-    "mtime": 1779263455.4119148,
-    "hash": "25762ecce3b30bf63199c3c9fef54994"
+    "mtime": 1780883906.2323048,
+    "hash": "fed9f8bf99dc083a5f9783b7ee706892"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\raw-layer-rules.md": {
     "mtime": 1779073366.5481122,
@@ -434,6 +434,10 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\zettelkasten-principles.md": {
     "mtime": 1778812559.5286076,
     "hash": "58c0dbfe14cedbf232b93c514cc0fdd6"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\synthesis\\top-20-ai-news-2026-06.md": {
+    "mtime": 1780884530.599984,
+    "hash": "06227512a1f9330ddbf445c0bbfe72c0"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\devopsRoadmap.png": {
     "mtime": 1779073072.1969736,
