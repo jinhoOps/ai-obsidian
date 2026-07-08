@@ -36,8 +36,8 @@
     "hash": "e474a06a964b37bf409dcfce25f36653"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\index.md": {
-    "mtime": 1778811108.2733674,
-    "hash": "316af31bc8288eac8c4e7748a5b6373c"
+    "mtime": 1780887603.075119,
+    "hash": "e09c14859ede075faff72ac35bb98683"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\\ub098\uc758 \ud575\uc2ec\ub9e5\ub77d.md": {
     "mtime": 1778743717.5695043,
@@ -91,9 +91,13 @@
     "mtime": 1780880945.3360133,
     "hash": "8915b54ac96c83d7a1971460bd896a7a"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Getting started with loops.md": {
+    "mtime": 1783472730.954978,
+    "hash": "fa0eccbba0d764f9c492392224b6a02e"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\index.md": {
-    "mtime": 1780883940.133835,
-    "hash": "7e6dbc57c9a2aa7cb793958b239313c7"
+    "mtime": 1783472913.355926,
+    "hash": "6cc699a20a037ba5f35663edc22185c3"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\obrasuperpowers An agentic skills framework & software development methodology that works 1.md": {
     "mtime": 1778743717.5455208,
@@ -106,6 +110,10 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md": {
     "mtime": 1778822818.0447278,
     "hash": "e866789a6cecb9194d54f8d1859edd89"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md": {
+    "mtime": 1780887856.4493985,
+    "hash": "1fd90806da623564eadca72460b4e97e"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\articles\\Post by @choi.openai on Threads.md": {
     "mtime": 1780880932.333168,
@@ -187,6 +195,14 @@
     "mtime": 1779069466.938768,
     "hash": "a7e051f21827c510de58a54f95a82577"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\presentation\\\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md": {
+    "mtime": 1782454830.5532465,
+    "hash": "2ade60ee50e8d94a853d8561f0e5626b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\presentation\\\uc5c5\ubb34-\ubcf4\uace0-\ud504\ub808\uc820\ud14c\uc774\uc158.html": {
+    "mtime": 1782453553.1555362,
+    "hash": "e3049163e8c82828b07afef1eeb138a1"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\podcasts\\index.md": {
     "mtime": 1778743717.553208,
     "hash": "c5d95f25de07b115416009189f57e63c"
@@ -196,12 +212,20 @@
     "hash": "2996f77279e84be8156770eaaef7a7ab"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\index.md": {
-    "mtime": 1780884532.9342427,
-    "hash": "c92b5fa39bd1c89ef8d8b8c4fe889ddb"
+    "mtime": 1783473283.1910841,
+    "hash": "901ed9856937a581f7dc5ef394f8af61"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\log.md": {
-    "mtime": 1780884535.3529675,
-    "hash": "1fb82631c11b3b1bd1a40d88cca14b33"
+    "mtime": 1783473379.4083707,
+    "hash": "aa39a103431c12db5b216e0e1b3cc01c"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\comparisons\\loop-vs-harness.md": {
+    "mtime": 1783473215.7114408,
+    "hash": "d5f3dbcfe37d3f8248bfdf45b8a11d36"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\agentic-loop.md": {
+    "mtime": 1783472900.406701,
+    "hash": "e9aa22580157efd888cb38b832160cbf"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\agentic-workflow.md": {
     "mtime": 1779263455.3874116,
@@ -243,6 +267,10 @@
     "mtime": 1778812588.3351667,
     "hash": "557209c238489c13c8624294cae7bebd"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\memory-tree.md": {
+    "mtime": 1780888170.285337,
+    "hash": "84a219e007fc026c1a42adc718170eff"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\concepts\\senior-as-editor.md": {
     "mtime": 1779263447.178161,
     "hash": "d487b80082c462febfccb53123f488dd"
@@ -272,8 +300,8 @@
     "hash": "5e0fe18e4340ee401b82133eb0b61655"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\claude-code.md": {
-    "mtime": 1778813566.3775754,
-    "hash": "601e7e3a6f92ce87c959a8cd386688b5"
+    "mtime": 1783472903.5426712,
+    "hash": "a0740978363c04b4fdfc14cb63f59236"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\garry-tan.md": {
     "mtime": 1779263472.340113,
@@ -310,6 +338,10 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\opencode.md": {
     "mtime": 1780883929.295417,
     "hash": "93ac2090307970a62e31fb1f30479a10"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\openhuman.md": {
+    "mtime": 1780888164.9828565,
+    "hash": "3da9f32b71508a1b68d75ad22d34dd80"
   },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\entities\\superpowers.md": {
     "mtime": 1779263472.3430836,
@@ -367,6 +399,10 @@
     "mtime": 1779263455.4051702,
     "hash": "f0409000fd087b36389bba52409a320d"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\getting-started-with-loops.md": {
+    "mtime": 1783472894.775266,
+    "hash": "a3a25a8941f1a6bfe80571a339d7685e"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\gsd-article.md": {
     "mtime": 1779263455.4056966,
     "hash": "56bf4ba5e3bff328456a9c799f22c4aa"
@@ -411,6 +447,10 @@
     "mtime": 1780883906.2323048,
     "hash": "fed9f8bf99dc083a5f9783b7ee706892"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\openhuman-article.md": {
+    "mtime": 1780888184.2870595,
+    "hash": "6698ac5b8444dd34ac01508f9beac2b0"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\wiki\\sources\\raw-layer-rules.md": {
     "mtime": 1779073366.5481122,
     "hash": "287aafe653cbc76550dcc2cae36d44fe"
@@ -439,6 +479,54 @@
     "mtime": 1780884530.599984,
     "hash": "06227512a1f9330ddbf445c0bbfe72c0"
   },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\docs\\plans\\2026-07-08-loop-vs-harness-comparison.md": {
+    "mtime": 1783473128.5704212,
+    "hash": "f00acbe7c76ff1e2141f46e92b1e4a75"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\docs\\superpowers\\specs\\2026-07-08-loop-vs-harness-design.md": {
+    "mtime": 1783473085.589237,
+    "hash": "af5553bf6e44a934a003eea948526b06"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\LLM Wiki \uad6c\ucd95 \ubc0f \ud14c\uc2a4\ud2b8 \uacb0\uacfc \ubcf4\uace0\uc11c - N3Cloud.pdf": {
+    "mtime": 1782356012.4944456,
+    "hash": "a2984f6608928acdab29148397a795be"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\Pasted image 20260625114747.png": {
+    "mtime": 1782355667.4015582,
+    "hash": "4118e17c19093322f49dc728587383bf"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\Pasted image 20260625115049.png": {
+    "mtime": 1782355849.134049,
+    "hash": "9dfb766de83fdc9d0d1e2897da22ab83"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\Pasted image 20260626174410.png": {
+    "mtime": 1782463450.869431,
+    "hash": "f91c0ed0d4bd7efdf307dc2eed9b11b7"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\temp_1782355280344.png": {
+    "mtime": 1782355281.2133362,
+    "hash": "95482484497d8a468ac5d5af9c240757"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\temp_1782355285055.png": {
+    "mtime": 1782355287.6130278,
+    "hash": "981c46d3251aa7ec7fbe21503ef7e422"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\temp_1782355292908.png": {
+    "mtime": 1782355294.4359827,
+    "hash": "1dba86c7d58bdbcc49f34803203a2b89"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\temp_1782355299823.png": {
+    "mtime": 1782355301.1394944,
+    "hash": "00e2451db677bd4987ec91aa16e1737b"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\temp_1782355309309.png": {
+    "mtime": 1782355316.5296657,
+    "hash": "daece21e31546b31681acf7cf43b52a5"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\temp_1782355328787.png": {
+    "mtime": 1782355330.2782521,
+    "hash": "085ebc8b63840a659d7acaf225e7b5fb"
+  },
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\devopsRoadmap.png": {
     "mtime": 1779073072.1969736,
     "hash": "ff845fe82e8f105cfd7550d5fde03c63"
@@ -446,5 +534,17 @@
   "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\industrial Computing.png": {
     "mtime": 1779073085.9826105,
     "hash": "56ccb8cb8370082e259ec518fa041386"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\presentation\\Pasted image 20260625114747.png": {
+    "mtime": 1782355667.4015582,
+    "hash": "4118e17c19093322f49dc728587383bf"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\presentation\\temp_1782355309309.png": {
+    "mtime": 1782355316.5296657,
+    "hash": "daece21e31546b31681acf7cf43b52a5"
+  },
+  "D:\\jhkSandBox\\CODE_AI\\ai-obsidian\\content\\raw\\notes\\presentation\\temp_1782355328787.png": {
+    "mtime": 1782355330.2782521,
+    "hash": "085ebc8b63840a659d7acaf225e7b5fb"
   }
 }
