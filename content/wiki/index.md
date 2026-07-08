@@ -4,7 +4,7 @@ type: meta
 tags: [index, portal]
 sources: []
 created: 2026-05-14
-updated: 2026-06-08
+updated: 2026-07-08
 draft: false
 ---
 
@@ -27,13 +27,15 @@ draft: false
 - [[gsd2]] (v2)
 - [[gstack]]
 - [[mitchell-hashimoto]] (Mitchell Hashimoto)
-- [[oh-my-opencode]]
+- [[oh-my-opencode]] (Oh My OpenCode)
+- [[openhuman]] (OpenHuman)
 - [[openai]] (OpenAI)
 - [[opencode]] (OpenCode)
 - [[superpowers]]
 - [[zero-native]]
 
 ### 💡 개념 (Concepts)
+- [[agentic-loop]] (에이전트 루프)
 - [[agentic-workflow]] (에이전트 워크플로우)
 - [[aggressive-delegation]] (공격적 위임)
 - [[complexity-management]] (복잡성 관리)
@@ -44,14 +46,16 @@ draft: false
 - [[harness-engineering]] (하네스 엔지니어링)
 - [[hybrid-search]] (하이브리드 검색)
 - [[knowledge-compounding]] (지식 복리 효과)
+- [[memory-tree]] (메모리 트리)
 - [[senior-as-editor]] (편집자로서의 시니어)
 - [[speed-vs-scale]] (속도와 확장성의 분리)
+- [[token-compression]] (토큰 압축)
 - [[virtual-engineering-team]] (가상 엔지니어링 팀)
 - [[wiki-architecture]] (위키 아키텍처)
 - [[zettelkasten]] (제텔카스텐)
 
 ### 🔗 비교/분석 (Comparisons)
-_아직 페이지가 없습니다._
+- [[loop-vs-harness]] (에이전트 루프와 하네스 엔지니어링의 관계 분석)
 
 ### 📄 소스 요약 (Source Summaries)
 - [[ai-collaboration-evolution]] (AI 협업의 진화: 프롬프트에서 하네스까지)
@@ -60,6 +64,7 @@ _아직 페이지가 없습니다._
 - [[antigravity-cli-using]] (Antigravity CLI 상세 사용법)
 - [[antigravity-cli-migration]] (Antigravity CLI 마이그레이션 가이드 요약)
 - [[awesome-design-md]] (Awesome DESIGN.md)
+- [[getting-started-with-loops]] (Getting started with loops)
 - [[choi-openai-threads-2026-06]] (2026년 6월 첫째 주 AI 업계 동향 및 플랫폼 전쟁)
 - [[conversation-harness-insights]] (하네스와 에이전트 워크플로우에 대한 대화적 고찰)
 - [[devops-roadmap]] (데브옵스 로드맵)
@@ -77,6 +82,7 @@ _아직 페이지가 없습니다._
 - [[oh-my-opencode-review]] (OpenCode 리뷰(2) : oh-my-opencode와 Sisyphus)
 - [[opencode-official]] (오픈 소스 AI 코딩 에이전트 (OpenCode))
 - [[opencode-review-1]] (OpenCode 리뷰(1) : 설치 및 기본 설정)
+- [[openhuman-article]] (OpenHuman: '나를 아는 AI 비서'를 오픈소스로 만들 수 있을까)
 - [[raw-layer-rules]] (Raw Layer — AI 운영 규칙)
 - [[senior-dev-complexity]] (시니어 개발자와 AI: 복잡성 관리와 속도의 분리)
 - [[software-3-0-harness]] (Software 3.0 시대의 하네스와 조직 생산성)
@@ -90,6 +96,6 @@ _아직 페이지가 없습니다._
 ---
 
 ## 통계
-- **총 페이지 수**: 59
-- **총 ingest된 소스 수**: 29
-- **마지막 업데이트**: 2026-06-08 (6월 첫째 주 20대 AI 소식 종합 완료)
+- **총 페이지 수**: 66
+- **총 ingest된 소스 수**: 31
+- **마지막 업데이트**: 2026-07-08 (Getting started with loops 아티클 인제스트 및 에이전트 루프 개념/비교 분석 추가)
