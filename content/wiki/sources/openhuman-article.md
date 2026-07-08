@@ -10,7 +10,7 @@ draft: false
 
 # 📄 OpenHuman: '나를 아는 AI 비서'를 오픈소스로 만들 수 있을까
 
-> **원본 소스**: [[OpenHuman '나를 아는 AI 비서'를 오픈소스로 만들 수 있을까.md]]
+> **원본 소스**: [OpenHuman '나를 아는 AI 비서'를 오픈소스로 만들 수 있을까.md](file:///D:/jhkSandBox/CODE_AI/ai-obsidian/content/raw/articles/OpenHuman%20'나를%20아는%20AI%20비서'를%20오픈소스로%20만들%20수%20있을까.md)
 > **원문 URL**: https://wikidocs.net/blog/@jaehong/15506/
 > **수집일**: 2026-06-08
 

@@ -33,6 +33,7 @@ draft: false
 - [[opencode]] (OpenCode)
 - [[superpowers]]
 - [[zero-native]]
+- [[y-combinator]] (Y Combinator)
 
 ### 💡 개념 (Concepts)
 - [[agentic-loop]] (에이전트 루프)
@@ -96,6 +97,6 @@ draft: false
 ---
 
 ## 통계
-- **총 페이지 수**: 66
+- **총 페이지 수**: 67
 - **총 ingest된 소스 수**: 31
-- **마지막 업데이트**: 2026-07-08 (Getting started with loops 아티클 인제스트 및 에이전트 루프 개념/비교 분석 추가)
+- **마지막 업데이트**: 2026-07-08 (Getting started with loops 아티클 인제스트 및 에이전트 루프 비교/Y Combinator 스텁 추가)
