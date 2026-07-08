@@ -20,7 +20,8 @@ layout: landing
 ---
 
 ## 📈 최근 활동
+- **[[wiki/comparisons/loop-vs-harness|에이전트 루프와 하네스 엔지니어링 비교 분석]]** 및 **[[wiki/concepts/agentic-loop|에이전트 루프]]** 개념 정립 (2026-07-08)
+- **[[wiki/sources/getting-started-with-loops|Getting started with loops]]** 아티클 요약 및 인제스트 (2026-07-08)
+- 위키 깨진 링크 전체 정비 및 **[[wiki/entities/y-combinator|Y Combinator]]** 스텁 추가 (2026-07-08)
 - [[top-20-ai-news-2026-06|6월 첫째 주 AI 20대 소식]] 요약 및 종합
 - Garry Tan의 [[gstack]] 분석 및 정리
-- [[virtual-engineering-team|가상 엔지니어링 팀]] 전략 수립
-- [[complexity-management|복잡성 관리]] 방법론 연구
