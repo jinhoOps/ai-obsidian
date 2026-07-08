@@ -2,7 +2,7 @@
 title: "에이전트 루프 (Agentic Loop)"
 type: concept
 tags: [ai, agent, loop, methodology, software-engineering]
-sources: [content/raw/articles/Getting started with loops.md]
+sources: [content/raw/articles/Getting started with loops.md, "https://claude.com/blog/getting-started-with-loops"]
 created: 2026-07-08
 updated: 2026-07-08
 draft: false
@@ -11,6 +11,7 @@ draft: false
 # 에이전트 루프 (Agentic Loop)
 
 > 에이전트가 설정된 정지 조건(Exit Criteria)이 충족될 때까지 자율적으로 작업 사이클을 반복하여 수행하는 실행 메커니즘.
+> **원문 출처**: [Getting started with loops (Claude Blog)](https://claude.com/blog/getting-started-with-loops)
 
 ## 🧩 비유로 이해하기
 * **자율주행 내비게이션**:

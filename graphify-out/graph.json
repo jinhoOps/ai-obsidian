@@ -135,7 +135,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L1",
       "id": "code_of_conduct_md",
-      "community": 21,
+      "community": 22,
       "norm_label": "code_of_conduct.md"
     },
     {
@@ -144,7 +144,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L1",
       "id": "ai_obsidian_code_of_conduct_citizen_code_of_conduct",
-      "community": 21,
+      "community": 22,
       "norm_label": "citizen code of conduct"
     },
     {
@@ -153,7 +153,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L3",
       "id": "ai_obsidian_code_of_conduct_1_purpose",
-      "community": 21,
+      "community": 22,
       "norm_label": "1. purpose"
     },
     {
@@ -162,7 +162,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L11",
       "id": "ai_obsidian_code_of_conduct_2_open_source_culture_tech_citizenship",
-      "community": 21,
+      "community": 22,
       "norm_label": "2. open [source/culture/tech] citizenship"
     },
     {
@@ -171,7 +171,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L19",
       "id": "ai_obsidian_code_of_conduct_3_expected_behavior",
-      "community": 21,
+      "community": 22,
       "norm_label": "3. expected behavior"
     },
     {
@@ -180,7 +180,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L30",
       "id": "ai_obsidian_code_of_conduct_4_unacceptable_behavior",
-      "community": 21,
+      "community": 22,
       "norm_label": "4. unacceptable behavior"
     },
     {
@@ -189,7 +189,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L46",
       "id": "ai_obsidian_code_of_conduct_5_weapons_policy",
-      "community": 21,
+      "community": 22,
       "norm_label": "5. weapons policy"
     },
     {
@@ -198,7 +198,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L50",
       "id": "ai_obsidian_code_of_conduct_6_consequences_of_unacceptable_behavior",
-      "community": 21,
+      "community": 22,
       "norm_label": "6. consequences of unacceptable behavior"
     },
     {
@@ -207,7 +207,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L58",
       "id": "ai_obsidian_code_of_conduct_7_reporting_guidelines",
-      "community": 21,
+      "community": 22,
       "norm_label": "7. reporting guidelines"
     },
     {
@@ -216,7 +216,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L64",
       "id": "ai_obsidian_code_of_conduct_8_addressing_grievances",
-      "community": 21,
+      "community": 22,
       "norm_label": "8. addressing grievances"
     },
     {
@@ -225,7 +225,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L68",
       "id": "ai_obsidian_code_of_conduct_9_scope",
-      "community": 21,
+      "community": 22,
       "norm_label": "9. scope"
     },
     {
@@ -234,7 +234,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L74",
       "id": "ai_obsidian_code_of_conduct_10_contact_info",
-      "community": 21,
+      "community": 22,
       "norm_label": "10. contact info"
     },
     {
@@ -243,7 +243,7 @@
       "source_file": "CODE_OF_CONDUCT.md",
       "source_location": "L78",
       "id": "ai_obsidian_code_of_conduct_11_license_and_attribution",
-      "community": 21,
+      "community": 22,
       "norm_label": "11. license and attribution"
     },
     {
@@ -252,7 +252,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L1",
       "id": "gemini_md",
-      "community": 22,
+      "community": 23,
       "norm_label": "gemini.md"
     },
     {
@@ -261,7 +261,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L1",
       "id": "ai_obsidian_gemini_gemini_md_ai",
-      "community": 22,
+      "community": 23,
       "norm_label": "gemini.md \u2014 ai \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u110b\u116e\u11ab\u110b\u1167\u11bc \u1109\u1173\u110f\u1175\u1106\u1161"
     },
     {
@@ -270,7 +270,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L8",
       "id": "ai_obsidian_gemini",
-      "community": 22,
+      "community": 23,
       "norm_label": "\u1102\u1161\u1102\u1173\u11ab \u1102\u116e\u1100\u116e\u110b\u1175\u11ab\u1100\u1161"
     },
     {
@@ -279,7 +279,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L17",
       "id": "ai_obsidian_gemini_17",
-      "community": 22,
+      "community": 23,
       "norm_label": "\u110c\u1161\u11a8\u110b\u1165\u11b8 \u1100\u1172\u110e\u1175\u11a8"
     },
     {
@@ -288,7 +288,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L31",
       "id": "ai_obsidian_gemini_llm_wiki",
-      "community": 22,
+      "community": 23,
       "norm_label": "\u110b\u1171\u110f\u1175 \u1109\u1175\u1109\u1173\u1110\u1166\u11b7 (llm wiki)"
     },
     {
@@ -297,7 +297,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L35",
       "id": "ai_obsidian_gemini_35",
-      "community": 22,
+      "community": 23,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u1100\u116e\u110c\u1169"
     },
     {
@@ -306,7 +306,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L37",
       "id": "ai_obsidian_gemini_codeblock_1",
-      "community": 22,
+      "community": 23,
       "norm_label": "code:block1 (content/)"
     },
     {
@@ -315,7 +315,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L45",
       "id": "ai_obsidian_gemini_45",
-      "community": 22,
+      "community": 23,
       "norm_label": "\u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e"
     },
     {
@@ -324,7 +324,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L53",
       "id": "ai_obsidian_gemini_frontmatter",
-      "community": 22,
+      "community": 23,
       "norm_label": "frontmatter \u1100\u1172\u110e\u1175\u11a8"
     },
     {
@@ -333,7 +333,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L55",
       "id": "ai_obsidian_gemini_codeblock_2",
-      "community": 22,
+      "community": 23,
       "norm_label": "code:yaml (---)"
     },
     {
@@ -342,7 +342,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L67",
       "id": "ai_obsidian_gemini_67",
-      "community": 22,
+      "community": 23,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u110c\u1166\u110b\u1163\u11a8"
     },
     {
@@ -351,7 +351,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L77",
       "id": "ai_obsidian_gemini_knowledge_governance",
-      "community": 22,
+      "community": 23,
       "norm_label": "\ud83c\udfdb\ufe0f \u110c\u1175\u1109\u1175\u11a8 \u1100\u1165\u1107\u1165\u1102\u1165\u11ab\u1109\u1173 \u110b\u116f\u11ab\u110e\u1175\u11a8 (knowledge governance)"
     },
     {
@@ -360,7 +360,7 @@
       "source_file": "GEMINI.md",
       "source_location": "L92",
       "id": "ai_obsidian_gemini_graphify",
-      "community": 22,
+      "community": 23,
       "norm_label": "graphify"
     },
     {
@@ -531,7 +531,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L1",
       "id": "content_output_ai_rules_md",
-      "community": 44,
+      "community": 45,
       "norm_label": "ai-rules.md"
     },
     {
@@ -540,7 +540,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L8",
       "id": "output_ai_rules_output_layer_ai",
-      "community": 44,
+      "community": 45,
       "norm_label": "\ud83d\udce4 output layer \u2014 ai \u110b\u116e\u11ab\u110b\u1167\u11bc \u1100\u1172\u110e\u1175\u11a8"
     },
     {
@@ -549,7 +549,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L12",
       "id": "output_ai_rules",
-      "community": 44,
+      "community": 45,
       "norm_label": "\u1105\u1166\u110b\u1175\u110b\u1165 \u110c\u1165\u11bc\u110b\u1174"
     },
     {
@@ -558,7 +558,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L15",
       "id": "output_ai_rules_15",
-      "community": 44,
+      "community": 45,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u110b\u116f\u11ab\u110e\u1175\u11a8"
     },
     {
@@ -567,7 +567,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L17",
       "id": "output_ai_rules_collaborative",
-      "community": 44,
+      "community": 45,
       "norm_label": "\ud83e\udd1d \u1112\u1167\u11b8\u110b\u1165\u11b8 (collaborative)"
     },
     {
@@ -576,7 +576,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L22",
       "id": "output_ai_rules_22",
-      "community": 44,
+      "community": 45,
       "norm_label": "\ud83d\udcd0 \u1111\u116e\u11b7\u110c\u1175\u11af \u1100\u1175\u110c\u116e\u11ab"
     },
     {
@@ -585,7 +585,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L27",
       "id": "output_ai_rules_27",
-      "community": 44,
+      "community": 45,
       "norm_label": "\u1112\u1161\u110b\u1171 \u1111\u1169\u11af\u1103\u1165"
     },
     {
@@ -594,7 +594,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L35",
       "id": "output_ai_rules_quartz",
-      "community": 44,
+      "community": 45,
       "norm_label": "quartz \u1107\u1175\u11af\u1103\u1173"
     },
     {
@@ -603,7 +603,7 @@
       "source_file": "content/output/ai-rules.md",
       "source_location": "L38",
       "id": "output_ai_rules_ai",
-      "community": 44,
+      "community": 45,
       "norm_label": "ai \u110e\u1166\u110f\u1173\u1105\u1175\u1109\u1173\u1110\u1173"
     },
     {
@@ -783,7 +783,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L1",
       "id": "content_raw_ai_rules_md",
-      "community": 45,
+      "community": 46,
       "norm_label": "ai-rules.md"
     },
     {
@@ -792,7 +792,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L8",
       "id": "raw_ai_rules_raw_layer_ai",
-      "community": 45,
+      "community": 46,
       "norm_label": "\ud83d\udce6 raw layer \u2014 ai \u110b\u116e\u11ab\u110b\u1167\u11bc \u1100\u1172\u110e\u1175\u11a8"
     },
     {
@@ -801,7 +801,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L14",
       "id": "raw_ai_rules",
-      "community": 45,
+      "community": 46,
       "norm_label": "\u1105\u1166\u110b\u1175\u110b\u1165 \u110c\u1165\u11bc\u110b\u1174"
     },
     {
@@ -810,7 +810,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L17",
       "id": "raw_ai_rules_17",
-      "community": 45,
+      "community": 46,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u110b\u116f\u11ab\u110e\u1175\u11a8"
     },
     {
@@ -819,7 +819,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L19",
       "id": "raw_ai_rules_immutability",
-      "community": 45,
+      "community": 46,
       "norm_label": "\ud83d\udd12 \u1107\u116e\u11af\u1107\u1167\u11ab\u1109\u1165\u11bc (immutability)"
     },
     {
@@ -828,7 +828,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L24",
       "id": "raw_ai_rules_24",
-      "community": 45,
+      "community": 46,
       "norm_label": "\ud83d\udcd6 \u110b\u1175\u11b0\u1100\u1175 \u1100\u116f\u11ab\u1112\u1161\u11ab"
     },
     {
@@ -837,7 +837,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L28",
       "id": "raw_ai_rules_28",
-      "community": 45,
+      "community": 46,
       "norm_label": "\u1112\u1161\u110b\u1171 \u1111\u1169\u11af\u1103\u1165 \u1100\u116e\u110c\u1169"
     },
     {
@@ -846,7 +846,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L38",
       "id": "raw_ai_rules_quartz",
-      "community": 45,
+      "community": 46,
       "norm_label": "quartz \u1107\u1175\u11af\u1103\u1173"
     },
     {
@@ -855,7 +855,7 @@
       "source_file": "content/raw/ai-rules.md",
       "source_location": "L42",
       "id": "raw_ai_rules_ai",
-      "community": 45,
+      "community": 46,
       "norm_label": "ai \u110c\u1161\u11a8\u110b\u1165\u11b8 \u1109\u1175 \u110e\u1166\u110f\u1173\u1105\u1175\u1109\u1173\u1110\u1173"
     },
     {
@@ -873,7 +873,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L1",
       "id": "content_raw_get_shit_done_readme_ko_kr_md",
-      "community": 47,
+      "community": 48,
       "norm_label": "get shit done readme.ko-kr.md"
     },
     {
@@ -882,7 +882,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L3",
       "id": "raw_get_shit_done_readme_ko_kr_get_shit_done",
-      "community": 47,
+      "community": 48,
       "norm_label": "get shit done"
     },
     {
@@ -891,7 +891,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L22",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_1",
-      "community": 47,
+      "community": 48,
       "norm_label": "code:bash (npx get-shit-done-cc@latest)"
     },
     {
@@ -900,7 +900,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L50",
       "id": "raw_get_shit_done_readme_ko_kr",
-      "community": 47,
+      "community": 48,
       "norm_label": "\u110b\u116b \u1106\u1161\u11ab\u1103\u1173\u11af\u110b\u1165\u11bb\u1102\u1161"
     },
     {
@@ -909,7 +909,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L72",
       "id": "raw_get_shit_done_readme_ko_kr_72",
-      "community": 47,
+      "community": 48,
       "norm_label": "\u110b\u1175\u1100\u1166 \u1102\u116e\u1100\u116e\u1105\u1173\u11af \u110b\u1171\u1112\u1161\u11ab \u1100\u1165\u11ab\u1100\u1161"
     },
     {
@@ -918,7 +918,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L78",
       "id": "raw_get_shit_done_readme_ko_kr_v1_39_0",
-      "community": 47,
+      "community": 48,
       "norm_label": "v1.39.0 \u1112\u1161\u110b\u1175\u1105\u1161\u110b\u1175\u1110\u1173"
     },
     {
@@ -927,7 +927,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L92",
       "id": "raw_get_shit_done_readme_ko_kr_92",
-      "community": 46,
+      "community": 47,
       "norm_label": "\u1109\u1175\u110c\u1161\u11a8\u1112\u1161\u1100\u1175"
     },
     {
@@ -936,7 +936,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L94",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_2",
-      "community": 46,
+      "community": 47,
       "norm_label": "code:bash (npx get-shit-done-cc@latest)"
     },
     {
@@ -945,7 +945,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L114",
       "id": "raw_get_shit_done_readme_ko_kr_114",
-      "community": 46,
+      "community": 47,
       "norm_label": "\u110b\u1165\u11b8\u1103\u1166\u110b\u1175\u1110\u1173 \u110b\u1172\u110c\u1175"
     },
     {
@@ -954,7 +954,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L118",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_3",
-      "community": 46,
+      "community": 47,
       "norm_label": "code:bash (npx get-shit-done-cc@latest)"
     },
     {
@@ -963,7 +963,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L125",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_4",
-      "community": 46,
+      "community": 47,
       "norm_label": "code:bash (# claude code)"
     },
     {
@@ -972,7 +972,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L182",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_5",
-      "community": 46,
+      "community": 47,
       "norm_label": "code:bash (git clone https://github.com/gsd-build/get-shit-done.git)"
     },
     {
@@ -981,7 +981,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L192",
       "id": "raw_get_shit_done_readme_ko_kr_192",
-      "community": 46,
+      "community": 47,
       "norm_label": "\u1100\u116f\u11ab\u110c\u1161\u11bc: \u1100\u116f\u11ab\u1112\u1161\u11ab \u1112\u116a\u11a8\u110b\u1175\u11ab \u1100\u1165\u11ab\u1102\u1165\u1104\u1171\u1100\u1175 \u1106\u1169\u1103\u1173"
     },
     {
@@ -990,7 +990,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L196",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_6",
-      "community": 46,
+      "community": 47,
       "norm_label": "code:bash (claude --dangerously-skip-permissions)"
     },
     {
@@ -999,7 +999,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L208",
       "id": "raw_get_shit_done_readme_ko_kr_codeblock_7",
-      "community": 46,
+      "community": 47,
       "norm_label": "code:json ({)"
     },
     {
@@ -1242,7 +1242,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L532",
       "id": "raw_get_shit_done_readme_ko_kr_532",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165"
     },
     {
@@ -1251,7 +1251,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L534",
       "id": "raw_get_shit_done_readme_ko_kr_534",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e"
     },
     {
@@ -1260,7 +1260,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L552",
       "id": "raw_get_shit_done_readme_ko_kr_552",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u110b\u116f\u110f\u1173\u1109\u1173\u1110\u1173\u1105\u1175\u11b7"
     },
     {
@@ -1269,7 +1269,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L561",
       "id": "raw_get_shit_done_readme_ko_kr_561",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1106\u1165\u11af\u1110\u1175 \u1111\u1173\u1105\u1169\u110c\u1166\u11a8\u1110\u1173 \u110b\u116f\u110f\u1173\u1109\u1173\u1111\u1166\u110b\u1175\u1109\u1173"
     },
     {
@@ -1278,7 +1278,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L569",
       "id": "raw_get_shit_done_readme_ko_kr_ui",
-      "community": 27,
+      "community": 28,
       "norm_label": "ui \u1103\u1175\u110c\u1161\u110b\u1175\u11ab"
     },
     {
@@ -1287,7 +1287,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L576",
       "id": "raw_get_shit_done_readme_ko_kr_576",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1110\u1161\u11b7\u1109\u1162\u11a8"
     },
     {
@@ -1296,7 +1296,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L586",
       "id": "raw_get_shit_done_readme_ko_kr_586",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1107\u1173\u1105\u1161\u110b\u116e\u11ab\u1111\u1175\u11af\u1103\u1173"
     },
     {
@@ -1305,7 +1305,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L592",
       "id": "raw_get_shit_done_readme_ko_kr_592",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1103\u1161\u11ab\u1100\u1168 \u1100\u116a\u11ab\u1105\u1175"
     },
     {
@@ -1314,7 +1314,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L603",
       "id": "raw_get_shit_done_readme_ko_kr_603",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1109\u1166\u1109\u1167\u11ab"
     },
     {
@@ -1323,7 +1323,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L611",
       "id": "raw_get_shit_done_readme_ko_kr_611",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u110f\u1169\u1103\u1173 \u1111\u116e\u11b7\u110c\u1175\u11af"
     },
     {
@@ -1332,7 +1332,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L619",
       "id": "raw_get_shit_done_readme_ko_kr_619",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u1107\u1162\u11a8\u1105\u1169\u1100\u1173 \u1106\u1175\u11be \u1109\u1173\u1105\u1166\u1103\u1173"
     },
     {
@@ -1341,7 +1341,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L628",
       "id": "raw_get_shit_done_readme_ko_kr_628",
-      "community": 27,
+      "community": 28,
       "norm_label": "\u110b\u1172\u1110\u1175\u11af\u1105\u1175\u1110\u1175"
     },
     {
@@ -1494,7 +1494,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L826",
       "id": "raw_get_shit_done_readme_ko_kr_826",
-      "community": 47,
+      "community": 48,
       "norm_label": "\u110f\u1165\u1106\u1172\u1102\u1175\u1110\u1175 \u1111\u1169\u1110\u1173"
     },
     {
@@ -1503,7 +1503,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L839",
       "id": "raw_get_shit_done_readme_ko_kr_839",
-      "community": 47,
+      "community": 48,
       "norm_label": "\u1109\u1173\u1110\u1161 \u1112\u1175\u1109\u1173\u1110\u1169\u1105\u1175"
     },
     {
@@ -1512,7 +1512,7 @@
       "source_file": "content/raw/GET SHIT DONE README.ko-KR.md",
       "source_location": "L851",
       "id": "raw_get_shit_done_readme_ko_kr_851",
-      "community": 47,
+      "community": 48,
       "norm_label": "\u1105\u1161\u110b\u1175\u1109\u1165\u11ab\u1109\u1173"
     },
     {
@@ -1521,7 +1521,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L1",
       "id": "content_raw_gstack_agy_antigravity_cli_md",
-      "community": 23,
+      "community": 24,
       "norm_label": "gstack \u1109\u1165\u11af\u110e\u1175 - agy (antigravity cli).md"
     },
     {
@@ -1530,7 +1530,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L2",
       "id": "raw_gstack_agy_antigravity_cli_0",
-      "community": 23,
+      "community": 24,
       "norm_label": "0. \u1112\u116a\u11a8\u110b\u1175\u11ab"
     },
     {
@@ -1539,7 +1539,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L4",
       "id": "raw_gstack_agy_antigravity_cli_quick_start",
-      "community": 23,
+      "community": 24,
       "norm_label": "quick start"
     },
     {
@@ -1548,7 +1548,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L14",
       "id": "raw_gstack_agy_antigravity_cli_1",
-      "community": 23,
+      "community": 24,
       "norm_label": "1. \u1109\u1165\u11af\u110e\u1175"
     },
     {
@@ -1557,7 +1557,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L15",
       "id": "raw_gstack_agy_antigravity_cli_step_1",
-      "community": 23,
+      "community": 24,
       "norm_label": "step 1. \u1102\u1162 \u110f\u1169\u11b7\u1111\u1172\u1110\u1161\u110b\u1166 \u1109\u1165\u11af\u110e\u1175"
     },
     {
@@ -1566,7 +1566,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L18",
       "id": "raw_gstack_agy_antigravity_cli_codeblock_1",
-      "community": 23,
+      "community": 24,
       "norm_label": "code:block1 (install gstack for agy (antigravity cli):)"
     },
     {
@@ -1575,7 +1575,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L37",
       "id": "raw_gstack_agy_antigravity_cli_step_2",
-      "community": 23,
+      "community": 24,
       "norm_label": "step 2. \u1110\u1175\u11b7 \u1106\u1169\u1103\u1173 - \u1100\u1169\u11bc\u110b\u1172 \u110c\u1165\u110c\u1161\u11bc\u1109\u1169 \u110c\u1161\u1103\u1169\u11bc \u110b\u1165\u11b8\u1103\u1166\u110b\u1175\u1110\u1173(\u110e\u116e\u110e\u1165\u11ab)"
     },
     {
@@ -1584,7 +1584,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L39",
       "id": "raw_gstack_agy_antigravity_cli_codeblock_2",
-      "community": 23,
+      "community": 24,
       "norm_label": "code:block2 (set up gstack team mode for agy (antigravity cli):)"
     },
     {
@@ -1593,7 +1593,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L51",
       "id": "raw_gstack_agy_antigravity_cli_openclaw_agy",
-      "community": 23,
+      "community": 24,
       "norm_label": "openclaw (agy \u1107\u1165\u110c\u1165\u11ab)"
     },
     {
@@ -1602,7 +1602,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L52",
       "id": "raw_gstack_agy_antigravity_cli_codeblock_3",
-      "community": 23,
+      "community": 24,
       "norm_label": "code:block3 (set up gstack for openclaw (agy variant):)"
     },
     {
@@ -1611,7 +1611,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L60",
       "id": "raw_gstack_agy_antigravity_cli_2",
-      "community": 23,
+      "community": 24,
       "norm_label": "2. \u1103\u1169\u11bc\u110c\u1161\u11a8 \u1112\u116a\u11a8\u110b\u1175\u11ab"
     },
     {
@@ -1620,7 +1620,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L62",
       "id": "raw_gstack_agy_antigravity_cli_codeblock_4",
-      "community": 23,
+      "community": 24,
       "norm_label": "code:block4 (you:    i want to build a daily briefing app for my calendar)"
     },
     {
@@ -1629,7 +1629,7 @@
       "source_file": "content/raw/GSTACK \uc124\uce58 - agy (Antigravity CLI).md",
       "source_location": "L103",
       "id": "raw_gstack_agy_antigravity_cli",
-      "community": 23,
+      "community": 24,
       "norm_label": "\u1109\u1173\u1111\u1173\u1105\u1175\u11ab\u1110\u1173"
     },
     {
@@ -2349,7 +2349,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L1",
       "id": "content_raw_articles_getting_started_with_loops_md",
-      "community": 28,
+      "community": 29,
       "norm_label": "getting started with loops.md"
     },
     {
@@ -2358,7 +2358,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L144",
       "id": "articles_getting_started_with_loops_turn_based_loops",
-      "community": 28,
+      "community": 29,
       "norm_label": "**turn-based loops**"
     },
     {
@@ -2367,7 +2367,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L161",
       "id": "articles_getting_started_with_loops_codeblock_1",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:plaintext (---)"
     },
     {
@@ -2376,7 +2376,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L181",
       "id": "articles_getting_started_with_loops_goal_based_loop_goal",
-      "community": 28,
+      "community": 29,
       "norm_label": "**goal-based loop (/goal)**"
     },
     {
@@ -2385,7 +2385,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L198",
       "id": "articles_getting_started_with_loops_codeblock_2",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:plaintext (/goal get the homepage lighthouse score to 90 or above, stop)"
     },
     {
@@ -2394,7 +2394,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L202",
       "id": "articles_getting_started_with_loops_time_based_loop_loop_and_schedule",
-      "community": 28,
+      "community": 29,
       "norm_label": "**time-based loop (/loop and /schedule)**"
     },
     {
@@ -2403,7 +2403,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L213",
       "id": "articles_getting_started_with_loops_codeblock_3",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:plaintext (/loop 5m check my pr, address review comments, and fix faili)"
     },
     {
@@ -2412,7 +2412,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L219",
       "id": "articles_getting_started_with_loops_proactive_loops",
-      "community": 28,
+      "community": 29,
       "norm_label": "**proactive loops**"
     },
     {
@@ -2421,7 +2421,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L239",
       "id": "articles_getting_started_with_loops_codeblock_4",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:plaintext (/schedule every hour: check #project-feedback for bug report)"
     },
     {
@@ -2430,7 +2430,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L243",
       "id": "articles_getting_started_with_loops_maintaining_code_quality",
-      "community": 28,
+      "community": 29,
       "norm_label": "**maintaining code quality**"
     },
     {
@@ -2439,7 +2439,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L254",
       "id": "articles_getting_started_with_loops_managing_token_usage",
-      "community": 28,
+      "community": 29,
       "norm_label": "**managing token usage**"
     },
     {
@@ -2448,7 +2448,7 @@
       "source_file": "content/raw/articles/Getting started with loops.md",
       "source_location": "L265",
       "id": "articles_getting_started_with_loops_getting_started",
-      "community": 28,
+      "community": 29,
       "norm_label": "**getting started**"
     },
     {
@@ -2835,7 +2835,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L1",
       "id": "content_raw_articles_open_code_1_opencode_oh_my_opencode_md",
-      "community": 15,
+      "community": 16,
       "norm_label": "open code \u1105\u1175\u1107\u1172(1)  opencode \u1109\u1165\u11af\u110e\u1175(oh-my-opencode \u1109\u1161\u110c\u1165\u11ab \u1112\u1161\u11a8\u1109\u1173\u11b8) \u1106\u1175\u11be \u1109\u1165\u11af\u110c\u1165\u11bc, \u1100\u1175\u1107\u1169\u11ab \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165 \u1109\u1161\u11af\u1111\u1167\u1107\u1169\u1100\u1175.md"
     },
     {
@@ -2844,7 +2844,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L12",
       "id": "articles_open_code_1_opencode_oh_my_opencode_open_code_1_opencode_oh_my_opencode",
-      "community": 15,
+      "community": 16,
       "norm_label": "open code \u1105\u1175\u1107\u1172(1) : opencode \u1109\u1165\u11af\u110e\u1175(oh-my-opencode \u1109\u1161\u110c\u1165\u11ab \u1112\u1161\u11a8\u1109\u1173\u11b8) \u1106\u1175\u11be \u1109\u1165\u11af\u110c\u1165\u11bc, \u1100\u1175\u1107\u1169\u11ab \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165 \u1109\u1161\u11af\u1111\u1167\u1107\u1169\u1100\u1175"
     },
     {
@@ -2853,7 +2853,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L18",
       "id": "articles_open_code_1_opencode_oh_my_opencode",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u1106\u1166\u1110\u1161\u1103\u1166\u110b\u1175\u1110\u1165"
     },
     {
@@ -2862,7 +2862,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L38",
       "id": "articles_open_code_1_opencode_oh_my_opencode_38",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u1106\u1169\u11a8\u110e\u1161"
     },
     {
@@ -2871,7 +2871,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L69",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode",
-      "community": 135,
+      "community": 16,
       "norm_label": "opencode\u1105\u1161\u11ab \u1106\u116e\u110b\u1165\u11ba\u110b\u1175\u11ab\u1100\u1161"
     },
     {
@@ -2880,7 +2880,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L81",
       "id": "articles_open_code_1_opencode_oh_my_opencode_81",
-      "community": 135,
+      "community": 16,
       "norm_label": "\u110c\u116e\u110b\u116d \u1110\u1173\u11a8\u110c\u1175\u11bc"
     },
     {
@@ -2889,7 +2889,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L94",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode_94",
-      "community": 135,
+      "community": 16,
       "norm_label": "\u110b\u116b opencode\u110b\u1175\u11ab\u1100\u1161?: \u1107\u1175\u110b\u116d\u11bc \u1107\u1175\u1100\u116d"
     },
     {
@@ -3006,7 +3006,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L190",
       "id": "articles_open_code_1_opencode_oh_my_opencode_llm",
-      "community": 24,
+      "community": 25,
       "norm_label": "\u110e\u1169\u1100\u1175 \u1109\u1165\u11af\u110c\u1165\u11bc: llm \u110c\u1166\u1100\u1169\u11bc\u110c\u1161 \u110b\u1167\u11ab\u1100\u1167\u11af"
     },
     {
@@ -3015,7 +3015,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L194",
       "id": "articles_open_code_1_opencode_oh_my_opencode_connect",
-      "community": 24,
+      "community": 25,
       "norm_label": "/connect \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1173\u1105\u1169 \u110b\u1167\u11ab\u1100\u1167\u11af\u1112\u1161\u1100\u1175"
     },
     {
@@ -3024,7 +3024,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L200",
       "id": "articles_open_code_1_opencode_oh_my_opencode_codeblock_8",
-      "community": 24,
+      "community": 25,
       "norm_label": "code:bash (opencode)"
     },
     {
@@ -3033,7 +3033,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L209",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode_zen",
-      "community": 24,
+      "community": 25,
       "norm_label": "opencode zen: \u110f\u1169\u1103\u1175\u11bc \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u110e\u116c\u110c\u1165\u11a8\u1112\u116a \u1106\u1169\u1103\u1166\u11af"
     },
     {
@@ -3042,7 +3042,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L222",
       "id": "articles_open_code_1_opencode_oh_my_opencode_glm_4_7",
-      "community": 24,
+      "community": 25,
       "norm_label": "glm-4.7: \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173 \u110f\u1169\u1103\u1175\u11bc\u110b\u1174 \u1109\u1162\u1105\u1169\u110b\u116e\u11ab \u1111\u116d\u110c\u116e\u11ab"
     },
     {
@@ -3051,7 +3051,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L252",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode_black_claude",
-      "community": 24,
+      "community": 25,
       "norm_label": "opencode black: \u110b\u116f\u11af\u110c\u1165\u11bc\u110b\u1162\u11a8 \u1100\u116e\u1103\u1169\u11a8\u110b\u1173\u1105\u1169 claude \u1109\u1161\u110b\u116d\u11bc\u1112\u1161\u1100\u1175"
     },
     {
@@ -3060,7 +3060,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L277",
       "id": "articles_open_code_1_opencode_oh_my_opencode_llm_277",
-      "community": 24,
+      "community": 25,
       "norm_label": "\u110c\u116e\u110b\u116d llm \u110c\u1166\u1100\u1169\u11bc\u110c\u1161 \u1109\u1169\u1100\u1162"
     },
     {
@@ -3069,7 +3069,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L287",
       "id": "articles_open_code_1_opencode_oh_my_opencode_llm_ollama",
-      "community": 24,
+      "community": 25,
       "norm_label": "\u1105\u1169\u110f\u1165\u11af llm (ollama) \u1109\u1161\u110b\u116d\u11bc\u1112\u1161\u1100\u1175"
     },
     {
@@ -3078,7 +3078,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L291",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode_local_llm",
-      "community": 24,
+      "community": 25,
       "norm_label": "opencode + local llm \u110f\u1171\u11a8\u1109\u1173\u1110\u1161\u1110\u1173"
     },
     {
@@ -3087,7 +3087,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L312",
       "id": "articles_open_code_1_opencode_oh_my_opencode_anthropic_claude",
-      "community": 24,
+      "community": 25,
       "norm_label": "anthropic claude \u110b\u1167\u11ab\u1103\u1169\u11bc \u1109\u1175 \u110c\u116e\u110b\u1174\u1109\u1161\u1112\u1161\u11bc"
     },
     {
@@ -3096,7 +3096,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L376",
       "id": "articles_open_code_1_opencode_oh_my_opencode_api",
-      "community": 24,
+      "community": 25,
       "norm_label": "\u1109\u1165\u11af\u110c\u1165\u11bc \u1111\u1161\u110b\u1175\u11af\u1105\u1169 api \u110f\u1175 \u1100\u116a\u11ab\u1105\u1175\u1112\u1161\u1100\u1175"
     },
     {
@@ -3105,7 +3105,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L383",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode_json",
-      "community": 24,
+      "community": 25,
       "norm_label": "opencode.json \u110b\u1168\u1109\u1175"
     },
     {
@@ -3114,7 +3114,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L385",
       "id": "articles_open_code_1_opencode_oh_my_opencode_codeblock_9",
-      "community": 24,
+      "community": 25,
       "norm_label": "code:json ({)"
     },
     {
@@ -3123,7 +3123,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L489",
       "id": "articles_open_code_1_opencode_oh_my_opencode_489",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u1100\u1175\u1107\u1169\u11ab \u1109\u1161\u110b\u116d\u11bc\u1107\u1165\u11b8"
     },
     {
@@ -3132,7 +3132,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L491",
       "id": "articles_open_code_1_opencode_oh_my_opencode_491",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u110e\u1165\u11ba \u1109\u1175\u11af\u1112\u1162\u11bc"
     },
     {
@@ -3141,7 +3141,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L497",
       "id": "articles_open_code_1_opencode_oh_my_opencode_codeblock_10",
-      "community": 29,
+      "community": 31,
       "norm_label": "code:applescript (cd my-project)"
     },
     {
@@ -3150,7 +3150,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L504",
       "id": "articles_open_code_1_opencode_oh_my_opencode_504",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u1102\u1162\u110c\u1161\u11bc \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165"
     },
     {
@@ -3159,7 +3159,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L526",
       "id": "articles_open_code_1_opencode_oh_my_opencode_526",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u1106\u1169\u1103\u1166\u11af \u1109\u1165\u11ab\u1110\u1162\u11a8\u1100\u116a \u110c\u1165\u11ab\u1112\u116a\u11ab"
     },
     {
@@ -3168,7 +3168,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L543",
       "id": "articles_open_code_1_opencode_oh_my_opencode_codeblock_11",
-      "community": 29,
+      "community": 31,
       "norm_label": "code:csharp (/models          // \u1109\u1173\u11af\u1105\u1162\u1109\u1175 \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165\u1105\u1169 \u1106\u1169\u1103\u1166\u11af \u1109\u1165\u11ab\u1110\u1162\u11a8 \u1106\u1166\u1102\u1172 \u110b\u1167\u11af\u1100\u1175)"
     },
     {
@@ -3177,7 +3177,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L557",
       "id": "articles_open_code_1_opencode_oh_my_opencode_init",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u1111\u1173\u1105\u1169\u110c\u1166\u11a8\u1110\u1173 \u110e\u1169\u1100\u1175\u1112\u116a: /init"
     },
     {
@@ -3186,7 +3186,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L563",
       "id": "articles_open_code_1_opencode_oh_my_opencode_codeblock_12",
-      "community": 29,
+      "community": 31,
       "norm_label": "code:csharp (/init)"
     },
     {
@@ -3195,7 +3195,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L583",
       "id": "articles_open_code_1_opencode_oh_my_opencode_583",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u1111\u1161\u110b\u1175\u11af \u110e\u1161\u11b7\u110c\u1169\u1112\u1161\u1100\u1175: @ \u1106\u116e\u11ab\u1107\u1165\u11b8"
     },
     {
@@ -3204,7 +3204,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L587",
       "id": "articles_open_code_1_opencode_oh_my_opencode_587",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u1111\u1161\u110b\u1175\u11af \u110e\u1161\u11b7\u110c\u1169 \u110b\u1168\u1109\u1175"
     },
     {
@@ -3213,7 +3213,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L589",
       "id": "articles_open_code_1_opencode_oh_my_opencode_codeblock_13",
-      "community": 29,
+      "community": 31,
       "norm_label": "code:block13 (@src/auth.ts \u110b\u1175 \u1111\u1161\u110b\u1175\u11af\u110b\u1174 \u110b\u1175\u11ab\u110c\u1173\u11bc \u1105\u1169\u110c\u1175\u11a8\u110b\u1173\u11af \u1109\u1165\u11af\u1106\u1167\u11bc\u1112\u1162\u110c\u116f)"
     },
     {
@@ -3222,7 +3222,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L601",
       "id": "articles_open_code_1_opencode_oh_my_opencode_601",
-      "community": 29,
+      "community": 31,
       "norm_label": "\u110b\u1175\u1106\u1175\u110c\u1175 \u1112\u116a\u11af\u110b\u116d\u11bc"
     },
     {
@@ -3294,7 +3294,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L676",
       "id": "articles_open_code_1_opencode_oh_my_opencode_676",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u1102\u1162\u110c\u1161\u11bc \u1103\u1169\u1100\u116e"
     },
     {
@@ -3303,7 +3303,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L693",
       "id": "articles_open_code_1_opencode_oh_my_opencode_693",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u110b\u1172\u110b\u116d\u11bc\u1112\u1161\u11ab \u110f\u1175 \u1107\u1161\u110b\u1175\u11ab\u1103\u1175\u11bc"
     },
     {
@@ -3366,7 +3366,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L762",
       "id": "articles_open_code_1_opencode_oh_my_opencode_762",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u1109\u1175\u11af\u110c\u1165\u11ab \u1100\u1162\u1107\u1161\u11af \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e"
     },
     {
@@ -3375,7 +3375,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L766",
       "id": "articles_open_code_1_opencode_oh_my_opencode_6",
-      "community": 15,
+      "community": 16,
       "norm_label": "6\u1103\u1161\u11ab\u1100\u1168 \u1100\u1162\u1107\u1161\u11af \u1111\u1161\u110b\u1175\u1111\u1173\u1105\u1161\u110b\u1175\u11ab"
     },
     {
@@ -3384,7 +3384,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L783",
       "id": "articles_open_code_1_opencode_oh_my_opencode_mcp",
-      "community": 15,
+      "community": 16,
       "norm_label": "mcp \u1109\u1165\u1107\u1165 \u110b\u1167\u11ab\u1103\u1169\u11bc"
     },
     {
@@ -3393,7 +3393,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L787",
       "id": "articles_open_code_1_opencode_oh_my_opencode_mcp_787",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u110c\u1161\u110c\u116e \u1109\u1161\u110b\u116d\u11bc\u1103\u116c\u1102\u1173\u11ab mcp \u1109\u1165\u1107\u1165"
     },
     {
@@ -3402,7 +3402,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L797",
       "id": "articles_open_code_1_opencode_oh_my_opencode_797",
-      "community": 15,
+      "community": 135,
       "norm_label": "\u110b\u1175\u1109\u1161\u11bc\u110c\u1165\u11a8\u110b\u1175\u11ab \u110b\u1172\u1109\u1173\u110f\u1166\u110b\u1175\u1109\u1173"
     },
     {
@@ -3411,7 +3411,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L801",
       "id": "articles_open_code_1_opencode_oh_my_opencode_opencode_801",
-      "community": 15,
+      "community": 135,
       "norm_label": "opencode\u1100\u1161 \u110c\u1165\u11a8\u1112\u1161\u11b8\u1112\u1161\u11ab \u1100\u1167\u11bc\u110b\u116e"
     },
     {
@@ -3420,7 +3420,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L810",
       "id": "articles_open_code_1_opencode_oh_my_opencode_810",
-      "community": 15,
+      "community": 135,
       "norm_label": "\u1103\u1161\u1105\u1173\u11ab \u1103\u1169\u1100\u116e\u1100\u1161 \u1103\u1165 \u110c\u1165\u11a8\u1112\u1161\u11b8\u1112\u1161\u11af \u1109\u116e \u110b\u1175\u11bb\u1102\u1173\u11ab \u1100\u1167\u11bc\u110b\u116e"
     },
     {
@@ -3429,7 +3429,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(1)  OpenCode \uc124\uce58(oh-my-opencode \uc0ac\uc804 \ud559\uc2b5) \ubc0f \uc124\uc815, \uae30\ubcf8 \uba85\ub839\uc5b4 \uc0b4\ud3b4\ubcf4\uae30.md",
       "source_location": "L816",
       "id": "articles_open_code_1_opencode_oh_my_opencode_816",
-      "community": 15,
+      "community": 16,
       "norm_label": "\u110c\u1161\u110c\u116e \u1106\u116e\u11ae\u1102\u1173\u11ab \u110c\u1175\u11af\u1106\u116e\u11ab"
     },
     {
@@ -3510,7 +3510,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1",
       "id": "content_raw_articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_md",
-      "community": 16,
+      "community": 17,
       "norm_label": "open code \u1105\u1175\u1107\u1172(2)  oh-my-opencode \u1109\u1165\u11af\u110e\u1175 \u1106\u1175\u11be \u1109\u1165\u11af\u110c\u1165\u11bc \u1107\u1161\u11bc\u1107\u1165\u11b8(\u1100\u1175\u1107\u1169\u11ab \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165, \u1109\u1173\u11af\u1105\u1162\u1109\u1175 \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165, \u110b\u1167\u11ab\u1103\u1169\u11bc \u1107\u1161\u11bc\u1107\u1165\u11b8 \u1103\u1173\u11bc) with claude,openai,gemini.md"
     },
     {
@@ -3519,7 +3519,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L12",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_open_code_2_oh_my_opencode_with_claude_openai_gemini",
-      "community": 16,
+      "community": 17,
       "norm_label": "open code \u1105\u1175\u1107\u1172(2) : oh-my-opencode \u1109\u1165\u11af\u110e\u1175 \u1106\u1175\u11be \u1109\u1165\u11af\u110c\u1165\u11bc \u1107\u1161\u11bc\u1107\u1165\u11b8(\u1100\u1175\u1107\u1169\u11ab \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165, \u1109\u1173\u11af\u1105\u1162\u1109\u1175 \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165, \u110b\u1167\u11ab\u1103\u1169\u11bc \u1107\u1161\u11bc\u1107\u1165\u11b8 \u1103\u1173\u11bc) with claude,openai,gemini"
     },
     {
@@ -3528,7 +3528,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L18",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u1106\u1166\u1110\u1161\u1103\u1166\u110b\u1175\u1110\u1165"
     },
     {
@@ -3537,7 +3537,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L47",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_47",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u1106\u1169\u11a8\u110e\u1161"
     },
     {
@@ -3546,7 +3546,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L90",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_opencode_vs_oh_my_opencode",
-      "community": 16,
+      "community": 17,
       "norm_label": "opencode vs oh-my-opencode"
     },
     {
@@ -3555,7 +3555,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L107",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_107",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173\u110b\u1174 \u1109\u1175\u1103\u1162: \u1111\u1162\u1105\u1165\u1103\u1161\u110b\u1175\u11b7 \u110c\u1165\u11ab\u1112\u116a\u11ab"
     },
     {
@@ -3564,7 +3564,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L111",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_ai",
-      "community": 16,
+      "community": 17,
       "norm_label": "ai \u110f\u1169\u1103\u1175\u11bc \u1103\u1169\u1100\u116e\u110b\u1174 \u110c\u1175\u11ab\u1112\u116a \u1103\u1161\u11ab\u1100\u1168"
     },
     {
@@ -3771,7 +3771,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L280",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_280",
-      "community": 17,
+      "community": 18,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u1100\u1175\u1102\u1173\u11bc"
     },
     {
@@ -3780,7 +3780,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L282",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_todo_continuation_enforcer",
-      "community": 17,
+      "community": 18,
       "norm_label": "todo continuation enforcer: \u110b\u116a\u11ab\u1105\u116d\u1101\u1161\u110c\u1175 \u1106\u1165\u11b7\u110e\u116e\u110c\u1175 \u110b\u1161\u11ad\u1102\u1173\u11ab\u1103\u1161"
     },
     {
@@ -3789,7 +3789,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L289",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_289",
-      "community": 17,
+      "community": 18,
       "norm_label": "\u110f\u1165\u11ab\u1110\u1166\u11a8\u1109\u1173\u1110\u1173 \u110b\u1175\u11ab\u1110\u1166\u11af\u1105\u1175\u110c\u1165\u11ab\u1109\u1173"
     },
     {
@@ -3798,7 +3798,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L301",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_301",
-      "community": 17,
+      "community": 18,
       "norm_label": "\u110c\u1161\u1103\u1169\u11bc \u110f\u1165\u11ab\u1110\u1166\u11a8\u1109\u1173\u1110\u1173 \u110c\u116e\u110b\u1175\u11b8"
     },
     {
@@ -3807,7 +3807,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L305",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_directory_agents_md_injector",
-      "community": 17,
+      "community": 18,
       "norm_label": "directory agents.md injector"
     },
     {
@@ -3816,7 +3816,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L309",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_4",
-      "community": 17,
+      "community": 18,
       "norm_label": "code:perl (project/)"
     },
     {
@@ -3825,7 +3825,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L321",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_conditional_rules_injector",
-      "community": 17,
+      "community": 18,
       "norm_label": "conditional rules injector"
     },
     {
@@ -3834,7 +3834,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L325",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_5",
-      "community": 17,
+      "community": 18,
       "norm_label": "code:yaml (---)"
     },
     {
@@ -3843,7 +3843,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L336",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_336",
-      "community": 17,
+      "community": 18,
       "norm_label": "\u1107\u1162\u11a8\u1100\u1173\u1105\u1161\u110b\u116e\u11ab\u1103\u1173 \u1107\u1167\u11bc\u1105\u1167\u11af \u110c\u1161\u11a8\u110b\u1165\u11b8"
     },
     {
@@ -3852,7 +3852,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L340",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_340",
-      "community": 17,
+      "community": 18,
       "norm_label": "\u1107\u1167\u11bc\u1105\u1167\u11af \u110c\u1161\u11a8\u110b\u1165\u11b8 \u110b\u1168\u1109\u1175"
     },
     {
@@ -3861,7 +3861,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L349",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_call_omo_agent",
-      "community": 17,
+      "community": 18,
       "norm_label": "call\\_omo\\_agent: \u1107\u1162\u11a8\u1100\u1173\u1105\u1161\u110b\u116e\u11ab\u1103\u1173 \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1109\u1175\u11af\u1112\u1162\u11bc"
     },
     {
@@ -3870,7 +3870,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L353",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_6",
-      "community": 17,
+      "community": 18,
       "norm_label": "code:csharp (// \u1107\u1162\u11a8\u1100\u1173\u1105\u1161\u110b\u116e\u11ab\u1103\u1173\u110b\u1166\u1109\u1165 \u1110\u1166\u1109\u1173\u1110\u1173 \u110c\u1161\u11a8\u1109\u1165\u11bc \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1109\u1175\u11af\u1112\u1162\u11bc)"
     },
     {
@@ -3879,7 +3879,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L367",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_claude_code",
-      "community": 17,
+      "community": 18,
       "norm_label": "claude code \u1112\u1169\u1112\u116a\u11ab\u1109\u1165\u11bc \u1105\u1166\u110b\u1175\u110b\u1165"
     },
     {
@@ -3888,7 +3888,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L371",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_hook",
-      "community": 17,
+      "community": 18,
       "norm_label": "hook \u1109\u1175\u1109\u1173\u1110\u1166\u11b7 \u1109\u1161\u11bc\u1109\u1166"
     },
     {
@@ -4077,7 +4077,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L606",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_606",
-      "community": 70,
+      "community": 71,
       "norm_label": "\u1109\u1165\u11af\u110c\u1165\u11bc \u1111\u1161\u110b\u1175\u11af \u1100\u116e\u110c\u1169 \u110b\u1175\u1112\u1162\u1112\u1161\u1100\u1175"
     },
     {
@@ -4086,7 +4086,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L610",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_610",
-      "community": 70,
+      "community": 71,
       "norm_label": "\u1109\u1165\u11af\u110c\u1165\u11bc \u1111\u1161\u110b\u1175\u11af \u110b\u1171\u110e\u1175"
     },
     {
@@ -4095,7 +4095,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L612",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_17",
-      "community": 70,
+      "community": 71,
       "norm_label": "code:applescript (# \u1100\u1173\u11af\u1105\u1169\u1107\u1165\u11af \u1109\u1165\u11af\u110c\u1165\u11bc \u1103\u1175\u1105\u1166\u11a8\u1110\u1169\u1105\u1175 (\u1106\u1169\u1103\u1173\u11ab \u1111\u1173\u1105\u1169\u110c\u1166\u11a8\u1110\u1173\u110b\u1166 \u110c\u1165\u11a8\u110b\u116d\u11bc))"
     },
     {
@@ -4104,7 +4104,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L642",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_oh_my_opencode_json",
-      "community": 70,
+      "community": 71,
       "norm_label": "oh-my-opencode.json \u1109\u1165\u11af\u110c\u1165\u11bc \u110b\u1168\u1109\u1175"
     },
     {
@@ -4113,7 +4113,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L646",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_18",
-      "community": 70,
+      "community": 71,
       "norm_label": "code:json (// ~/.config/opencode/oh-my-opencode.json)"
     },
     {
@@ -4122,7 +4122,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L690",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_690",
-      "community": 70,
+      "community": 71,
       "norm_label": "\u1109\u1161\u110b\u116d\u11bc \u1100\u1161\u1102\u1173\u11bc\u1112\u1161\u11ab \u1106\u1169\u1103\u1166\u11af \u1112\u116a\u11a8\u110b\u1175\u11ab\u1112\u1161\u1100\u1175"
     },
     {
@@ -4131,7 +4131,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L694",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_19",
-      "community": 70,
+      "community": 71,
       "norm_label": "code:javascript (# google \u1106\u1169\u1103\u1166\u11af \u110c\u116e\u11bc gemini 3 \u1112\u116a\u11a8\u110b\u1175\u11ab)"
     },
     {
@@ -4140,7 +4140,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L719",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_ultrawork",
-      "community": 48,
+      "community": 50,
       "norm_label": "\u1109\u1161\u110b\u116d\u11bc\u1107\u1165\u11b8: ultrawork \u110f\u1175\u110b\u116f\u1103\u1173"
     },
     {
@@ -4149,7 +4149,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L731",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_ultrawork_731",
-      "community": 48,
+      "community": 50,
       "norm_label": "ultrawork \u1109\u1161\u110b\u116d\u11bc \u110b\u1168\u1109\u1175"
     },
     {
@@ -4158,7 +4158,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L733",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_733",
-      "community": 48,
+      "community": 50,
       "norm_label": "\u1100\u1175\u1107\u1169\u11ab \u1109\u1161\u110b\u116d\u11bc"
     },
     {
@@ -4167,7 +4167,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L735",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_20",
-      "community": 48,
+      "community": 50,
       "norm_label": "code:javascript (\u110b\u1175 \u1111\u1173\u1105\u1169\u110c\u1166\u11a8\u1110\u1173\u1105\u1173\u11af \u1107\u116e\u11ab\u1109\u1165\u11a8\u1112\u1161\u1100\u1169 \u1105\u1175\u1111\u1162\u11a8\u1110\u1169\u1105\u1175\u11bc \u1100\u1168\u1112\u116c\u11a8\u110b\u1173\u11af \u1109\u1166\u110b\u116f\u110c\u116f ultrawork)"
     },
     {
@@ -4176,7 +4176,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L757",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_21",
-      "community": 48,
+      "community": 50,
       "norm_label": "code:javascript (\u110b\u1175\u110c\u1166 \u110c\u1169\u11bc\u1112\u1161\u11b8\u110c\u1165\u11a8\u110b\u1175\u11ab \u1107\u116e\u11ab\u1109\u1165\u11a8\u1100\u116a \u110c\u1165\u11ab\u1105\u1163\u11a8\u110c\u1165\u11a8 \u1105\u1175\u1111\u1162\u11a8\u1110\u1169\u1105\u1175\u11bc \u1100\u1168\u1112\u116c\u11a8\u110b\u1175 \u110b\u116a\u11ab\u1109\u1165\u11bc\u1103\u116c\u110b\u1165\u11bb\u1109\u1173\u11b8\u1102\u1175\u1103\u1161.)"
     },
     {
@@ -4185,7 +4185,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L890",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_890",
-      "community": 48,
+      "community": 50,
       "norm_label": "\u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u110c\u1175\u11a8\u110c\u1165\u11b8 \u1112\u1169\u110e\u116e\u11af"
     },
     {
@@ -4194,7 +4194,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L894",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_894",
-      "community": 48,
+      "community": 50,
       "norm_label": "\u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u110c\u1175\u11a8\u110c\u1165\u11b8 \u1112\u1169\u110e\u116e\u11af \u110b\u1168\u1109\u1175"
     },
     {
@@ -4203,7 +4203,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L896",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_codeblock_22",
-      "community": 48,
+      "community": 50,
       "norm_label": "code:javascript (@oracle \u110b\u1175 \u1109\u1175\u1109\u1173\u1110\u1166\u11b7\u110b\u1174 \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165\u1105\u1173\u11af \u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u1100\u1162\u1109\u1165\u11ab\u1112\u1161\u1106\u1167\u11ab \u110c\u1169\u11c2\u110b\u1173\u11af\u1101\u1161?)"
     },
     {
@@ -4212,7 +4212,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L928",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_ultrawork_vs",
-      "community": 48,
+      "community": 50,
       "norm_label": "ultrawork vs \u110c\u1175\u11a8\u110c\u1165\u11b8 \u1112\u1169\u110e\u116e\u11af"
     },
     {
@@ -4221,7 +4221,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L937",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_937",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u1109\u1175\u11af\u110c\u1166 \u1109\u1165\u11bc\u1100\u116a \u1109\u1161\u1105\u1168"
     },
     {
@@ -4230,7 +4230,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L941",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_941",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u110f\u1165\u1106\u1172\u1102\u1175\u1110\u1175 \u1112\u116e\u1100\u1175"
     },
     {
@@ -4239,7 +4239,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L958",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_958",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u1109\u1165\u11bc\u1100\u116a \u1107\u1175\u1100\u116d (\u110e\u116e\u110c\u1165\u11bc\u110e\u1175)"
     },
     {
@@ -4248,7 +4248,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L968",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_968",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u110b\u1165\u11ab\u110c\u1166 \u1106\u116e\u110b\u1165\u11ba\u110b\u1173\u11af \u1109\u1165\u11ab\u1110\u1162\u11a8\u1112\u1161\u11af\u1101\u1161?"
     },
     {
@@ -4257,7 +4257,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L972",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_opencode_972",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u1109\u116e\u11ab\u110c\u1165\u11bc opencode\u1100\u1161 \u110c\u1165\u11a8\u1112\u1161\u11b8\u1112\u1161\u11ab \u1100\u1167\u11bc\u110b\u116e"
     },
     {
@@ -4266,7 +4266,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L980",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_oh_my_opencode_980",
-      "community": 16,
+      "community": 17,
       "norm_label": "oh-my-opencode\u1100\u1161 \u110c\u1165\u11a8\u1112\u1161\u11b8\u1112\u1161\u11ab \u1100\u1167\u11bc\u110b\u116e"
     },
     {
@@ -4464,7 +4464,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1275",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_1275",
-      "community": 16,
+      "community": 17,
       "norm_label": "\u110c\u1161\u110c\u116e \u1106\u116e\u11ae\u1102\u1173\u11ab \u110c\u1175\u11af\u1106\u116e\u11ab"
     },
     {
@@ -4473,7 +4473,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1301",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_1301",
-      "community": 71,
+      "community": 70,
       "norm_label": "\u110e\u1161\u11b7\u1100\u1169 \u110c\u1161\u1105\u116d"
     },
     {
@@ -4482,7 +4482,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1303",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_1303",
-      "community": 71,
+      "community": 70,
       "norm_label": "\u1100\u1169\u11bc\u1109\u1175\u11a8 \u110c\u1161\u1105\u116d"
     },
     {
@@ -4491,7 +4491,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1309",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_github_issues",
-      "community": 71,
+      "community": 70,
       "norm_label": "github issues (\u110b\u1161\u11af\u1105\u1167\u110c\u1175\u11ab \u110b\u1175\u1109\u1172)"
     },
     {
@@ -4500,7 +4500,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1328",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_1328",
-      "community": 71,
+      "community": 70,
       "norm_label": "\u1100\u116a\u11ab\u1105\u1167\u11ab \u1111\u1173\u1105\u1169\u110c\u1166\u11a8\u1110\u1173"
     },
     {
@@ -4509,7 +4509,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1339",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_ai_ohmyopencode",
-      "community": 71,
+      "community": 70,
       "norm_label": "'ai > ohmyopencode' \u110f\u1161\u1110\u1166\u1100\u1169\u1105\u1175\u110b\u1174 \u1103\u1161\u1105\u1173\u11ab \u1100\u1173\u11af"
     },
     {
@@ -4518,7 +4518,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1427",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_tag",
-      "community": 71,
+      "community": 70,
       "norm_label": "tag"
     },
     {
@@ -4527,7 +4527,7 @@
       "source_file": "content/raw/articles/Open Code \ub9ac\ubdf0(2)  oh-my-opencode \uc124\uce58 \ubc0f \uc124\uc815 \ubc29\ubc95(\uae30\ubcf8 \uba85\ub839\uc5b4, \uc2ac\ub798\uc2dc \uba85\ub839\uc5b4, \uc5f0\ub3d9 \ubc29\ubc95 \ub4f1) with Claude,OpenAI,Gemini.md",
       "source_location": "L1433",
       "id": "articles_open_code_2_oh_my_opencode_with_claude_openai_gemini_open_code_3_llm_with_ollama_qwen3_glm4_7_minimax_m2_1_https_goddaehee_tistory_com_488",
-      "community": 71,
+      "community": 70,
       "norm_label": "[open code \u1105\u1175\u1107\u1172(3): \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173, \u1106\u116e\u1105\u116d \u1106\u1175\u11be \u110c\u1165\u1100\u1161 llm \u1106\u1169\u1103\u1166\u11af \u1112\u116a\u11af\u110b\u116d\u11bc \u1112\u1162\u1107\u1169\u1100\u1175 with ollama, qwen3, glm4.7, minimax m2.1 \u1103\u1173\u11bc](https://goddaehee.tistory.com/488)"
     },
     {
@@ -4536,7 +4536,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L1",
       "id": "content_raw_articles_openhuman_ai_md",
-      "community": 18,
+      "community": 19,
       "norm_label": "openhuman '\u1102\u1161\u1105\u1173\u11af \u110b\u1161\u1102\u1173\u11ab ai \u1107\u1175\u1109\u1165'\u1105\u1173\u11af \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173\u1105\u1169 \u1106\u1161\u11ab\u1103\u1173\u11af \u1109\u116e \u110b\u1175\u11bb\u110b\u1173\u11af\u1101\u1161.md"
     },
     {
@@ -4545,7 +4545,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L11",
       "id": "articles_openhuman_ai_openhuman_ai",
-      "community": 18,
+      "community": 19,
       "norm_label": "openhuman: '\u1102\u1161\u1105\u1173\u11af \u110b\u1161\u1102\u1173\u11ab ai \u1107\u1175\u1109\u1165'\u1105\u1173\u11af \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173\u1105\u1169 \u1106\u1161\u11ab\u1103\u1173\u11af \u1109\u116e \u110b\u1175\u11bb\u110b\u1173\u11af\u1101\u1161"
     },
     {
@@ -4554,7 +4554,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L17",
       "id": "articles_openhuman_ai",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u1106\u1166\u1110\u1161\u1103\u1166\u110b\u1175\u1110\u1165"
     },
     {
@@ -4563,7 +4563,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L26",
       "id": "articles_openhuman_ai_26",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7\u110b\u116d\u110b\u1163\u11a8"
     },
     {
@@ -4572,7 +4572,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L34",
       "id": "articles_openhuman_ai_ai",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u110f\u1169\u11af\u1103\u1173 \u1109\u1173\u1110\u1161\u1110\u1173: ai \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173\u1100\u1161 \u1111\u116e\u11af\u110c\u1175 \u1106\u1169\u11ba\u1112\u1161\u11ab \u1106\u116e\u11ab\u110c\u1166"
     },
     {
@@ -4581,7 +4581,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L40",
       "id": "articles_openhuman_ai_40",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u1106\u1166\u1106\u1169\u1105\u1175 \u1110\u1173\u1105\u1175: \u1100\u1175\u110b\u1165\u11a8\u1112\u1161\u1102\u1173\u11ab \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173\u110b\u1174 \u1100\u116e\u110c\u1169"
     },
     {
@@ -4590,7 +4590,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L50",
       "id": "articles_openhuman_ai_118_20",
-      "community": 18,
+      "community": 19,
       "norm_label": "118\u1100\u1162 \u110b\u1167\u11ab\u1103\u1169\u11bc\u1100\u116a 20\u1107\u116e\u11ab \u1103\u1169\u11bc\u1100\u1175\u1112\u116a \u1105\u116e\u1111\u1173"
     },
     {
@@ -4599,7 +4599,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L58",
       "id": "articles_openhuman_ai_tokenjuice",
-      "community": 18,
+      "community": 19,
       "norm_label": "tokenjuice: \u1110\u1169\u110f\u1173\u11ab\u110b\u1173\u11af \u110d\u1161\u1102\u1162\u1102\u1173\u11ab \u110b\u1161\u11b8\u110e\u116e\u11a8 \u1105\u1166\u110b\u1175\u110b\u1165"
     },
     {
@@ -4608,7 +4608,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L66",
       "id": "articles_openhuman_ai_66",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u1103\u1166\u1109\u1173\u110f\u1173\u1110\u1169\u11b8 \u110b\u1162\u11b8, \u1106\u1161\u1109\u1173\u110f\u1169\u1110\u1173, \u1100\u1173\u1105\u1175\u1100\u1169 \u1102\u1162\u110c\u1161\u11bc \u1103\u1169\u1100\u116e"
     },
     {
@@ -4617,7 +4617,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L70",
       "id": "articles_openhuman_ai_codeblock_1",
-      "community": 18,
+      "community": 19,
       "norm_label": "code:bash (# macos)"
     },
     {
@@ -4626,7 +4626,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L88",
       "id": "articles_openhuman_ai_88",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173 \u1105\u1161\u1107\u1166\u11af \u110b\u1161\u1105\u1162\u110b\u1174 \u1109\u1175\u11af\u110c\u1166 \u1100\u116e\u110c\u1169"
     },
     {
@@ -4635,7 +4635,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L96",
       "id": "articles_openhuman_ai_96",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u1100\u1167\u11bc\u110c\u1162\u11bc \u1103\u1169\u1100\u116e\u110b\u116a\u110b\u1174 \u1107\u1175\u1100\u116d, \u1100\u1173\u1105\u1175\u1100\u1169 \u1108\u1161\u110c\u1175\u11ab \u1106\u1162\u11a8\u1105\u1161\u11a8"
     },
     {
@@ -4644,7 +4644,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L104",
       "id": "articles_openhuman_ai_104",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u110f\u1165\u1106\u1172\u1102\u1175\u1110\u1175 \u110b\u1174\u1100\u1167\u11ab"
     },
     {
@@ -4653,7 +4653,7 @@
       "source_file": "content/raw/articles/OpenHuman '\ub098\ub97c \uc544\ub294 AI \ube44\uc11c'\ub97c \uc624\ud508\uc18c\uc2a4\ub85c \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c.md",
       "source_location": "L108",
       "id": "articles_openhuman_ai_108",
-      "community": 18,
+      "community": 19,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7\u1110\u1169\u11bc\u110e\u1161\u11af"
     },
     {
@@ -5319,7 +5319,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L1",
       "id": "content_raw_notes_free_code_setup_md",
-      "community": 38,
+      "community": 39,
       "norm_label": "free-code_setup.md"
     },
     {
@@ -5328,7 +5328,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L8",
       "id": "notes_free_code_setup_free_code",
-      "community": 38,
+      "community": 39,
       "norm_label": "\ud83d\ude80 free-code \u1109\u1165\u11af\u110e\u1175 \u1106\u1175\u11be \u1109\u1161\u110b\u116d\u11bc \u1100\u1161\u110b\u1175\u1103\u1173"
     },
     {
@@ -5337,7 +5337,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L12",
       "id": "notes_free_code_setup",
-      "community": 38,
+      "community": 39,
       "norm_label": "\ud83c\udf1f \u110c\u116e\u110b\u116d \u1110\u1173\u11a8\u110c\u1175\u11bc"
     },
     {
@@ -5346,7 +5346,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L17",
       "id": "notes_free_code_setup_macos_linux",
-      "community": 38,
+      "community": 39,
       "norm_label": "\ud83d\udee0\ufe0f \u1109\u1165\u11af\u110e\u1175 \u1107\u1161\u11bc\u1107\u1165\u11b8 (macos/linux)"
     },
     {
@@ -5355,7 +5355,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L19",
       "id": "notes_free_code_setup_1_one_liner",
-      "community": 38,
+      "community": 39,
       "norm_label": "1. one-liner \u1109\u1165\u11af\u110e\u1175"
     },
     {
@@ -5364,7 +5364,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L21",
       "id": "notes_free_code_setup_codeblock_1",
-      "community": 38,
+      "community": 39,
       "norm_label": "code:bash (curl -fssl https://raw.githubusercontent.com/paoloanzn/free-)"
     },
     {
@@ -5373,7 +5373,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L25",
       "id": "notes_free_code_setup_2_macos_26_tahoe",
-      "community": 38,
+      "community": 39,
       "norm_label": "2. macos 26 (tahoe) \u1110\u1173\u1105\u1165\u1107\u1173\u11af\u1109\u1172\u1110\u1175\u11bc"
     },
     {
@@ -5382,7 +5382,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L27",
       "id": "notes_free_code_setup_codeblock_2",
-      "community": 38,
+      "community": 39,
       "norm_label": "code:bash (cat > ~/.local/bin/free-code << 'eof')"
     },
     {
@@ -5391,7 +5391,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L35",
       "id": "notes_free_code_setup_35",
-      "community": 38,
+      "community": 39,
       "norm_label": "\ud83d\udd11 \u110b\u1175\u11ab\u110c\u1173\u11bc \u1106\u1175\u11be \u1111\u1173\u1105\u1169\u1107\u1161\u110b\u1175\u1103\u1165 \u1109\u1165\u11af\u110c\u1165\u11bc"
     },
     {
@@ -5400,7 +5400,7 @@
       "source_file": "content/raw/notes/Free-code_Setup.md",
       "source_location": "L45",
       "id": "notes_free_code_setup_45",
-      "community": 38,
+      "community": 39,
       "norm_label": "\ud83d\udca1 \u1109\u1161\u110b\u116d\u11bc \u1110\u1175\u11b8"
     },
     {
@@ -5760,7 +5760,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L1",
       "id": "content_raw_notes_harness_engineering_md",
-      "community": 50,
+      "community": 51,
       "norm_label": "harness_engineering.md"
     },
     {
@@ -5769,7 +5769,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L15",
       "id": "notes_harness_engineering_harness_engineering",
-      "community": 50,
+      "community": 51,
       "norm_label": "\ud83d\udee0\ufe0f \u1112\u1161\u1102\u1166\u1109\u1173 \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc (harness engineering)"
     },
     {
@@ -5778,7 +5778,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L23",
       "id": "notes_harness_engineering",
-      "community": 50,
+      "community": 51,
       "norm_label": "\ud83c\udfd7\ufe0f \u1100\u1162\u1102\u1167\u11b7\u110c\u1165\u11a8 \u1107\u1175\u110b\u1172"
     },
     {
@@ -5787,7 +5787,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L29",
       "id": "notes_harness_engineering_29",
-      "community": 50,
+      "community": 51,
       "norm_label": "\ud83c\udfe2 \u110b\u1163\u11bc\u1103\u1162 \u1107\u1175\u11a8\u1110\u1166\u110f\u1173\u110b\u1174 \u1112\u1161\u1102\u1166\u1109\u1173 \u110c\u1165\u11b8\u1100\u1173\u11ab\u1107\u1165\u11b8 \u1107\u1175\u1100\u116d"
     },
     {
@@ -5796,7 +5796,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L39",
       "id": "notes_harness_engineering_1_openai",
-      "community": 50,
+      "community": 51,
       "norm_label": "1. openai: \u1107\u116e\u11af\u1107\u1167\u11ab\u1105\u1163\u11bc \u1100\u1161\u11bc\u110c\u1166\u110b\u116a \u110b\u1166\u11ab\u1110\u1173\u1105\u1169\u1111\u1175 \u1100\u116a\u11ab\u1105\u1175"
     },
     {
@@ -5805,7 +5805,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L44",
       "id": "notes_harness_engineering_2_anthropic",
-      "community": 50,
+      "community": 51,
       "norm_label": "2. anthropic: \u1109\u1175\u1100\u1161\u11a8\u110c\u1165\u11a8 \u1100\u1165\u11b7\u110c\u1173\u11bc\u1100\u116a \u110c\u1161\u1100\u1175\u1111\u1167\u11bc\u1100\u1161 \u1111\u1167\u11ab\u1112\u1163\u11bc \u1107\u1169\u110c\u1165\u11bc"
     },
     {
@@ -5814,7 +5814,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L49",
       "id": "notes_harness_engineering_7",
-      "community": 50,
+      "community": 51,
       "norm_label": "\ud83d\udcdc \u1112\u1161\u1102\u1166\u1109\u1173 \u1109\u1165\u11af\u1100\u1168 7\u110b\u116f\u11ab\u110e\u1175\u11a8 & \u1109\u1175\u11af\u1106\u116e \u110b\u1162\u11a8\u1109\u1167\u11ab"
     },
     {
@@ -5823,7 +5823,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L68",
       "id": "notes_harness_engineering_3_the_3_layers_of_harness",
-      "community": 50,
+      "community": 51,
       "norm_label": "\ud83c\udfd7\ufe0f \u1112\u1161\u1102\u1166\u1109\u1173\u110b\u1174 3\u1100\u1161\u110c\u1175 \u1100\u1168\u110e\u1173\u11bc (the 3 layers of harness)"
     },
     {
@@ -5832,7 +5832,7 @@
       "source_file": "content/raw/notes/Harness_Engineering.md",
       "source_location": "L76",
       "id": "notes_harness_engineering_harness_components",
-      "community": 50,
+      "community": 51,
       "norm_label": "\u2705 \u1112\u1161\u1102\u1166\u1109\u1173 \u1100\u116e\u1109\u1165\u11bc \u1112\u1162\u11a8\u1109\u1175\u11b7 \u110b\u116d\u1109\u1169 (harness components)"
     },
     {
@@ -6156,7 +6156,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L1",
       "id": "content_raw_notes_presentation_md",
-      "community": 19,
+      "community": 20,
       "norm_label": "\u1107\u1161\u11af\u1111\u116d\u110c\u1161\u1105\u116d-\u110c\u1161\u11a8\u1109\u1165\u11bc\u1106\u1166\u1106\u1169.md"
     },
     {
@@ -6165,7 +6165,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L1",
       "id": "presentation_0",
-      "community": 19,
+      "community": 20,
       "norm_label": "0. \u1111\u116d\u110c\u1175"
     },
     {
@@ -6174,7 +6174,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L9",
       "id": "presentation_1",
-      "community": 19,
+      "community": 20,
       "norm_label": "1. \u110c\u1165\u11ab\u110e\u1166 \u110b\u116d\u110b\u1163\u11a8"
     },
     {
@@ -6183,7 +6183,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L20",
       "id": "presentation_2",
-      "community": 19,
+      "community": 20,
       "norm_label": "2. \u110c\u1175\u11ab\u1112\u1162\u11bc \u1107\u1162\u1100\u1167\u11bc"
     },
     {
@@ -6192,7 +6192,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L30",
       "id": "presentation_3",
-      "community": 19,
+      "community": 20,
       "norm_label": "3. \u110c\u116e\u110b\u116d \u110c\u1175\u11ab\u1112\u1162\u11bc \u1112\u1161\u11bc\u1106\u1169\u11a8"
     },
     {
@@ -6201,7 +6201,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L45",
       "id": "presentation_4_db",
-      "community": 19,
+      "community": 20,
       "norm_label": "4. \u1110\u1169\u11bc\u1112\u1161\u11b8 db \u1109\u1165\u11af\u1100\u1168"
     },
     {
@@ -6210,7 +6210,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L56",
       "id": "presentation_5_llm_wiki",
-      "community": 19,
+      "community": 20,
       "norm_label": "5. llm wiki \u1110\u1166\u1109\u1173\u1110\u1173"
     },
     {
@@ -6219,7 +6219,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L57",
       "id": "presentation",
-      "community": 19,
+      "community": 20,
       "norm_label": "\u1107\u1161\u11af\u1111\u116d \u1106\u1166\u11ab\u1110\u1173"
     },
     {
@@ -6228,7 +6228,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L73",
       "id": "presentation_6_kisa",
-      "community": 19,
+      "community": 20,
       "norm_label": "6. kisa \u110c\u1161\u1105\u116d \u1110\u1166\u1109\u1173\u1110\u1173"
     },
     {
@@ -6237,7 +6237,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L83",
       "id": "presentation_7",
-      "community": 19,
+      "community": 20,
       "norm_label": "7. \u1111\u1161\u11ab\u1103\u1161\u11ab \u1106\u1175\u11be \u1105\u1175\u1109\u1173\u110f\u1173"
     },
     {
@@ -6246,7 +6246,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L95",
       "id": "presentation_8",
-      "community": 19,
+      "community": 20,
       "norm_label": "8. \u1112\u1167\u11ab\u110c\u1162 \u1109\u1161\u11bc\u1110\u1162"
     },
     {
@@ -6255,7 +6255,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L112",
       "id": "presentation_9",
-      "community": 19,
+      "community": 20,
       "norm_label": "9. \u1106\u1161\u1106\u116e\u1105\u1175"
     },
     {
@@ -6264,7 +6264,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L130",
       "id": "presentation_130",
-      "community": 19,
+      "community": 20,
       "norm_label": "\u1112\u1161\u11ab \u1106\u116e\u11ab\u110c\u1161\u11bc \u110b\u116d\u110b\u1163\u11a8"
     },
     {
@@ -6273,7 +6273,7 @@
       "source_file": "content/raw/notes/presentation/\ubc1c\ud45c\uc790\ub8cc-\uc791\uc131\uba54\ubaa8.md",
       "source_location": "L134",
       "id": "presentation_134",
-      "community": 19,
+      "community": 20,
       "norm_label": "\u1106\u1161\u1106\u116e\u1105\u1175"
     },
     {
@@ -6453,7 +6453,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L1",
       "id": "content_wiki_index_md",
-      "community": 20,
+      "community": 21,
       "norm_label": "index.md"
     },
     {
@@ -6462,7 +6462,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L11",
       "id": "wiki_index_wiki_index",
-      "community": 20,
+      "community": 21,
       "norm_label": "\ud83e\udde0 wiki index"
     },
     {
@@ -6471,7 +6471,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L18",
       "id": "wiki_index",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u110f\u1161\u1110\u1166\u1100\u1169\u1105\u1175"
     },
     {
@@ -6480,7 +6480,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L20",
       "id": "wiki_index_entities",
-      "community": 20,
+      "community": 21,
       "norm_label": "\ud83c\udff7\ufe0f \u110b\u1166\u11ab\u1110\u1175\u1110\u1175 (entities)"
     },
     {
@@ -6489,7 +6489,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L38",
       "id": "wiki_index_concepts",
-      "community": 20,
+      "community": 21,
       "norm_label": "\ud83d\udca1 \u1100\u1162\u1102\u1167\u11b7 (concepts)"
     },
     {
@@ -6498,7 +6498,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L58",
       "id": "wiki_index_comparisons",
-      "community": 20,
+      "community": 21,
       "norm_label": "\ud83d\udd17 \u1107\u1175\u1100\u116d/\u1107\u116e\u11ab\u1109\u1165\u11a8 (comparisons)"
     },
     {
@@ -6507,7 +6507,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L61",
       "id": "wiki_index_source_summaries",
-      "community": 20,
+      "community": 21,
       "norm_label": "\ud83d\udcc4 \u1109\u1169\u1109\u1173 \u110b\u116d\u110b\u1163\u11a8 (source summaries)"
     },
     {
@@ -6516,7 +6516,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L94",
       "id": "wiki_index_synthesis",
-      "community": 20,
+      "community": 21,
       "norm_label": "\ud83c\udf10 \u110c\u1169\u11bc\u1112\u1161\u11b8 (synthesis)"
     },
     {
@@ -6525,7 +6525,7 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L99",
       "id": "wiki_index_99",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u1110\u1169\u11bc\u1100\u1168"
     },
     {
@@ -6559,7 +6559,7 @@
       "label": "[2026-07-08] comparison | \uc5d0\uc774\uc804\ud2b8 \ub8e8\ud504\uc640 \ud558\ub124\uc2a4 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1\uc758 \uad00\uacc4 \ubd84\uc11d",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L28",
+      "source_location": "L29",
       "id": "wiki_log_2026_07_08_comparison",
       "community": 5,
       "norm_label": "[2026-07-08] comparison | \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1105\u116e\u1111\u1173\u110b\u116a \u1112\u1161\u1102\u1166\u1109\u1173 \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc\u110b\u1174 \u1100\u116a\u11ab\u1100\u1168 \u1107\u116e\u11ab\u1109\u1165\u11a8"
@@ -6568,7 +6568,7 @@
       "label": "[2026-07-08] ingest | Getting started with loops \uc544\ud2f0\ud074 \uc778\uc81c\uc2a4\ud2b8 \uc644\ub8cc",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L37",
+      "source_location": "L38",
       "id": "wiki_log_2026_07_08_ingest_getting_started_with_loops",
       "community": 5,
       "norm_label": "[2026-07-08] ingest | getting started with loops \u110b\u1161\u1110\u1175\u110f\u1173\u11af \u110b\u1175\u11ab\u110c\u1166\u1109\u1173\u1110\u1173 \u110b\u116a\u11ab\u1105\u116d"
@@ -6577,7 +6577,7 @@
       "label": "[2026-06-08] ingest | OpenHuman \uc544\ud2f0\ud074 \uc778\uc81c\uc2a4\ud2b8 \uc644\ub8cc",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L49",
+      "source_location": "L50",
       "id": "wiki_log_2026_06_08_ingest_openhuman",
       "community": 5,
       "norm_label": "[2026-06-08] ingest | openhuman \u110b\u1161\u1110\u1175\u110f\u1173\u11af \u110b\u1175\u11ab\u110c\u1166\u1109\u1173\u1110\u1173 \u110b\u116a\u11ab\u1105\u116d"
@@ -6586,7 +6586,7 @@
       "label": "[2026-06-08] synthesis | 6\uc6d4 \uccab\uc9f8 \uc8fc \ub208\uc5ec\uaca8\ubd10\uc57c \ud560 20\ub300 AI \uc18c\uc2dd \uc885\ud569",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L63",
+      "source_location": "L64",
       "id": "wiki_log_2026_06_08_synthesis_6_20_ai",
       "community": 5,
       "norm_label": "[2026-06-08] synthesis | 6\u110b\u116f\u11af \u110e\u1165\u11ba\u110d\u1162 \u110c\u116e \u1102\u116e\u11ab\u110b\u1167\u1100\u1167\u1107\u116a\u110b\u1163 \u1112\u1161\u11af 20\u1103\u1162 ai \u1109\u1169\u1109\u1175\u11a8 \u110c\u1169\u11bc\u1112\u1161\u11b8"
@@ -6595,7 +6595,7 @@
       "label": "[2026-06-08] ingest | \uc2e0\uaddc \uc18c\uc2a4 3\uac74 \uc778\uc81c\uc2a4\ud2b8 \uc644\ub8cc",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L73",
+      "source_location": "L74",
       "id": "wiki_log_2026_06_08_ingest_3",
       "community": 5,
       "norm_label": "[2026-06-08] ingest | \u1109\u1175\u11ab\u1100\u1172 \u1109\u1169\u1109\u1173 3\u1100\u1165\u11ab \u110b\u1175\u11ab\u110c\u1166\u1109\u1173\u1110\u1173 \u110b\u116a\u11ab\u1105\u116d"
@@ -6604,7 +6604,7 @@
       "label": "[2026-06-08] lint | \uc704\ud0a4 \uac74\uac15 \uac80\uc9c4 \ubc0f \uc790\ub3d9 \uc218\uc815 \uc644\ub8cc",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L82",
+      "source_location": "L83",
       "id": "wiki_log_2026_06_08_lint",
       "community": 5,
       "norm_label": "[2026-06-08] lint | \u110b\u1171\u110f\u1175 \u1100\u1165\u11ab\u1100\u1161\u11bc \u1100\u1165\u11b7\u110c\u1175\u11ab \u1106\u1175\u11be \u110c\u1161\u1103\u1169\u11bc \u1109\u116e\u110c\u1165\u11bc \u110b\u116a\u11ab\u1105\u116d"
@@ -6613,7 +6613,7 @@
       "label": "[2026-06-08] refine | choi-openai-threads-2026-06 \uc804\uccb4 \uc815\ub9ac \uc5c5\ub370\uc774\ud2b8",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L89",
+      "source_location": "L90",
       "id": "wiki_log_2026_06_08_refine_choi_openai_threads_2026_06",
       "community": 5,
       "norm_label": "[2026-06-08] refine | choi-openai-threads-2026-06 \u110c\u1165\u11ab\u110e\u1166 \u110c\u1165\u11bc\u1105\u1175 \u110b\u1165\u11b8\u1103\u1166\u110b\u1175\u1110\u1173"
@@ -6622,7 +6622,7 @@
       "label": "[2026-06-08] lint | \uc704\ud0a4 \uac74\uac15 \uac80\uc9c4 \ubc0f HIGH \ub4f1\uae09 \uc218\uc815",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L97",
+      "source_location": "L98",
       "id": "wiki_log_2026_06_08_lint_high",
       "community": 5,
       "norm_label": "[2026-06-08] lint | \u110b\u1171\u110f\u1175 \u1100\u1165\u11ab\u1100\u1161\u11bc \u1100\u1165\u11b7\u110c\u1175\u11ab \u1106\u1175\u11be high \u1103\u1173\u11bc\u1100\u1173\u11b8 \u1109\u116e\u110c\u1165\u11bc"
@@ -6631,7 +6631,7 @@
       "label": "[2026-06-08] ingest | \uc2e0\uaddc \uc18c\uc2a4 4\uac74 \uc778\uc81c\uc2a4\ud2b8 \uc644\ub8cc",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L104",
+      "source_location": "L105",
       "id": "wiki_log_2026_06_08_ingest_4",
       "community": 5,
       "norm_label": "[2026-06-08] ingest | \u1109\u1175\u11ab\u1100\u1172 \u1109\u1169\u1109\u1173 4\u1100\u1165\u11ab \u110b\u1175\u11ab\u110c\u1166\u1109\u1173\u1110\u1173 \u110b\u116a\u11ab\u1105\u116d"
@@ -6640,7 +6640,7 @@
       "label": "[2026-05-20] refine | GEMINI.md \uc9c0\uc2dd \uac70\ubc84\ub10c\uc2a4 3\ub300 \uc6d0\uce59 \ub300\uc6d0\uce59 \ud5cc\ubc95 \uc815\uc81c",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L117",
+      "source_location": "L118",
       "id": "wiki_log_2026_05_20_refine_gemini_md_3",
       "community": 5,
       "norm_label": "[2026-05-20] refine | gemini.md \u110c\u1175\u1109\u1175\u11a8 \u1100\u1165\u1107\u1165\u1102\u1165\u11ab\u1109\u1173 3\u1103\u1162 \u110b\u116f\u11ab\u110e\u1175\u11a8 \u1103\u1162\u110b\u116f\u11ab\u110e\u1175\u11a8 \u1112\u1165\u11ab\u1107\u1165\u11b8 \u110c\u1165\u11bc\u110c\u1166"
@@ -6649,7 +6649,7 @@
       "label": "[2026-05-20] lint | \ub370\ube0c\uc635\uc2a4(DevOps) \uac1c\ub150 \uc9c0\uc2dd \ub9ac\ud329\ud1a0\ub9c1 \ubc0f \ubd84\ub9ac",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L126",
+      "source_location": "L127",
       "id": "wiki_log_2026_05_20_lint_devops",
       "community": 5,
       "norm_label": "[2026-05-20] lint | \u1103\u1166\u1107\u1173\u110b\u1169\u11b8\u1109\u1173(devops) \u1100\u1162\u1102\u1167\u11b7 \u110c\u1175\u1109\u1175\u11a8 \u1105\u1175\u1111\u1162\u11a8\u1110\u1169\u1105\u1175\u11bc \u1106\u1175\u11be \u1107\u116e\u11ab\u1105\u1175"
@@ -6658,7 +6658,7 @@
       "label": "[2026-05-20] lint | \uc704\ud0a4 \uc815\uae30 \ub9b0\ud2b8 \ubc0f \ubb34\uacb0\uc131 \uc815\ube44",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L136",
+      "source_location": "L137",
       "id": "wiki_log_2026_05_20_lint",
       "community": 5,
       "norm_label": "[2026-05-20] lint | \u110b\u1171\u110f\u1175 \u110c\u1165\u11bc\u1100\u1175 \u1105\u1175\u11ab\u1110\u1173 \u1106\u1175\u11be \u1106\u116e\u1100\u1167\u11af\u1109\u1165\u11bc \u110c\u1165\u11bc\u1107\u1175"
@@ -6667,7 +6667,7 @@
       "label": "[2026-05-20] ingest | GBrain \u2014 \uc624\ud508\uc18c\uc2a4 \uac1c\uc778 \uc9c0\uc2dd \ubca0\uc774\uc2a4 (New)",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L147",
+      "source_location": "L148",
       "id": "wiki_log_2026_05_20_ingest_gbrain_new",
       "community": 5,
       "norm_label": "[2026-05-20] ingest | gbrain \u2014 \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173 \u1100\u1162\u110b\u1175\u11ab \u110c\u1175\u1109\u1175\u11a8 \u1107\u1166\u110b\u1175\u1109\u1173 (new)"
@@ -6676,7 +6676,7 @@
       "label": "[2026-05-20] ingest | Antigravity CLI \ub9c8\uc774\uadf8\ub808\uc774\uc158 \uac00\uc774\ub4dc \uc694\uc57d (New)",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L163",
+      "source_location": "L164",
       "id": "wiki_log_2026_05_20_ingest_antigravity_cli_new",
       "community": 5,
       "norm_label": "[2026-05-20] ingest | antigravity cli \u1106\u1161\u110b\u1175\u1100\u1173\u1105\u1166\u110b\u1175\u1109\u1167\u11ab \u1100\u1161\u110b\u1175\u1103\u1173 \u110b\u116d\u110b\u1163\u11a8 (new)"
@@ -6685,7 +6685,7 @@
       "label": "[2026-05-19] ingest | GSD \uc6cc\ud06c\ud50c\ub85c\uc6b0 \uba85\ub839\uc5b4 \ud750\ub984 (Update)",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L176",
+      "source_location": "L177",
       "id": "wiki_log_2026_05_19_ingest_gsd_update",
       "community": 5,
       "norm_label": "[2026-05-19] ingest | gsd \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165 \u1112\u1173\u1105\u1173\u11b7 (update)"
@@ -6694,7 +6694,7 @@
       "label": "[2026-05-18] lint | \uc704\ud0a4 \uac74\uac15 \uac80\uc9c4 \ubc0f \uc9c0\uc2dd \uad6c\uc870 \uc7ac\uc870\uc815",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L182",
+      "source_location": "L183",
       "id": "wiki_log_2026_05_18_lint",
       "community": 5,
       "norm_label": "[2026-05-18] lint | \u110b\u1171\u110f\u1175 \u1100\u1165\u11ab\u1100\u1161\u11bc \u1100\u1165\u11b7\u110c\u1175\u11ab \u1106\u1175\u11be \u110c\u1175\u1109\u1175\u11a8 \u1100\u116e\u110c\u1169 \u110c\u1162\u110c\u1169\u110c\u1165\u11bc"
@@ -6703,7 +6703,7 @@
       "label": "[2026-05-18] ingest | Raw Layer \u2014 AI \uc6b4\uc601 \uaddc\uce59, \ub370\ube0c\uc635\uc2a4 \ub85c\ub4dc\ub9f5",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L193",
+      "source_location": "L194",
       "id": "wiki_log_2026_05_18_ingest_raw_layer_ai",
       "community": 5,
       "norm_label": "[2026-05-18] ingest | raw layer \u2014 ai \u110b\u116e\u11ab\u110b\u1167\u11bc \u1100\u1172\u110e\u1175\u11a8, \u1103\u1166\u1107\u1173\u110b\u1169\u11b8\u1109\u1173 \u1105\u1169\u1103\u1173\u1106\u1162\u11b8"
@@ -6712,7 +6712,7 @@
       "label": "[2026-05-18] ingest | \ud558\ub124\uc2a4 \ubc0f \uc6cc\ud06c\ud50c\ub85c\uc6b0 \ub300\ud654\uc801 \uace0\ucc30 \ubc18\uc601",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L206",
+      "source_location": "L207",
       "id": "wiki_log_2026_05_18_ingest",
       "community": 5,
       "norm_label": "[2026-05-18] ingest | \u1112\u1161\u1102\u1166\u1109\u1173 \u1106\u1175\u11be \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e \u1103\u1162\u1112\u116a\u110c\u1165\u11a8 \u1100\u1169\u110e\u1161\u11af \u1107\u1161\u11ab\u110b\u1167\u11bc"
@@ -6721,7 +6721,7 @@
       "label": "[2026-05-18] refine | \ud558\ub124\uc2a4 \uac1c\ub150 \uc815\uc81c (3\uacc4\uce35 \ubd84\ub958 \uc81c\uac70)",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L216",
+      "source_location": "L217",
       "id": "wiki_log_2026_05_18_refine_3",
       "community": 5,
       "norm_label": "[2026-05-18] refine | \u1112\u1161\u1102\u1166\u1109\u1173 \u1100\u1162\u1102\u1167\u11b7 \u110c\u1165\u11bc\u110c\u1166 (3\u1100\u1168\u110e\u1173\u11bc \u1107\u116e\u11ab\u1105\u1172 \u110c\u1166\u1100\u1165)"
@@ -6730,7 +6730,7 @@
       "label": "[2026-05-18] ingest | \ud558\ub124\uc2a4 vs \uc6cc\ud06c\ud50c\ub85c\uc6b0 (\uac70\ubc84\ub10c\uc2a4 vs \uc624\ud37c\ub808\uc774\uc158) \uad6c\ubd84",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L225",
+      "source_location": "L226",
       "id": "wiki_log_2026_05_18_ingest_vs_vs",
       "community": 5,
       "norm_label": "[2026-05-18] ingest | \u1112\u1161\u1102\u1166\u1109\u1173 vs \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e (\u1100\u1165\u1107\u1165\u1102\u1165\u11ab\u1109\u1173 vs \u110b\u1169\u1111\u1165\u1105\u1166\u110b\u1175\u1109\u1167\u11ab) \u1100\u116e\u1107\u116e\u11ab"
@@ -6739,7 +6739,7 @@
       "label": "[2026-05-15] ingest | GSD v1 (get-shit-done) vs v2 (gsd2) \uc9c0\uc2dd \uccb4\uacc4\ud654",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L238",
+      "source_location": "L239",
       "id": "wiki_log_2026_05_15_ingest_gsd_v1_get_shit_done_vs_v2_gsd2",
       "community": 5,
       "norm_label": "[2026-05-15] ingest | gsd v1 (get-shit-done) vs v2 (gsd2) \u110c\u1175\u1109\u1175\u11a8 \u110e\u1166\u1100\u1168\u1112\u116a"
@@ -6748,7 +6748,7 @@
       "label": "[2026-05-15] ingest | OpenCode & oh-my-opencode \ubc0f \ud558\ub124\uc2a4 \uc9c4\ud654\ub860",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L252",
+      "source_location": "L253",
       "id": "wiki_log_2026_05_15_ingest_opencode_oh_my_opencode",
       "community": 5,
       "norm_label": "[2026-05-15] ingest | opencode & oh-my-opencode \u1106\u1175\u11be \u1112\u1161\u1102\u1166\u1109\u1173 \u110c\u1175\u11ab\u1112\u116a\u1105\u1169\u11ab"
@@ -6757,7 +6757,7 @@
       "label": "[2026-05-15] ingest | \ud558\ub124\uc2a4 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ubc0f \uc9c0\uc2dd \uad00\ub9ac \uc804\ub7b5 \uc18c\uc2a4 6\uc885",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L263",
+      "source_location": "L264",
       "id": "wiki_log_2026_05_15_ingest_6",
       "community": 5,
       "norm_label": "[2026-05-15] ingest | \u1112\u1161\u1102\u1166\u1109\u1173 \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc \u1106\u1175\u11be \u110c\u1175\u1109\u1175\u11a8 \u1100\u116a\u11ab\u1105\u1175 \u110c\u1165\u11ab\u1105\u1163\u11a8 \u1109\u1169\u1109\u1173 6\u110c\u1169\u11bc"
@@ -6766,7 +6766,7 @@
       "label": "[2026-05-14] ingest | \uc5d0\uc774\uc804\ud2f1 \ud504\ub808\uc784\uc6cc\ud06c \ubc0f \uc2dc\ub2c8\uc5b4 \uac1c\ubc1c \uc804\ub7b5 \uc18c\uc2a4 3\uc885",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L274",
+      "source_location": "L275",
       "id": "wiki_log_2026_05_14_ingest_3",
       "community": 5,
       "norm_label": "[2026-05-14] ingest | \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1175\u11a8 \u1111\u1173\u1105\u1166\u110b\u1175\u11b7\u110b\u116f\u110f\u1173 \u1106\u1175\u11be \u1109\u1175\u1102\u1175\u110b\u1165 \u1100\u1162\u1107\u1161\u11af \u110c\u1165\u11ab\u1105\u1163\u11a8 \u1109\u1169\u1109\u1173 3\u110c\u1169\u11bc"
@@ -6775,7 +6775,7 @@
       "label": "[2026-05-14] ingest | gstack: Garry Tan's AI Engineering Stack",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L283",
+      "source_location": "L284",
       "id": "wiki_log_2026_05_14_ingest_gstack_garry_tan_s_ai_engineering_stack",
       "community": 5,
       "norm_label": "[2026-05-14] ingest | gstack: garry tan's ai engineering stack"
@@ -6784,7 +6784,7 @@
       "label": "[2026-05-14] init | \uc704\ud0a4 \uc2dc\uc2a4\ud15c \ucd08\uae30\ud654",
       "file_type": "document",
       "source_file": "content/wiki/log.md",
-      "source_location": "L293",
+      "source_location": "L294",
       "id": "wiki_log_2026_05_14_init",
       "community": 5,
       "norm_label": "[2026-05-14] init | \u110b\u1171\u110f\u1175 \u1109\u1175\u1109\u1173\u1110\u1166\u11b7 \u110e\u1169\u1100\u1175\u1112\u116a"
@@ -6795,7 +6795,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L1",
       "id": "content_wiki_comparisons_loop_vs_harness_md",
-      "community": 39,
+      "community": 40,
       "norm_label": "loop-vs-harness.md"
     },
     {
@@ -6804,7 +6804,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L13",
       "id": "comparisons_loop_vs_harness_loop_vs_harness",
-      "community": 39,
+      "community": 40,
       "norm_label": "\u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1105\u116e\u1111\u1173\u110b\u116a \u1112\u1161\u1102\u1166\u1109\u1173 \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc (loop vs harness)"
     },
     {
@@ -6813,7 +6813,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L19",
       "id": "comparisons_loop_vs_harness",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83e\udde9 \u1107\u1175\u110b\u1172\u1105\u1169 \u110b\u1175\u1112\u1162\u1112\u1161\u1102\u1173\u11ab \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165 \u1100\u116a\u11ab\u1100\u1168"
     },
     {
@@ -6822,7 +6822,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L28",
       "id": "comparisons_loop_vs_harness_comparison_matrix",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83d\udcca \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165 \u1109\u116e\u1111\u1167\u11bc \u1103\u1162\u110c\u1169 (comparison matrix)"
     },
     {
@@ -6831,7 +6831,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L40",
       "id": "comparisons_loop_vs_harness_interactivity_flow",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83c\udfd7\ufe0f \u1109\u1161\u11bc\u1112\u1169\u110c\u1161\u11a8\u110b\u116d\u11bc \u1106\u1166\u110f\u1165\u1102\u1175\u110c\u1173\u11b7 (interactivity flow)"
     },
     {
@@ -6840,7 +6840,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L44",
       "id": "comparisons_loop_vs_harness_codeblock_1",
-      "community": 39,
+      "community": 40,
       "norm_label": "code:mermaid (graph td)"
     },
     {
@@ -6849,7 +6849,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L61",
       "id": "comparisons_loop_vs_harness_61",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -6858,7 +6858,7 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L69",
       "id": "comparisons_loop_vs_harness_69",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83d\udca1 \u110c\u1175\u1109\u1175\u11a8 \u1100\u1169\u11bc\u110b\u1172\u1105\u1173\u11af \u110b\u1171\u1112\u1161\u11ab \u110c\u1165\u11a8\u110b\u116d\u11bc \u1111\u1169\u110b\u1175\u11ab\u1110\u1173"
     },
     {
@@ -6867,7 +6867,7 @@
       "source_file": "content/wiki/concepts/agentic-loop.md",
       "source_location": "L1",
       "id": "content_wiki_concepts_agentic_loop_md",
-      "community": 31,
+      "community": 15,
       "norm_label": "agentic-loop.md"
     },
     {
@@ -6876,97 +6876,97 @@
       "source_file": "content/wiki/concepts/agentic-loop.md",
       "source_location": "L11",
       "id": "concepts_agentic_loop_agentic_loop",
-      "community": 31,
+      "community": 15,
       "norm_label": "\u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1105\u116e\u1111\u1173 (agentic loop)"
     },
     {
       "label": "\ud83e\udde9 \ube44\uc720\ub85c \uc774\ud574\ud558\uae30",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L15",
+      "source_location": "L16",
       "id": "concepts_agentic_loop",
-      "community": 31,
+      "community": 15,
       "norm_label": "\ud83e\udde9 \u1107\u1175\u110b\u1172\u1105\u1169 \u110b\u1175\u1112\u1162\u1112\u1161\u1100\u1175"
     },
     {
       "label": "\ud83d\udccb \uc815\uc758",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L22",
-      "id": "concepts_agentic_loop_22",
-      "community": 31,
+      "source_location": "L23",
+      "id": "concepts_agentic_loop_23",
+      "community": 15,
       "norm_label": "\ud83d\udccb \u110c\u1165\u11bc\u110b\u1174"
     },
     {
       "label": "\ud83c\udfd7\ufe0f \uc5d0\uc774\uc804\ud2b8 \ub8e8\ud504\uc758 4\ub2e8\uacc4 \ubd84\ub958",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L28",
+      "source_location": "L29",
       "id": "concepts_agentic_loop_4",
-      "community": 31,
+      "community": 15,
       "norm_label": "\ud83c\udfd7\ufe0f \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1105\u116e\u1111\u1173\u110b\u1174 4\u1103\u1161\u11ab\u1100\u1168 \u1107\u116e\u11ab\u1105\u1172"
     },
     {
       "label": "code:mermaid (graph TD)",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L32",
+      "source_location": "L33",
       "id": "concepts_agentic_loop_codeblock_1",
-      "community": 31,
+      "community": 15,
       "norm_label": "code:mermaid (graph td)"
     },
     {
       "label": "L1. \ud134 \uae30\ubc18 \ub8e8\ud504 (Turn-based Loop)",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L44",
+      "source_location": "L45",
       "id": "concepts_agentic_loop_l1_turn_based_loop",
-      "community": 31,
+      "community": 15,
       "norm_label": "l1. \u1110\u1165\u11ab \u1100\u1175\u1107\u1161\u11ab \u1105\u116e\u1111\u1173 (turn-based loop)"
     },
     {
       "label": "L2. \ubaa9\ud45c \uae30\ubc18 \ub8e8\ud504 (Goal-based Loop - `/goal`)",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L50",
+      "source_location": "L51",
       "id": "concepts_agentic_loop_l2_goal_based_loop_goal",
-      "community": 31,
+      "community": 15,
       "norm_label": "l2. \u1106\u1169\u11a8\u1111\u116d \u1100\u1175\u1107\u1161\u11ab \u1105\u116e\u1111\u1173 (goal-based loop - `/goal`)"
     },
     {
       "label": "L3. \uc2dc\uac04 \uae30\ubc18 \ub8e8\ud504 (Time-based Loop - `/loop`, `/schedule`)",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L56",
+      "source_location": "L57",
       "id": "concepts_agentic_loop_l3_time_based_loop_loop_schedule",
-      "community": 31,
+      "community": 15,
       "norm_label": "l3. \u1109\u1175\u1100\u1161\u11ab \u1100\u1175\u1107\u1161\u11ab \u1105\u116e\u1111\u1173 (time-based loop - `/loop`, `/schedule`)"
     },
     {
       "label": "L4. \ud504\ub85c\uc561\ud2f0\ube0c \ub8e8\ud504 (Proactive Loop)",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L62",
+      "source_location": "L63",
       "id": "concepts_agentic_loop_l4_proactive_loop",
-      "community": 31,
+      "community": 15,
       "norm_label": "l4. \u1111\u1173\u1105\u1169\u110b\u1162\u11a8\u1110\u1175\u1107\u1173 \u1105\u116e\u1111\u1173 (proactive loop)"
     },
     {
       "label": "\ud83d\udee0\ufe0f \ud575\uc2ec \uc131\uacf5 \uc694\uc778 (\ud488\uc9c8 \ubc0f \ube44\uc6a9 \uad00\ub9ac)",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L70",
-      "id": "concepts_agentic_loop_70",
-      "community": 31,
+      "source_location": "L71",
+      "id": "concepts_agentic_loop_71",
+      "community": 15,
       "norm_label": "\ud83d\udee0\ufe0f \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1109\u1165\u11bc\u1100\u1169\u11bc \u110b\u116d\u110b\u1175\u11ab (\u1111\u116e\u11b7\u110c\u1175\u11af \u1106\u1175\u11be \u1107\u1175\u110b\u116d\u11bc \u1100\u116a\u11ab\u1105\u1175)"
     },
     {
       "label": "\ud83d\udd17 \uc5f0\uacb0\ub41c \uc9c0\uc2dd",
       "file_type": "document",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L81",
-      "id": "concepts_agentic_loop_81",
-      "community": 31,
+      "source_location": "L82",
+      "id": "concepts_agentic_loop_82",
+      "community": 15,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -7362,7 +7362,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L1",
       "id": "content_wiki_concepts_harness_engineering_md",
-      "community": 51,
+      "community": 52,
       "norm_label": "harness-engineering.md"
     },
     {
@@ -7371,7 +7371,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L11",
       "id": "concepts_harness_engineering_harness_engineering",
-      "community": 51,
+      "community": 52,
       "norm_label": "\u1112\u1161\u1102\u1166\u1109\u1173 \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc (harness engineering)"
     },
     {
@@ -7380,7 +7380,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L15",
       "id": "concepts_harness_engineering_mental_models",
-      "community": 51,
+      "community": 52,
       "norm_label": "\ud83e\udde9 \u1107\u1175\u110b\u1172\u1105\u1169 \u110b\u1175\u1112\u1162\u1112\u1161\u1100\u1175 (mental models)"
     },
     {
@@ -7389,7 +7389,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L20",
       "id": "concepts_harness_engineering",
-      "community": 51,
+      "community": 52,
       "norm_label": "\ud83d\udccb \u110c\u1165\u11bc\u110b\u1174 \u1106\u1175\u11be \u1107\u1169\u11ab\u110c\u1175\u11af"
     },
     {
@@ -7398,7 +7398,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L23",
       "id": "concepts_harness_engineering_loop",
-      "community": 51,
+      "community": 52,
       "norm_label": "\u1106\u1169\u11a8\u110c\u1165\u11a8 \u1103\u1161\u11af\u1109\u1165\u11bc\u110b\u1173\u11af \u110b\u1171\u1112\u1161\u11ab '\u1105\u116e\u1111\u1173(loop)' \u1109\u1165\u11af\u1100\u1168"
     },
     {
@@ -7407,7 +7407,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L29",
       "id": "concepts_harness_engineering_29",
-      "community": 51,
+      "community": 52,
       "norm_label": "\ud83c\udfdb\ufe0f \u1112\u1161\u1102\u1166\u1109\u1173\u110b\u1174 \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1100\u116e\u1109\u1165\u11bc (\u1100\u1165\u1107\u1165\u1102\u1165\u11ab\u1109\u1173 \u1105\u1166\u110b\u1175\u110b\u1165)"
     },
     {
@@ -7416,7 +7416,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L35",
       "id": "concepts_harness_engineering_vs",
-      "community": 51,
+      "community": 52,
       "norm_label": "\u2696\ufe0f \u1112\u1161\u1102\u1166\u1109\u1173 vs \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e"
     },
     {
@@ -7425,7 +7425,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L40",
       "id": "concepts_harness_engineering_7",
-      "community": 51,
+      "community": 52,
       "norm_label": "\ud83d\ude80 \u1109\u1165\u11af\u1100\u1168 7\u110b\u116f\u11ab\u110e\u1175\u11a8"
     },
     {
@@ -7434,7 +7434,7 @@
       "source_file": "content/wiki/concepts/harness-engineering.md",
       "source_location": "L49",
       "id": "concepts_harness_engineering_49",
-      "community": 51,
+      "community": 52,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -8307,7 +8307,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L1",
       "id": "content_wiki_entities_gstack_md",
-      "community": 40,
+      "community": 41,
       "norm_label": "gstack.md"
     },
     {
@@ -8316,7 +8316,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L10",
       "id": "entities_gstack_gstack",
-      "community": 40,
+      "community": 41,
       "norm_label": "gstack"
     },
     {
@@ -8325,7 +8325,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L16",
       "id": "entities_gstack",
-      "community": 40,
+      "community": 41,
       "norm_label": "\ud83d\ude80 \u1112\u1162\u11a8\u1109\u1175\u11b7 \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165 \u1106\u1175\u11be \u1109\u1173\u1111\u1173\u1105\u1175\u11ab\u1110\u1173 \u1111\u1173\u1105\u1169\u1109\u1166\u1109\u1173"
     },
     {
@@ -8334,7 +8334,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L19",
       "id": "entities_gstack_1",
-      "community": 40,
+      "community": 41,
       "norm_label": "1. \u110c\u1165\u11ab\u1106\u116e\u11ab\u1100\u1161 \u1111\u1166\u1105\u1173\u1109\u1169\u1102\u1161 \u1106\u1175\u11be \u1109\u1173\u11af\u1105\u1162\u1109\u1175 \u1106\u1167\u11bc\u1105\u1167\u11bc\u110b\u1165"
     },
     {
@@ -8343,7 +8343,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L27",
       "id": "entities_gstack_2_continuous_checkpoint_mode",
-      "community": 40,
+      "community": 41,
       "norm_label": "2. continuous checkpoint mode (\u110b\u1167\u11ab\u1109\u1169\u11a8 \u110e\u1166\u110f\u1173\u1111\u1169\u110b\u1175\u11ab\u1110\u1173)"
     },
     {
@@ -8352,7 +8352,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L32",
       "id": "entities_gstack_3_pair_agent",
-      "community": 40,
+      "community": 41,
       "norm_label": "3. /pair-agent (\u1103\u1161\u110c\u116e\u11bc \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1107\u1173\u1105\u1161\u110b\u116e\u110c\u1165 \u110c\u1166\u110b\u1165)"
     },
     {
@@ -8361,7 +8361,7 @@
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L38",
       "id": "entities_gstack_38",
-      "community": 40,
+      "community": 41,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -8415,7 +8415,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L1",
       "id": "content_wiki_entities_oh_my_opencode_md",
-      "community": 41,
+      "community": 42,
       "norm_label": "oh-my-opencode.md"
     },
     {
@@ -8424,7 +8424,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L10",
       "id": "entities_oh_my_opencode_oh_my_opencode",
-      "community": 41,
+      "community": 42,
       "norm_label": "oh-my-opencode"
     },
     {
@@ -8433,7 +8433,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L16",
       "id": "entities_oh_my_opencode",
-      "community": 41,
+      "community": 42,
       "norm_label": "\ud83d\ude80 \u1112\u1162\u11a8\u1109\u1175\u11b7 \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165 \u1106\u1175\u11be \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1110\u1175\u11b7"
     },
     {
@@ -8442,7 +8442,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L18",
       "id": "entities_oh_my_opencode_1_sisyphus",
-      "community": 41,
+      "community": 42,
       "norm_label": "1. sisyphus \u110b\u1169\u110f\u1166\u1109\u1173\u1110\u1173\u1105\u1166\u110b\u1175\u1110\u1165"
     },
     {
@@ -8451,7 +8451,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L23",
       "id": "entities_oh_my_opencode_2_sync_async",
-      "community": 41,
+      "community": 42,
       "norm_label": "2. \u110c\u1165\u11ab\u1106\u116e\u11ab \u1109\u1165\u1107\u1173 \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1107\u116e\u11ab\u110b\u1165\u11b8 (sync/async)"
     },
     {
@@ -8460,7 +8460,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L31",
       "id": "entities_oh_my_opencode_31",
-      "community": 41,
+      "community": 42,
       "norm_label": "\ud83d\udca1 \u110c\u116e\u110b\u116d \u110f\u1165\u11ab\u1110\u1166\u11a8\u1109\u1173\u1110\u1173 \u110c\u116e\u110b\u1175\u11b8 \u1106\u1166\u110f\u1165\u1102\u1175\u110c\u1173\u11b7"
     },
     {
@@ -8469,7 +8469,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L38",
       "id": "entities_oh_my_opencode_38",
-      "community": 41,
+      "community": 42,
       "norm_label": "\ud83d\udd27 \u110b\u116e\u11ab\u110b\u1167\u11bc \u1100\u1161\u110b\u1175\u1103\u1173 \u1106\u1175\u11be \u110c\u116e\u110b\u1174\u1109\u1161\u1112\u1161\u11bc"
     },
     {
@@ -8478,7 +8478,7 @@
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L45",
       "id": "entities_oh_my_opencode_45",
-      "community": 41,
+      "community": 42,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -8532,7 +8532,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L1",
       "id": "content_wiki_entities_opencode_md",
-      "community": 52,
+      "community": 53,
       "norm_label": "opencode.md"
     },
     {
@@ -8541,7 +8541,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L10",
       "id": "entities_opencode_opencode",
-      "community": 52,
+      "community": 53,
       "norm_label": "opencode"
     },
     {
@@ -8550,7 +8550,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L16",
       "id": "entities_opencode",
-      "community": 52,
+      "community": 53,
       "norm_label": "\ud83d\udd0d \u1100\u1162\u110b\u116d \u1106\u1175\u11be \u110c\u116e\u110b\u116d \u1106\u1169\u1103\u1166\u11af \u110b\u1167\u11ab\u1103\u1169\u11bc \u110c\u1165\u11bc\u110e\u1162\u11a8"
     },
     {
@@ -8559,7 +8559,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L18",
       "id": "entities_opencode_1",
-      "community": 52,
+      "community": 53,
       "norm_label": "1. \u1107\u1175\u110b\u116d\u11bc \u1112\u116d\u110b\u1172\u11af\u1109\u1165\u11bc\u1100\u116a \u1107\u1175\u110c\u1173\u1102\u1175\u1109\u1173 \u1106\u1169\u1103\u1166\u11af"
     },
     {
@@ -8568,7 +8568,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L22",
       "id": "entities_opencode_2_llm_openai_vs_anthropic",
-      "community": 52,
+      "community": 53,
       "norm_label": "2. llm \u110c\u1166\u1100\u1169\u11bc\u110c\u1161 \u110b\u1167\u11ab\u1103\u1169\u11bc \u1100\u1161\u11af\u1103\u1173\u11bc (openai vs anthropic)"
     },
     {
@@ -8577,7 +8577,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L28",
       "id": "entities_opencode_28",
-      "community": 52,
+      "community": 53,
       "norm_label": "\ud83d\udee0\ufe0f \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1100\u1175\u1102\u1173\u11bc \u1106\u1175\u11be \u1109\u1161\u110b\u116d\u11bc\u1107\u1165\u11b8"
     },
     {
@@ -8586,7 +8586,7 @@
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L35",
       "id": "entities_opencode_35",
-      "community": 52,
+      "community": 53,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -9666,7 +9666,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L1",
       "id": "content_wiki_sources_conversation_harness_insights_md",
-      "community": 53,
+      "community": 54,
       "norm_label": "conversation-harness-insights.md"
     },
     {
@@ -9675,7 +9675,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L11",
       "id": "sources_conversation_harness_insights",
-      "community": 53,
+      "community": 54,
       "norm_label": "\u1112\u1161\u1102\u1166\u1109\u1173\u110b\u116a \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e\u110b\u1166 \u1103\u1162\u1112\u1161\u11ab \u1103\u1162\u1112\u116a\u110c\u1165\u11a8 \u1100\u1169\u110e\u1161\u11af"
     },
     {
@@ -9684,7 +9684,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L15",
       "id": "sources_conversation_harness_insights_15",
-      "community": 53,
+      "community": 54,
       "norm_label": "\ud83d\udccc \u1100\u1162\u110b\u116d"
     },
     {
@@ -9693,7 +9693,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L18",
       "id": "sources_conversation_harness_insights_18",
-      "community": 53,
+      "community": 54,
       "norm_label": "\u6838\u5fc3 \u1102\u1162\u110b\u116d\u11bc"
     },
     {
@@ -9702,7 +9702,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L19",
       "id": "sources_conversation_harness_insights_1_harness_vs_workflow",
-      "community": 53,
+      "community": 54,
       "norm_label": "1. \u1112\u1161\u1102\u1166\u1109\u1173(harness) vs \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e(workflow)"
     },
     {
@@ -9711,7 +9711,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L23",
       "id": "sources_conversation_harness_insights_2",
-      "community": 53,
+      "community": 54,
       "norm_label": "2. \u1112\u1161\u1102\u1166\u1109\u1173 \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc\u110b\u1174 \u1107\u1169\u11ab\u110c\u1175\u11af: '\u1106\u1169\u11a8\u110c\u1165\u11a8 \u1103\u1161\u11af\u1109\u1165\u11bc \u1105\u116e\u1111\u1173'"
     },
     {
@@ -9720,7 +9720,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L27",
       "id": "sources_conversation_harness_insights_3_mental_models",
-      "community": 53,
+      "community": 54,
       "norm_label": "3. \u1109\u1171\u110b\u116e\u11ab \u1107\u1175\u110b\u1172 (mental models)"
     },
     {
@@ -9729,7 +9729,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L32",
       "id": "sources_conversation_harness_insights_32",
-      "community": 53,
+      "community": 54,
       "norm_label": "\ud83e\udde0 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -9738,7 +9738,7 @@
       "source_file": "content/wiki/sources/conversation-harness-insights.md",
       "source_location": "L37",
       "id": "sources_conversation_harness_insights_37",
-      "community": 53,
+      "community": 54,
       "norm_label": "\u270d\ufe0f \u1106\u1166\u1106\u1169 \u1106\u1175\u11be \u1106\u1162\u11a8\u1105\u1161\u11a8"
     },
     {
@@ -9837,7 +9837,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L1",
       "id": "content_wiki_sources_garry_tan_gstack_md",
-      "community": 25,
+      "community": 27,
       "norm_label": "garry-tan-gstack.md"
     },
     {
@@ -9846,7 +9846,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L11",
       "id": "sources_garry_tan_gstack_gstack_garry_tan_s_ai_engineering_stack",
-      "community": 25,
+      "community": 27,
       "norm_label": "gstack: garry tan's ai engineering stack"
     },
     {
@@ -9855,7 +9855,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L17",
       "id": "sources_garry_tan_gstack",
-      "community": 25,
+      "community": 27,
       "norm_label": "\ud83d\udccc \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1102\u1162\u110b\u116d\u11bc"
     },
     {
@@ -9864,7 +9864,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L19",
       "id": "sources_garry_tan_gstack_1_ai_karpathy_4",
-      "community": 25,
+      "community": 27,
       "norm_label": "1. ai \u1100\u1175\u1107\u1161\u11ab\u110b\u1174 \u110e\u1169\u1100\u1169\u1109\u1169\u11a8 \u1107\u1162\u1111\u1169 \u1109\u1175\u11af\u110c\u1165\u11a8 (karpathy\u110b\u1174 4\u1103\u1161\u11ab\u1100\u1168 \u1109\u1175\u11af\u1111\u1162 \u1100\u1173\u11a8\u1107\u1169\u11a8)"
     },
     {
@@ -9873,7 +9873,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L23",
       "id": "sources_garry_tan_gstack_2_gstack_23",
-      "community": 25,
+      "community": 27,
       "norm_label": "2. gstack\u110b\u1174 23\u1100\u1161\u110c\u1175 \u110c\u1165\u11ab\u1106\u116e\u11ab \u110b\u1167\u11a8\u1112\u1161\u11af \u1106\u1175\u11be \u110b\u116f\u110f\u1173\u1111\u1173\u11af\u1105\u1169\u110b\u116e"
     },
     {
@@ -9882,7 +9882,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L35",
       "id": "sources_garry_tan_gstack_3",
-      "community": 25,
+      "community": 27,
       "norm_label": "3. \u110c\u1175\u1109\u1169\u11a8\u110c\u1165\u11a8 \u110e\u1166\u110f\u1173\u1111\u1169\u110b\u1175\u11ab\u1110\u1173\u110b\u116a \u110b\u1161\u11ab\u110c\u1165\u11ab \u1100\u1161\u1103\u1173\u1105\u1166\u110b\u1175\u11af"
     },
     {
@@ -9891,7 +9891,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L42",
       "id": "sources_garry_tan_gstack_42",
-      "community": 25,
+      "community": 27,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -9900,7 +9900,7 @@
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L48",
       "id": "sources_garry_tan_gstack_48",
-      "community": 25,
+      "community": 27,
       "norm_label": "\ud83d\udcdd \u1109\u1162\u11bc\u1100\u1161\u11a8 \u1106\u1175\u11be \u1106\u1166\u1106\u1169"
     },
     {
@@ -9909,7 +9909,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L1",
       "id": "content_wiki_sources_gbrain_md",
-      "community": 42,
+      "community": 43,
       "norm_label": "gbrain.md"
     },
     {
@@ -9918,7 +9918,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L11",
       "id": "sources_gbrain_gbrain",
-      "community": 42,
+      "community": 43,
       "norm_label": "gbrain \u2014 \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173 \u1100\u1162\u110b\u1175\u11ab \u110c\u1175\u1109\u1175\u11a8 \u1107\u1166\u110b\u1175\u1109\u1173"
     },
     {
@@ -9927,7 +9927,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L18",
       "id": "sources_gbrain_1",
-      "community": 42,
+      "community": 43,
       "norm_label": "1. \u1100\u1162\u110b\u116d \u1106\u1175\u11be \u110b\u116d\u110b\u1163\u11a8"
     },
     {
@@ -9936,7 +9936,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L21",
       "id": "sources_gbrain_codeblock_1",
-      "community": 42,
+      "community": 43,
       "norm_label": "code:mermaid (graph td)"
     },
     {
@@ -9945,7 +9945,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L55",
       "id": "sources_gbrain_2",
-      "community": 42,
+      "community": 43,
       "norm_label": "2. \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1102\u1162\u110b\u116d\u11bc \u110b\u116d\u110b\u1163\u11a8"
     },
     {
@@ -9954,7 +9954,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L57",
       "id": "sources_gbrain_a_compiled_truth_vs_timeline",
-      "community": 42,
+      "community": 43,
       "norm_label": "a. \u110c\u1175\u1109\u1175\u11a8 \u1106\u1169\u1103\u1166\u11af: \u110c\u1165\u11bc\u1105\u1175\u1103\u116c\u11ab \u110c\u1175\u11ab\u1109\u1175\u11af (compiled truth) vs \u110b\u1167\u11a8\u1109\u1161 (timeline)"
     },
     {
@@ -9963,7 +9963,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L62",
       "id": "sources_gbrain_b",
-      "community": 42,
+      "community": 43,
       "norm_label": "b. \u1112\u1161\u110b\u1175\u110b\u1166\u11ab\u1103\u1173 \u1112\u1161\u110b\u1175\u1107\u1173\u1105\u1175\u1103\u1173 \u1100\u1165\u11b7\u1109\u1162\u11a8 \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165"
     },
     {
@@ -9972,7 +9972,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L68",
       "id": "sources_gbrain_c_mcp",
-      "community": 42,
+      "community": 43,
       "norm_label": "c. \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u110c\u1165\u11ab\u110b\u116d\u11bc \u1109\u1173\u110f\u1175\u11af \u1106\u1175\u11be mcp \u1110\u1161\u11b8\u110c\u1162"
     },
     {
@@ -9981,7 +9981,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L79",
       "id": "sources_gbrain_3_connected_knowledge",
-      "community": 42,
+      "community": 43,
       "norm_label": "3. \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8 (connected knowledge)"
     },
     {
@@ -9990,7 +9990,7 @@
       "source_file": "content/wiki/sources/gbrain.md",
       "source_location": "L85",
       "id": "sources_gbrain_4_my_rationale_vision_connection",
-      "community": 42,
+      "community": 43,
       "norm_label": "4. \u1102\u1161\u110b\u1174 \u1109\u1162\u11bc\u1100\u1161\u11a8 \u1106\u1175\u11be \u1106\u1166\u1106\u1169 (my rationale & vision connection)"
     },
     {
@@ -9999,7 +9999,7 @@
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
       "source_location": "L1",
       "id": "content_wiki_sources_getting_started_with_loops_md",
-      "community": 54,
+      "community": 38,
       "norm_label": "getting-started-with-loops.md"
     },
     {
@@ -10008,70 +10008,70 @@
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
       "source_location": "L11",
       "id": "sources_getting_started_with_loops_getting_started_with_loops",
-      "community": 54,
+      "community": 38,
       "norm_label": "getting started with loops"
     },
     {
       "label": "\ud575\uc2ec \ub0b4\uc6a9",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L15",
+      "source_location": "L17",
       "id": "sources_getting_started_with_loops",
-      "community": 54,
+      "community": 38,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u1102\u1162\u110b\u116d\u11bc"
     },
     {
       "label": "1. \uc5d0\uc774\uc804\ud2b8 \ub8e8\ud504\uc758 \uc815\uc758\uc640 \uc758\uc758",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L17",
+      "source_location": "L19",
       "id": "sources_getting_started_with_loops_1",
-      "community": 54,
+      "community": 38,
       "norm_label": "1. \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1105\u116e\u1111\u1173\u110b\u1174 \u110c\u1165\u11bc\u110b\u1174\u110b\u116a \u110b\u1174\u110b\u1174"
     },
     {
       "label": "2. \uc5d0\uc774\uc804\ud2b8 \ub8e8\ud504\uc758 4\ub2e8\uacc4 \uacc4\uce35\ud654",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L21",
+      "source_location": "L23",
       "id": "sources_getting_started_with_loops_2_4",
-      "community": 54,
+      "community": 38,
       "norm_label": "2. \u110b\u1166\u110b\u1175\u110c\u1165\u11ab\u1110\u1173 \u1105\u116e\u1111\u1173\u110b\u1174 4\u1103\u1161\u11ab\u1100\u1168 \u1100\u1168\u110e\u1173\u11bc\u1112\u116a"
     },
     {
       "label": "3. \ub8e8\ud504 \uc548\uc815\ud654 \ubc0f \ud488\uc9c8 \uad00\ub9ac \ubc29\uc548",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L31",
+      "source_location": "L33",
       "id": "sources_getting_started_with_loops_3",
-      "community": 54,
+      "community": 38,
       "norm_label": "3. \u1105\u116e\u1111\u1173 \u110b\u1161\u11ab\u110c\u1165\u11bc\u1112\u116a \u1106\u1175\u11be \u1111\u116e\u11b7\u110c\u1175\u11af \u1100\u116a\u11ab\u1105\u1175 \u1107\u1161\u11bc\u110b\u1161\u11ab"
     },
     {
       "label": "4. \ud1a0\ud070 \uc18c\ubaa8 \uc81c\uc5b4 \ubc0f \ud6a8\uc728\ud654 (Cost Optimization)",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L36",
+      "source_location": "L38",
       "id": "sources_getting_started_with_loops_4_cost_optimization",
-      "community": 54,
+      "community": 38,
       "norm_label": "4. \u1110\u1169\u110f\u1173\u11ab \u1109\u1169\u1106\u1169 \u110c\u1166\u110b\u1165 \u1106\u1175\u11be \u1112\u116d\u110b\u1172\u11af\u1112\u116a (cost optimization)"
     },
     {
       "label": "\ud83d\udd17 \uc5f0\uacb0\ub41c \uc9c0\uc2dd",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L43",
-      "id": "sources_getting_started_with_loops_43",
-      "community": 54,
+      "source_location": "L45",
+      "id": "sources_getting_started_with_loops_45",
+      "community": 38,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
       "label": "\uc0dd\uac01 \ubc0f \uba54\ubaa8",
       "file_type": "document",
       "source_file": "content/wiki/sources/getting-started-with-loops.md",
-      "source_location": "L50",
-      "id": "sources_getting_started_with_loops_50",
-      "community": 54,
+      "source_location": "L52",
+      "id": "sources_getting_started_with_loops_52",
+      "community": 38,
       "norm_label": "\u1109\u1162\u11bc\u1100\u1161\u11a8 \u1106\u1175\u11be \u1106\u1166\u1106\u1169"
     },
     {
@@ -10719,7 +10719,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L1",
       "id": "content_wiki_sources_openhuman_article_md",
-      "community": 43,
+      "community": 44,
       "norm_label": "openhuman-article.md"
     },
     {
@@ -10728,7 +10728,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L11",
       "id": "sources_openhuman_article_openhuman_ai",
-      "community": 43,
+      "community": 44,
       "norm_label": "\ud83d\udcc4 openhuman: '\u1102\u1161\u1105\u1173\u11af \u110b\u1161\u1102\u1173\u11ab ai \u1107\u1175\u1109\u1165'\u1105\u1173\u11af \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173\u1105\u1169 \u1106\u1161\u11ab\u1103\u1173\u11af \u1109\u116e \u110b\u1175\u11bb\u110b\u1173\u11af\u1101\u1161"
     },
     {
@@ -10737,7 +10737,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L19",
       "id": "sources_openhuman_article",
-      "community": 43,
+      "community": 44,
       "norm_label": "\ud83d\udccc \u1100\u1162\u110b\u116d"
     },
     {
@@ -10746,7 +10746,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L25",
       "id": "sources_openhuman_article_25",
-      "community": 43,
+      "community": 44,
       "norm_label": "\ud83d\udd11 \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1102\u1162\u110b\u116d\u11bc"
     },
     {
@@ -10755,7 +10755,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L27",
       "id": "sources_openhuman_article_1",
-      "community": 43,
+      "community": 44,
       "norm_label": "1. \u110f\u1169\u11af\u1103\u1173 \u1109\u1173\u1110\u1161\u1110\u1173 \u1106\u116e\u11ab\u110c\u1166 \u1100\u1173\u11a8\u1107\u1169\u11a8 \u1106\u1175\u11be \u110c\u1161\u1103\u1169\u11bc \u1103\u1169\u11bc\u1100\u1175\u1112\u116a"
     },
     {
@@ -10764,7 +10764,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L32",
       "id": "sources_openhuman_article_2_memory_tree",
-      "community": 43,
+      "community": 44,
       "norm_label": "2. \u1106\u1166\u1106\u1169\u1105\u1175 \u1110\u1173\u1105\u1175(memory tree) \u110b\u1161\u110f\u1175\u1110\u1166\u11a8\u110e\u1165"
     },
     {
@@ -10773,7 +10773,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L37",
       "id": "sources_openhuman_article_3_tokenjuice",
-      "community": 43,
+      "community": 44,
       "norm_label": "3. tokenjuice: \u1110\u1169\u110f\u1173\u11ab \u110b\u1161\u11b8\u110e\u116e\u11a8 \u1105\u1166\u110b\u1175\u110b\u1165"
     },
     {
@@ -10782,7 +10782,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L41",
       "id": "sources_openhuman_article_4",
-      "community": 43,
+      "community": 44,
       "norm_label": "4. \u110b\u1169\u1111\u1173\u11ab\u1109\u1169\u1109\u1173 \u1105\u1161\u1107\u1166\u11af\u1100\u116a \u1100\u116a\u11ab\u1105\u1175\u1112\u1167\u11bc \u1107\u1162\u11a8\u110b\u1166\u11ab\u1103\u1173 \u110b\u1174\u110c\u1169\u11ab\u1109\u1165\u11bc"
     },
     {
@@ -10791,7 +10791,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L47",
       "id": "sources_openhuman_article_47",
-      "community": 43,
+      "community": 44,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8"
     },
     {
@@ -10800,7 +10800,7 @@
       "source_file": "content/wiki/sources/openhuman-article.md",
       "source_location": "L54",
       "id": "sources_openhuman_article_54",
-      "community": 43,
+      "community": 44,
       "norm_label": "\ud83d\udcad \u1109\u1162\u11bc\u1100\u1161\u11a8 \u1106\u1175\u11be \u1106\u1166\u1106\u1169 (\u1109\u1161\u110b\u116d\u11bc\u110c\u1161 \u1106\u1162\u11a8\u1105\u1161\u11a8)"
     },
     {
@@ -11632,6 +11632,51 @@
       "norm_label": "3. \u110b\u1168\u110b\u116c \u1106\u1175\u11be \u110c\u116e\u110b\u1174\u1109\u1161\u1112\u1161\u11bc"
     },
     {
+      "label": "\ud83d\udccb \uc815\uc758",
+      "file_type": "document",
+      "source_file": "content/wiki/concepts/agentic-loop.md",
+      "source_location": "L22",
+      "community": 15,
+      "norm_label": "\ud83d\udccb \u110c\u1165\u11bc\u110b\u1174",
+      "id": "concepts_agentic_loop_22"
+    },
+    {
+      "label": "\ud83d\udee0\ufe0f \ud575\uc2ec \uc131\uacf5 \uc694\uc778 (\ud488\uc9c8 \ubc0f \ube44\uc6a9 \uad00\ub9ac)",
+      "file_type": "document",
+      "source_file": "content/wiki/concepts/agentic-loop.md",
+      "source_location": "L70",
+      "community": 15,
+      "norm_label": "\ud83d\udee0\ufe0f \u1112\u1162\u11a8\u1109\u1175\u11b7 \u1109\u1165\u11bc\u1100\u1169\u11bc \u110b\u116d\u110b\u1175\u11ab (\u1111\u116e\u11b7\u110c\u1175\u11af \u1106\u1175\u11be \u1107\u1175\u110b\u116d\u11bc \u1100\u116a\u11ab\u1105\u1175)",
+      "id": "concepts_agentic_loop_70"
+    },
+    {
+      "label": "\ud83d\udd17 \uc5f0\uacb0\ub41c \uc9c0\uc2dd",
+      "file_type": "document",
+      "source_file": "content/wiki/concepts/agentic-loop.md",
+      "source_location": "L81",
+      "community": 15,
+      "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8",
+      "id": "concepts_agentic_loop_81"
+    },
+    {
+      "label": "\ud83d\udd17 \uc5f0\uacb0\ub41c \uc9c0\uc2dd",
+      "file_type": "document",
+      "source_file": "content/wiki/sources/getting-started-with-loops.md",
+      "source_location": "L43",
+      "community": 38,
+      "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8",
+      "id": "sources_getting_started_with_loops_43"
+    },
+    {
+      "label": "\uc0dd\uac01 \ubc0f \uba54\ubaa8",
+      "file_type": "document",
+      "source_file": "content/wiki/sources/getting-started-with-loops.md",
+      "source_location": "L50",
+      "community": 38,
+      "norm_label": "\u1109\u1162\u11bc\u1100\u1161\u11a8 \u1106\u1175\u11be \u1106\u1166\u1106\u1169",
+      "id": "sources_getting_started_with_loops_50"
+    },
+    {
       "label": "\ud575\uc2ec \uc6d0\uce59",
       "file_type": "document",
       "source_file": "content/wiki/ai-rules.md",
@@ -11690,7 +11735,7 @@
       "file_type": "document",
       "source_file": "content/wiki/index.md",
       "source_location": "L98",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u1110\u1169\u11bc\u1100\u1168",
       "id": "wiki_index_98"
     },
@@ -11699,7 +11744,7 @@
       "file_type": "document",
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L60",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8",
       "id": "comparisons_loop_vs_harness_60"
     },
@@ -11708,7 +11753,7 @@
       "file_type": "document",
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L68",
-      "community": 39,
+      "community": 40,
       "norm_label": "\ud83d\udca1 \u110c\u1175\u1109\u1175\u11a8 \u1100\u1169\u11bc\u110b\u1172\u1105\u1173\u11af \u110b\u1171\u1112\u1161\u11ab \u110c\u1165\u11a8\u110b\u116d\u11bc \u1111\u1169\u110b\u1175\u11ab\u1110\u1173",
       "id": "comparisons_loop_vs_harness_68"
     },
@@ -11717,7 +11762,7 @@
       "file_type": "document",
       "source_file": "content/wiki/index.md",
       "source_location": "L96",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u1110\u1169\u11bc\u1100\u1168",
       "id": "wiki_index_96"
     },
@@ -11735,7 +11780,7 @@
       "file_type": "document",
       "source_file": "content/wiki/index.md",
       "source_location": "L92",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u1110\u1169\u11bc\u1100\u1168",
       "id": "wiki_index_92"
     },
@@ -11744,7 +11789,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L15",
-      "community": 40,
+      "community": 41,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u1100\u1175\u1102\u1173\u11bc",
       "id": "entities_gstack_15"
     },
@@ -11753,7 +11798,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L21",
-      "community": 40,
+      "community": 41,
       "norm_label": "\u1100\u116a\u11ab\u1105\u1167\u11ab \u1111\u1173\u1105\u1169\u110c\u1166\u11a8\u1110\u1173/\u1103\u1169\u1100\u116e",
       "id": "entities_gstack_21"
     },
@@ -11762,7 +11807,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/gstack.md",
       "source_location": "L26",
-      "community": 40,
+      "community": 41,
       "norm_label": "\u1109\u1161\u110b\u116d\u11bc\u110c\u1161 \u110b\u1175\u11ab\u1109\u1161\u110b\u1175\u1110\u1173",
       "id": "entities_gstack_26"
     },
@@ -11771,7 +11816,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L19",
-      "community": 41,
+      "community": 42,
       "norm_label": "\ud83d\udca1 \u110c\u116e\u110b\u116d \u1100\u1162\u1102\u1167\u11b7",
       "id": "entities_oh_my_opencode_19"
     },
@@ -11780,7 +11825,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/oh-my-opencode.md",
       "source_location": "L24",
-      "community": 41,
+      "community": 42,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8",
       "id": "entities_oh_my_opencode_24"
     },
@@ -11789,7 +11834,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L19",
-      "community": 52,
+      "community": 53,
       "norm_label": "\ud83d\udee0\ufe0f \u110c\u116e\u110b\u116d \u1100\u1175\u1102\u1173\u11bc",
       "id": "entities_opencode_19"
     },
@@ -11798,7 +11843,7 @@
       "file_type": "document",
       "source_file": "content/wiki/entities/opencode.md",
       "source_location": "L24",
-      "community": 52,
+      "community": 53,
       "norm_label": "\ud83d\udd17 \u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8",
       "id": "entities_opencode_24"
     },
@@ -11807,7 +11852,7 @@
       "file_type": "document",
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L15",
-      "community": 25,
+      "community": 27,
       "norm_label": "\u1112\u1162\u11a8\u1109\u1175\u11b7 \u1102\u1162\u110b\u116d\u11bc",
       "id": "sources_garry_tan_gstack_15"
     },
@@ -11816,7 +11861,7 @@
       "file_type": "document",
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L17",
-      "community": 25,
+      "community": 27,
       "norm_label": "1. \u1100\u1161\u1109\u1161\u11bc \u110b\u1166\u11ab\u110c\u1175\u1102\u1175\u110b\u1165\u1105\u1175\u11bc \u1110\u1175\u11b7 (virtual engineering team)",
       "id": "sources_garry_tan_gstack_1_virtual_engineering_team"
     },
@@ -11825,7 +11870,7 @@
       "file_type": "document",
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L20",
-      "community": 25,
+      "community": 27,
       "norm_label": "2. \u1109\u1162\u11bc\u1109\u1161\u11ab\u1109\u1165\u11bc \u110c\u1175\u1111\u116d: logical loc",
       "id": "sources_garry_tan_gstack_2_logical_loc"
     },
@@ -11834,7 +11879,7 @@
       "file_type": "document",
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L29",
-      "community": 25,
+      "community": 27,
       "norm_label": "\u110b\u1167\u11ab\u1100\u1167\u11af\u1103\u116c\u11ab \u110c\u1175\u1109\u1175\u11a8",
       "id": "sources_garry_tan_gstack_29"
     },
@@ -11843,7 +11888,7 @@
       "file_type": "document",
       "source_file": "content/wiki/sources/garry-tan-gstack.md",
       "source_location": "L34",
-      "community": 25,
+      "community": 27,
       "norm_label": "\u1109\u1162\u11bc\u1100\u1161\u11a8 \u1106\u1175\u11be \u1106\u1166\u1106\u1169",
       "id": "sources_garry_tan_gstack_34"
     },
@@ -11906,7 +11951,7 @@
       "file_type": "document",
       "source_file": "content/wiki/index.md",
       "source_location": "L82",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u1110\u1169\u11bc\u1100\u1168",
       "id": "wiki_index_82"
     },
@@ -11969,7 +12014,7 @@
       "file_type": "document",
       "source_file": "content/wiki/index.md",
       "source_location": "L79",
-      "community": 20,
+      "community": 21,
       "norm_label": "\u1110\u1169\u11bc\u1100\u1168",
       "id": "wiki_index_79"
     }
@@ -12096,9 +12141,9 @@
       "source_file": "scratch/lint_checker.py",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "scratch_lint_checker_py",
-      "target": "scratch_lint_checker_parse_frontmatter_manual",
-      "confidence_score": 1.0
+      "target": "scratch_lint_checker_parse_frontmatter_manual"
     },
     {
       "relation": "contains",
@@ -12106,9 +12151,9 @@
       "source_file": "scratch/lint_checker.py",
       "source_location": "L57",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "scratch_lint_checker_py",
-      "target": "scratch_lint_checker_parse_markdown",
-      "confidence_score": 1.0
+      "target": "scratch_lint_checker_parse_markdown"
     },
     {
       "relation": "calls",
@@ -12117,9 +12162,9 @@
       "source_file": "scratch/lint_checker.py",
       "source_location": "L66",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "scratch_lint_checker_parse_markdown",
-      "target": "scratch_lint_checker_parse_frontmatter_manual",
-      "confidence_score": 1.0
+      "target": "scratch_lint_checker_parse_frontmatter_manual"
     },
     {
       "relation": "contains",
@@ -18637,9 +18682,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_wiki_layer_ai",
-      "target": "wiki_ai_rules_19",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_19"
     },
     {
       "relation": "contains",
@@ -18647,9 +18692,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_wiki_layer_ai",
-      "target": "wiki_ai_rules_30",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_30"
     },
     {
       "relation": "contains",
@@ -18677,9 +18722,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L59",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_wiki_layer_ai",
-      "target": "wiki_ai_rules_59",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_59"
     },
     {
       "relation": "contains",
@@ -18687,9 +18732,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L66",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_wiki_layer_ai",
-      "target": "wiki_ai_rules_ai_66",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_ai_66"
     },
     {
       "relation": "contains",
@@ -18737,9 +18782,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_19",
-      "target": "wiki_ai_rules_ai",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_ai"
     },
     {
       "relation": "contains",
@@ -18747,9 +18792,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_19",
-      "target": "wiki_ai_rules_26",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_26"
     },
     {
       "relation": "contains",
@@ -18777,9 +18822,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_ai_66",
-      "target": "wiki_ai_rules_ingest",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_ingest"
     },
     {
       "relation": "contains",
@@ -18787,9 +18832,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L75",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_ai_66",
-      "target": "wiki_ai_rules_75",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_75"
     },
     {
       "relation": "contains",
@@ -18797,9 +18842,9 @@
       "source_file": "content/wiki/ai-rules.md",
       "source_location": "L80",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_ai_rules_ai_66",
-      "target": "wiki_ai_rules_lint",
-      "confidence_score": 1.0
+      "target": "wiki_ai_rules_lint"
     },
     {
       "relation": "contains",
@@ -18847,9 +18892,9 @@
       "source_file": "content/wiki/index.md",
       "source_location": "L99",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_index_wiki_index",
-      "target": "wiki_index_99",
-      "confidence_score": 1.0
+      "target": "wiki_index_99"
     },
     {
       "relation": "contains",
@@ -18967,9 +19012,9 @@
       "source_file": "content/wiki/log.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_log_wiki_log",
-      "target": "wiki_log_2026_07_08_lint",
-      "confidence_score": 1.0
+      "target": "wiki_log_2026_07_08_lint"
     },
     {
       "relation": "contains",
@@ -19277,9 +19322,9 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L61",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "comparisons_loop_vs_harness_loop_vs_harness",
-      "target": "comparisons_loop_vs_harness_61",
-      "confidence_score": 1.0
+      "target": "comparisons_loop_vs_harness_61"
     },
     {
       "relation": "contains",
@@ -19287,9 +19332,9 @@
       "source_file": "content/wiki/comparisons/loop-vs-harness.md",
       "source_location": "L69",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "comparisons_loop_vs_harness_loop_vs_harness",
-      "target": "comparisons_loop_vs_harness_69",
-      "confidence_score": 1.0
+      "target": "comparisons_loop_vs_harness_69"
     },
     {
       "relation": "contains",
@@ -19345,11 +19390,11 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "content/wiki/concepts/agentic-loop.md",
-      "source_location": "L22",
+      "source_location": "L23",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "concepts_agentic_loop_agentic_loop",
-      "target": "concepts_agentic_loop_22"
+      "target": "concepts_agentic_loop_23",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -19360,6 +19405,36 @@
       "confidence_score": 1.0,
       "source": "concepts_agentic_loop_agentic_loop",
       "target": "concepts_agentic_loop_4"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content/wiki/concepts/agentic-loop.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "concepts_agentic_loop_agentic_loop",
+      "target": "concepts_agentic_loop_71",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content/wiki/concepts/agentic-loop.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "concepts_agentic_loop_agentic_loop",
+      "target": "concepts_agentic_loop_82",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content/wiki/concepts/agentic-loop.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "concepts_agentic_loop_agentic_loop",
+      "target": "concepts_agentic_loop_22"
     },
     {
       "relation": "contains",
@@ -21187,9 +21262,9 @@
       "source_file": "content/wiki/entities/y-combinator.md",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "content_wiki_entities_y_combinator_md",
-      "target": "entities_y_combinator_y_combinator",
-      "confidence_score": 1.0
+      "target": "entities_y_combinator_y_combinator"
     },
     {
       "relation": "contains",
@@ -21197,9 +21272,9 @@
       "source_file": "content/wiki/entities/y-combinator.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "entities_y_combinator_y_combinator",
-      "target": "entities_y_combinator",
-      "confidence_score": 1.0
+      "target": "entities_y_combinator"
     },
     {
       "relation": "contains",
@@ -21207,9 +21282,9 @@
       "source_file": "content/wiki/entities/y-combinator.md",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "entities_y_combinator_y_combinator",
-      "target": "entities_y_combinator_20",
-      "confidence_score": 1.0
+      "target": "entities_y_combinator_20"
     },
     {
       "relation": "contains",
@@ -22510,6 +22585,26 @@
       "confidence_score": 1.0,
       "source": "sources_getting_started_with_loops_getting_started_with_loops",
       "target": "sources_getting_started_with_loops"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content/wiki/sources/getting-started-with-loops.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "sources_getting_started_with_loops_getting_started_with_loops",
+      "target": "sources_getting_started_with_loops_45",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content/wiki/sources/getting-started-with-loops.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "sources_getting_started_with_loops_getting_started_with_loops",
+      "target": "sources_getting_started_with_loops_52",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -24203,5 +24298,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "6ffaedd15375fd9d74972f9608148e198feb763f"
+  "built_at_commit": "22c26e62a06380bb5f9e50976c53a45bc4fa5d45"
 }

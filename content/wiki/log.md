@@ -21,6 +21,7 @@ draft: false
     - [[openhuman-article]] 내 raw 파일 오지정 링크를 일반 마크다운 파일 URL로 이식성 높게 변환 완료.
     - 유령 개념이었던 [[y-combinator]]의 신규 스텁 페이지 생성 및 인덱스 정합성 동기화 완료.
     - `ai-rules.md` 내 예시 기호 오파싱 방지를 위한 대괄호 띄어쓰기 이스케이프 적용 완료.
+    - [[agentic-loop]] 및 [[getting-started-with-loops]] 문서에 소스 원문 URL(https://claude.com/blog/getting-started-with-loops) 추가 완료.
 - **잔여 문제**: 없음 (ai-rules.md 예외 제외).
 
 ---

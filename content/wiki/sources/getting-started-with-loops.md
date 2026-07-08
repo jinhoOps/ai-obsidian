@@ -2,7 +2,7 @@
 title: "Getting started with loops"
 type: source
 tags: [claude-code, agentic-loop, software-engineering, automation]
-sources: [content/raw/articles/Getting started with loops.md]
+sources: [content/raw/articles/Getting started with loops.md, "https://claude.com/blog/getting-started-with-loops"]
 created: 2026-07-08
 updated: 2026-07-08
 draft: false
@@ -11,6 +11,8 @@ draft: false
 # Getting started with loops
 
 Claude Code 팀이 공식 분류한 **에이전트 루프(Agentic Loop)**의 정의와 네 가지 계층 구조, 그리고 이를 안정적으로 유지하고 토큰 소모를 방어하기 위한 실무 가이드라인을 다룬 아티클입니다.
+> **원문 URL**: https://claude.com/blog/getting-started-with-loops
+> **수집일**: 2026-07-08
 
 ## 핵심 내용
 

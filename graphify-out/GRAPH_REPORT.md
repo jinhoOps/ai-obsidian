@@ -1,16 +1,16 @@
 # Graph Report - ai-obsidian  (2026-07-08)
 
 ## Corpus Check
-- 122 files · ~184,764 words
+- 122 files · ~184,816 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1330 nodes · 1222 edges · 144 communities (140 shown, 4 thin omitted)
+- 1335 nodes · 1227 edges · 144 communities (140 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `6ffaedd1`
+- Built from commit: `22c26e62`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -232,48 +232,48 @@ Cohesion: 0.13
 Nodes (14): 📢 왜 지금 당장 마이그레이션해야 할까요?, 1단계: 기존 Gemini CLI 깔끔하게 언인스톨하기, ⚡ 한눈에 보는 환경설정 & 설치 경로 변화, 2단계: 차세대 Antigravity CLI 설치하기, 🛠️ 3단계 마이그레이션 실전 튜토리얼, 3단계: 기존 확장 프로그램(Extensions) ➡️ 플러그인(Plugins) 이식하기, 💡 마이그레이션이 정상적으로 완료되었는지 확인하려면?, 🚀 Antigravity CLI의 강력한 새로운 기능들 (+6 more)
 
 ### Community 15 - "Community 15"
-Cohesion: 0.14
-Nodes (13): 메타데이터, 목차, 6단계 개발 파이프라인, 내장 도구, 유용한 키 바인딩, 실전 개발 워크플로우, 이상적인 유스케이스, 다른 도구가 더 적합할 수 있는 경우 (+5 more)
+Cohesion: 0.13
+Nodes (14): 🧩 비유로 이해하기, 📋 정의, 📋 정의, 🏗️ 에이전트 루프의 4단계 분류, 🛠️ 핵심 성공 요인 (품질 및 비용 관리), 🛠️ 핵심 성공 요인 (품질 및 비용 관리), 🔗 연결된 지식, 🔗 연결된 지식 (+6 more)
 
 ### Community 16 - "Community 16"
 Cohesion: 0.14
-Nodes (13): 메타데이터, 에이전트의 시대: 패러다임 전환, 자주 묻는 질문, 목차, 실제 성과 사례, 커뮤니티 후기, 성과 비교 (추정치), 언제 무엇을 선택할까? (+5 more)
+Nodes (13): 메타데이터, 목차, 6단계 개발 파이프라인, 내장 도구, 유용한 키 바인딩, 실전 개발 워크플로우, 주요 특징, 자주 묻는 질문 (+5 more)
 
 ### Community 17 - "Community 17"
 Cohesion: 0.14
-Nodes (14): 핵심 기능, 컨텍스트 인텔리전스, 자동 컨텍스트 주입, 백그라운드 병렬 작업, 병렬 작업 예시, call\_omo\_agent: 백그라운드 에이전트 실행, Claude Code 호환성 레이어, code:perl (project/) (+6 more)
+Nodes (13): 메타데이터, 에이전트의 시대: 패러다임 전환, 자주 묻는 질문, 목차, 실제 성과 사례, 커뮤니티 후기, 성과 비교 (추정치), 언제 무엇을 선택할까? (+5 more)
 
 ### Community 18 - "Community 18"
 Cohesion: 0.14
-Nodes (13): 메타데이터, 커뮤니티 의견, 핵심통찰, 118개 연동과 20분 동기화 루프, 핵심요약, 메모리 트리: 기억하는 에이전트의 구조, 데스크톱 앱, 마스코트, 그리고 내장 도구, 오픈소스 라벨 아래의 실제 구조 (+5 more)
+Nodes (14): 핵심 기능, 컨텍스트 인텔리전스, 자동 컨텍스트 주입, 백그라운드 병렬 작업, 병렬 작업 예시, call\_omo\_agent: 백그라운드 에이전트 실행, Claude Code 호환성 레이어, code:perl (project/) (+6 more)
 
 ### Community 19 - "Community 19"
 Cohesion: 0.14
-Nodes (13): 발표 멘트, 0. 표지, 1. 전체 요약, 한 문장 요약, 마무리, 2. 진행 배경, 3. 주요 진행 항목, 4. 통합 DB 설계 (+5 more)
+Nodes (13): 메타데이터, 커뮤니티 의견, 핵심통찰, 118개 연동과 20분 동기화 루프, 핵심요약, 메모리 트리: 기억하는 에이전트의 구조, 데스크톱 앱, 마스코트, 그리고 내장 도구, 오픈소스 라벨 아래의 실제 구조 (+5 more)
 
 ### Community 20 - "Community 20"
 Cohesion: 0.14
-Nodes (13): 카테고리, 통계, 통계, 통계, 통계, 통계, 통계, 🔗 비교/분석 (Comparisons) (+5 more)
+Nodes (13): 발표 멘트, 0. 표지, 1. 전체 요약, 한 문장 요약, 마무리, 2. 진행 배경, 3. 주요 진행 항목, 4. 통합 DB 설계 (+5 more)
 
 ### Community 21 - "Community 21"
-Cohesion: 0.15
-Nodes (12): 10. Contact info, 11. License and attribution, 1. Purpose, 2. Open [Source/Culture/Tech] Citizenship, 3. Expected Behavior, 4. Unacceptable Behavior, 5. Weapons Policy, 6. Consequences of Unacceptable Behavior (+4 more)
+Cohesion: 0.14
+Nodes (13): 카테고리, 통계, 통계, 통계, 통계, 통계, 통계, 🔗 비교/분석 (Comparisons) (+5 more)
 
 ### Community 22 - "Community 22"
 Cohesion: 0.15
-Nodes (12): 나는 누구인가, 작업 규칙, 핵심 구조, 워크플로우, 핵심 제약, code:block1 (content/), code:yaml (---), Frontmatter 규칙 (+4 more)
+Nodes (12): 10. Contact info, 11. License and attribution, 1. Purpose, 2. Open [Source/Culture/Tech] Citizenship, 3. Expected Behavior, 4. Unacceptable Behavior, 5. Weapons Policy, 6. Consequences of Unacceptable Behavior (+4 more)
 
 ### Community 23 - "Community 23"
 Cohesion: 0.15
-Nodes (12): 스프린트, 0. 확인, 1. 설치, 2. 동작 확인, code:block1 (Install gstack for agy (Antigravity CLI):), code:block2 (Set up gstack team mode for agy (Antigravity CLI):), code:block3 (Set up gstack for OpenClaw (agy variant):), code:block4 (You:    I want to build a daily briefing app for my calendar) (+4 more)
+Nodes (12): 나는 누구인가, 작업 규칙, 핵심 구조, 워크플로우, 핵심 제약, code:block1 (content/), code:yaml (---), Frontmatter 규칙 (+4 more)
 
 ### Community 24 - "Community 24"
 Cohesion: 0.15
-Nodes (13): Anthropic Claude 연동 시 주의사항, 설정 파일로 API 키 관리하기, code:bash (opencode), code:json ({), /connect 명령으로 연결하기, GLM-4.7: 오픈소스 코딩의 새로운 표준, 초기 설정: LLM 제공자 연결, 주요 LLM 제공자 소개 (+5 more)
+Nodes (12): 스프린트, 0. 확인, 1. 설치, 2. 동작 확인, code:block1 (Install gstack for agy (Antigravity CLI):), code:block2 (Set up gstack team mode for agy (Antigravity CLI):), code:block3 (Set up gstack for OpenClaw (agy variant):), code:block4 (You:    I want to build a daily briefing app for my calendar) (+4 more)
 
 ### Community 25 - "Community 25"
-Cohesion: 0.17
-Nodes (12): 📌 핵심 내용, 핵심 내용, 1. AI 기반의 초고속 배포 실적 (Karpathy의 4단계 실패 극복), 1. 가상 엔지니어링 팀 (Virtual Engineering Team), 연결된 지식, 2. gstack의 23가지 전문 역할 및 워크플로우, 2. 생산성 지표: Logical LOC, 3. 지속적 체크포인트와 안전 가드레일 (+4 more)
+Cohesion: 0.15
+Nodes (13): Anthropic Claude 연동 시 주의사항, 설정 파일로 API 키 관리하기, code:bash (opencode), code:json ({), /connect 명령으로 연결하기, GLM-4.7: 오픈소스 코딩의 새로운 표준, 초기 설정: LLM 제공자 연결, 주요 LLM 제공자 소개 (+5 more)
 
 ### Community 26 - "Community 26"
 Cohesion: 0.15
@@ -281,15 +281,15 @@ Nodes (12): code:powershell (Test-Path content/wiki/concepts/agentic-loop.md), c
 
 ### Community 27 - "Community 27"
 Cohesion: 0.17
-Nodes (12): 명령어, 핵심 워크플로우, 워크스트림, 멀티 프로젝트 워크스페이스, 탐색, 브라운필드, 단계 관리, 세션 (+4 more)
+Nodes (12): 📌 핵심 내용, 핵심 내용, 1. AI 기반의 초고속 배포 실적 (Karpathy의 4단계 실패 극복), 1. 가상 엔지니어링 팀 (Virtual Engineering Team), 연결된 지식, 2. gstack의 23가지 전문 역할 및 워크플로우, 2. 생산성 지표: Logical LOC, 3. 지속적 체크포인트와 안전 가드레일 (+4 more)
 
 ### Community 28 - "Community 28"
 Cohesion: 0.17
-Nodes (11): code:plaintext (---), code:plaintext (/goal get the homepage Lighthouse score to 90 or above, stop), code:plaintext (/loop 5m check my PR, address review comments, and fix faili), code:plaintext (/schedule every hour: check #project-feedback for bug report), **Getting started**, **Goal-based loop (/goal)**, **Maintaining code quality**, **Managing token usage** (+3 more)
+Nodes (12): 명령어, 핵심 워크플로우, 워크스트림, 멀티 프로젝트 워크스페이스, 탐색, 브라운필드, 단계 관리, 세션 (+4 more)
 
 ### Community 29 - "Community 29"
 Cohesion: 0.17
-Nodes (12): 기본 사용법, 첫 실행, 내장 명령어, 모델 선택과 전환, 파일 참조하기: @ 문법, 파일 참조 예시, 이미지 활용, code:applescript (cd my-project) (+4 more)
+Nodes (11): code:plaintext (---), code:plaintext (/goal get the homepage Lighthouse score to 90 or above, stop), code:plaintext (/loop 5m check my PR, address review comments, and fix faili), code:plaintext (/schedule every hour: check #project-feedback for bug report), **Getting started**, **Goal-based loop (/goal)**, **Maintaining code quality**, **Managing token usage** (+3 more)
 
 ### Community 30 - "Community 30"
 Cohesion: 0.17
@@ -297,7 +297,7 @@ Nodes (12): 설치 방법, 설치 확인, code:bash (curl -fsSL https://opencode
 
 ### Community 31 - "Community 31"
 Cohesion: 0.17
-Nodes (11): 🧩 비유로 이해하기, 📋 정의, 🏗️ 에이전트 루프의 4단계 분류, 🛠️ 핵심 성공 요인 (품질 및 비용 관리), 🔗 연결된 지식, 에이전트 루프 (Agentic Loop), code:mermaid (graph TD), L1. 턴 기반 루프 (Turn-based Loop) (+3 more)
+Nodes (12): 기본 사용법, 첫 실행, 내장 명령어, 모델 선택과 전환, 파일 참조하기: @ 문법, 파일 참조 예시, 이미지 활용, code:applescript (cd my-project) (+4 more)
 
 ### Community 32 - "Community 32"
 Cohesion: 0.17
@@ -324,48 +324,48 @@ Cohesion: 0.18
 Nodes (10): 📌 정의, 1. Composio 커넥터 레이어, ⚙️ 주요 아키텍처 및 모듈, 2. Auto-fetch 동기화 루프, 3. 로컬 메모리 트리 (Memory Tree), ⚖️ 강점 및 한계, 4. TokenJuice (토큰 압축 레이어), 한계 (Limitations) (+2 more)
 
 ### Community 38 - "Community 38"
-Cohesion: 0.2
-Nodes (9): 🌟 주요 특징, 1. One-liner 설치, 2. macOS 26 (Tahoe) 트러블슈팅, 🔑 인증 및 프로바이더 설정, 💡 사용 팁, code:bash (curl -fsSL https://raw.githubusercontent.com/paoloanzn/free-), code:bash (cat > ~/.local/bin/free-code << 'EOF'), 🚀 free-code 설치 및 사용 가이드 (+1 more)
+Cohesion: 0.18
+Nodes (10): 핵심 내용, 1. 에이전트 루프의 정의와 의의, 2. 에이전트 루프의 4단계 계층화, 3. 루프 안정화 및 품질 관리 방안, 🔗 연결된 지식, 🔗 연결된 지식, 4. 토큰 소모 제어 및 효율화 (Cost Optimization), 생각 및 메모 (+2 more)
 
 ### Community 39 - "Community 39"
 Cohesion: 0.2
-Nodes (9): 🧩 비유로 이해하는 아키텍처 관계, 🔗 연결된 지식, 🔗 연결된 지식, 💡 지식 공유를 위한 적용 포인트, 💡 지식 공유를 위한 적용 포인트, code:mermaid (graph TD), 📊 아키텍처 수평 대조 (Comparison Matrix), 🏗️ 상호작용 메커니즘 (Interactivity Flow) (+1 more)
+Nodes (9): 🌟 주요 특징, 1. One-liner 설치, 2. macOS 26 (Tahoe) 트러블슈팅, 🔑 인증 및 프로바이더 설정, 💡 사용 팁, code:bash (curl -fsSL https://raw.githubusercontent.com/paoloanzn/free-), code:bash (cat > ~/.local/bin/free-code << 'EOF'), 🚀 free-code 설치 및 사용 가이드 (+1 more)
 
 ### Community 40 - "Community 40"
 Cohesion: 0.2
-Nodes (9): 🚀 핵심 아키텍처 및 스프린트 프로세스, 1. 전문가 페르소나 및 슬래시 명령어, 핵심 기능, 관련 프로젝트/도구, 사용자 인사이트, 2. Continuous Checkpoint Mode (연속 체크포인트), 🔗 연결된 지식, 3. /pair-agent (다중 에이전트 브라우저 제어) (+1 more)
+Nodes (9): 🧩 비유로 이해하는 아키텍처 관계, 🔗 연결된 지식, 🔗 연결된 지식, 💡 지식 공유를 위한 적용 포인트, 💡 지식 공유를 위한 적용 포인트, code:mermaid (graph TD), 📊 아키텍처 수평 대조 (Comparison Matrix), 🏗️ 상호작용 메커니즘 (Interactivity Flow) (+1 more)
 
 ### Community 41 - "Community 41"
 Cohesion: 0.2
-Nodes (9): 🚀 핵심 아키텍처 및 에이전트 팀, 💡 주요 개념, 1. Sisyphus 오케스트레이터, 🔗 연결된 지식, 2. 전문 서브 에이전트 분업 (Sync/Async), 💡 주요 컨텍스트 주입 메커니즘, 🔧 운영 가이드 및 주의사항, 🔗 연결된 지식 (+1 more)
+Nodes (9): 🚀 핵심 아키텍처 및 스프린트 프로세스, 1. 전문가 페르소나 및 슬래시 명령어, 핵심 기능, 관련 프로젝트/도구, 사용자 인사이트, 2. Continuous Checkpoint Mode (연속 체크포인트), 🔗 연결된 지식, 3. /pair-agent (다중 에이전트 브라우저 제어) (+1 more)
 
 ### Community 42 - "Community 42"
 Cohesion: 0.2
-Nodes (9): 1. 개요 및 요약, 2. 핵심 내용 요약, 3. 연결된 지식 (Connected Knowledge), 4. 나의 생각 및 메모 (My Rationale & Vision Connection), A. 지식 모델: 정리된 진실 (Compiled Truth) vs 역사 (Timeline), B. 하이엔드 하이브리드 검색 아키텍처, C. 에이전트 전용 스킬 및 MCP 탑재, code:mermaid (graph TD) (+1 more)
+Nodes (9): 🚀 핵심 아키텍처 및 에이전트 팀, 💡 주요 개념, 1. Sisyphus 오케스트레이터, 🔗 연결된 지식, 2. 전문 서브 에이전트 분업 (Sync/Async), 💡 주요 컨텍스트 주입 메커니즘, 🔧 운영 가이드 및 주의사항, 🔗 연결된 지식 (+1 more)
 
 ### Community 43 - "Community 43"
 Cohesion: 0.2
-Nodes (9): 📌 개요, 1. 콜드 스타트 문제 극복 및 자동 동기화, 🔑 핵심 내용, 2. 메모리 트리(Memory Tree) 아키텍처, 3. TokenJuice: 토큰 압축 레이어, 4. 오픈소스 라벨과 관리형 백엔드 의존성, 🔗 연결된 지식, 💭 생각 및 메모 (사용자 맥락) (+1 more)
+Nodes (9): 1. 개요 및 요약, 2. 핵심 내용 요약, 3. 연결된 지식 (Connected Knowledge), 4. 나의 생각 및 메모 (My Rationale & Vision Connection), A. 지식 모델: 정리된 진실 (Compiled Truth) vs 역사 (Timeline), B. 하이엔드 하이브리드 검색 아키텍처, C. 에이전트 전용 스킬 및 MCP 탑재, code:mermaid (graph TD) (+1 more)
 
 ### Community 44 - "Community 44"
-Cohesion: 0.22
-Nodes (8): 레이어 정의, 핵심 원칙, 📐 품질 기준, 하위 폴더, AI 체크리스트, 🤝 협업 (Collaborative), 📤 Output Layer — AI 운영 규칙, Quartz 빌드
+Cohesion: 0.2
+Nodes (9): 📌 개요, 1. 콜드 스타트 문제 극복 및 자동 동기화, 🔑 핵심 내용, 2. 메모리 트리(Memory Tree) 아키텍처, 3. TokenJuice: 토큰 압축 레이어, 4. 오픈소스 라벨과 관리형 백엔드 의존성, 🔗 연결된 지식, 💭 생각 및 메모 (사용자 맥락) (+1 more)
 
 ### Community 45 - "Community 45"
 Cohesion: 0.22
-Nodes (8): 레이어 정의, 핵심 원칙, 📖 읽기 권한, 하위 폴더 구조, AI 작업 시 체크리스트, 🔒 불변성 (Immutability), Quartz 빌드, 📦 Raw Layer — AI 운영 규칙
+Nodes (8): 레이어 정의, 핵심 원칙, 📐 품질 기준, 하위 폴더, AI 체크리스트, 🤝 협업 (Collaborative), 📤 Output Layer — AI 운영 규칙, Quartz 빌드
 
 ### Community 46 - "Community 46"
 Cohesion: 0.22
-Nodes (9): 업데이트 유지, 권장: 권한 확인 건너뛰기 모드, 시작하기, code:bash (npx get-shit-done-cc@latest), code:bash (npx get-shit-done-cc@latest), code:bash (# Claude Code), code:bash (git clone https://github.com/gsd-build/get-shit-done.git), code:bash (claude --dangerously-skip-permissions) (+1 more)
+Nodes (8): 레이어 정의, 핵심 원칙, 📖 읽기 권한, 하위 폴더 구조, AI 작업 시 체크리스트, 🔒 불변성 (Immutability), Quartz 빌드, 📦 Raw Layer — AI 운영 규칙
 
 ### Community 47 - "Community 47"
 Cohesion: 0.22
-Nodes (8): 왜 만들었나, 이게 누구를 위한 건가, 커뮤니티 포트, 스타 히스토리, 라이선스, code:bash (npx get-shit-done-cc@latest), GET SHIT DONE, v1.39.0 하이라이트
+Nodes (9): 업데이트 유지, 권장: 권한 확인 건너뛰기 모드, 시작하기, code:bash (npx get-shit-done-cc@latest), code:bash (npx get-shit-done-cc@latest), code:bash (# Claude Code), code:bash (git clone https://github.com/gsd-build/get-shit-done.git), code:bash (claude --dangerously-skip-permissions) (+1 more)
 
 ### Community 48 - "Community 48"
 Cohesion: 0.22
-Nodes (9): 기본 사용, 에이전트 직접 호출, 에이전트 직접 호출 예시, code:javascript (이 프로젝트를 분석하고 리팩토링 계획을 세워줘 ultrawork), code:javascript (이제 종합적인 분석과 전략적 리팩토링 계획이 완성되었습니다.), code:javascript (@oracle 이 시스템의 아키텍처를 어떻게 개선하면 좋을까?), 사용법: ultrawork 키워드, ultrawork 사용 예시 (+1 more)
+Nodes (8): 왜 만들었나, 이게 누구를 위한 건가, 커뮤니티 포트, 스타 히스토리, 라이선스, code:bash (npx get-shit-done-cc@latest), GET SHIT DONE, v1.39.0 하이라이트
 
 ### Community 49 - "Community 49"
 Cohesion: 0.22
@@ -373,23 +373,23 @@ Nodes (9): 전문화된 에이전트 팀, 에이전트 권한과 실행 모드, 
 
 ### Community 50 - "Community 50"
 Cohesion: 0.22
-Nodes (8): 🏗️ 개념적 비유, 1. OpenAI: 불변량 강제와 엔트로피 관리, 🏢 양대 빅테크의 하네스 접근법 비교, 2. Anthropic: 시각적 검증과 자기평가 편향 보정, 🏗️ 하네스의 3가지 계층 (The 3 Layers of Harness), 📜 하네스 설계 7원칙 & 실무 액션, ✅ 하네스 구성 핵심 요소 (Harness Components), 🛠️ 하네스 엔지니어링 (Harness Engineering)
+Nodes (9): 기본 사용, 에이전트 직접 호출, 에이전트 직접 호출 예시, code:javascript (이 프로젝트를 분석하고 리팩토링 계획을 세워줘 ultrawork), code:javascript (이제 종합적인 분석과 전략적 리팩토링 계획이 완성되었습니다.), code:javascript (@oracle 이 시스템의 아키텍처를 어떻게 개선하면 좋을까?), 사용법: ultrawork 키워드, ultrawork 사용 예시 (+1 more)
 
 ### Community 51 - "Community 51"
 Cohesion: 0.22
-Nodes (8): 📋 정의 및 본질, 🏛️ 하네스의 핵심 구성 (거버넌스 레이어), 🔗 연결된 지식, 🚀 설계 7원칙, 하네스 엔지니어링 (Harness Engineering), 목적 달성을 위한 '루프(Loop)' 설계, 🧩 비유로 이해하기 (Mental Models), ⚖️ 하네스 vs 워크플로우
+Nodes (8): 🏗️ 개념적 비유, 1. OpenAI: 불변량 강제와 엔트로피 관리, 🏢 양대 빅테크의 하네스 접근법 비교, 2. Anthropic: 시각적 검증과 자기평가 편향 보정, 🏗️ 하네스의 3가지 계층 (The 3 Layers of Harness), 📜 하네스 설계 7원칙 & 실무 액션, ✅ 하네스 구성 핵심 요소 (Harness Components), 🛠️ 하네스 엔지니어링 (Harness Engineering)
 
 ### Community 52 - "Community 52"
 Cohesion: 0.22
-Nodes (8): 🔍 개요 및 주요 모델 연동 정책, 1. 비용 효율성과 비즈니스 모델, 🛠️ 주요 기능, 🔗 연결된 지식, 🛠️ 핵심 기능 및 사용법, 2. LLM 제공자 연동 갈등 (OpenAI vs Anthropic), 🔗 연결된 지식, OpenCode
+Nodes (8): 📋 정의 및 본질, 🏛️ 하네스의 핵심 구성 (거버넌스 레이어), 🔗 연결된 지식, 🚀 설계 7원칙, 하네스 엔지니어링 (Harness Engineering), 목적 달성을 위한 '루프(Loop)' 설계, 🧩 비유로 이해하기 (Mental Models), ⚖️ 하네스 vs 워크플로우
 
 ### Community 53 - "Community 53"
 Cohesion: 0.22
-Nodes (8): 하네스와 에이전트 워크플로우에 대한 대화적 고찰, 📌 개요, 核心 내용, 1. 하네스(Harness) vs 워크플로우(Workflow), 2. 하네스 엔지니어링의 본질: '목적 달성 루프', 🧠 연결된 지식, ✍️ 메모 및 맥락, 3. 쉬운 비유 (Mental Models)
+Nodes (8): 🔍 개요 및 주요 모델 연동 정책, 1. 비용 효율성과 비즈니스 모델, 🛠️ 주요 기능, 🔗 연결된 지식, 🛠️ 핵심 기능 및 사용법, 2. LLM 제공자 연동 갈등 (OpenAI vs Anthropic), 🔗 연결된 지식, OpenCode
 
 ### Community 54 - "Community 54"
 Cohesion: 0.22
-Nodes (8): 핵심 내용, 1. 에이전트 루프의 정의와 의의, 2. 에이전트 루프의 4단계 계층화, 3. 루프 안정화 및 품질 관리 방안, 🔗 연결된 지식, 4. 토큰 소모 제어 및 효율화 (Cost Optimization), 생각 및 메모, Getting started with loops
+Nodes (8): 하네스와 에이전트 워크플로우에 대한 대화적 고찰, 📌 개요, 核心 내용, 1. 하네스(Harness) vs 워크플로우(Workflow), 2. 하네스 엔지니어링의 본질: '목적 달성 루프', 🧠 연결된 지식, ✍️ 메모 및 맥락, 3. 쉬운 비유 (Mental Models)
 
 ### Community 55 - "Community 55"
 Cohesion: 0.22
@@ -453,11 +453,11 @@ Nodes (7): 에이전트 이해하기, 에이전트 전환하기, 서브 에이�
 
 ### Community 70 - "Community 70"
 Cohesion: 0.29
-Nodes (7): 설정 파일 구조 이해하기, 설정 파일 위치, 사용 가능한 모델 확인하기, code:applescript (# 글로벌 설정 디렉토리 (모든 프로젝트에 적용)), code:json (// ~/.config/opencode/oh-my-opencode.json), code:javascript (# Google 모델 중 Gemini 3 확인), oh-my-opencode.json 설정 예시
+Nodes (7): 참고 자료, 공식 자료, 관련 프로젝트, 'AI > OhMyOpencode' 카테고리의 다른 글, GitHub Issues (알려진 이슈), [Open Code 리뷰(3): 오픈소스, 무료 및 저가 LLM 모델 활용 해보기 with Ollama, Qwen3, glm4.7, MiniMax M2.1 등](https://goddaehee.tistory.com/488), TAG
 
 ### Community 71 - "Community 71"
 Cohesion: 0.29
-Nodes (7): 참고 자료, 공식 자료, 관련 프로젝트, 'AI > OhMyOpencode' 카테고리의 다른 글, GitHub Issues (알려진 이슈), [Open Code 리뷰(3): 오픈소스, 무료 및 저가 LLM 모델 활용 해보기 with Ollama, Qwen3, glm4.7, MiniMax M2.1 등](https://goddaehee.tistory.com/488), TAG
+Nodes (7): 설정 파일 구조 이해하기, 설정 파일 위치, 사용 가능한 모델 확인하기, code:applescript (# 글로벌 설정 디렉토리 (모든 프로젝트에 적용)), code:json (// ~/.config/opencode/oh-my-opencode.json), code:javascript (# Google 모델 중 Gemini 3 확인), oh-my-opencode.json 설정 예시
 
 ### Community 72 - "Community 72"
 Cohesion: 0.29
@@ -705,24 +705,24 @@ Nodes (3): 개요, 🔗 연결된 지식, Y Combinator
 
 ### Community 135 - "Community 135"
 Cohesion: 0.67
-Nodes (3): 주요 특징, OpenCode란 무엇인가, 왜 OpenCode인가?: 비용 비교
+Nodes (3): 이상적인 유스케이스, 다른 도구가 더 적합할 수 있는 경우, OpenCode가 적합한 경우
 
 ## Knowledge Gaps
-- **846 isolated node(s):** `1. Purpose`, `2. Open [Source/Culture/Tech] Citizenship`, `3. Expected Behavior`, `4. Unacceptable Behavior`, `5. Weapons Policy` (+841 more)
+- **851 isolated node(s):** `1. Purpose`, `2. Open [Source/Culture/Tech] Citizenship`, `3. Expected Behavior`, `4. Unacceptable Behavior`, `5. Weapons Policy` (+846 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Open Code 리뷰(2) : oh-my-opencode 설치 및 설정 방법(기본 명령어, 슬래시 명령어, 연동 방법 등) with Claude,OpenAI,Gemini` connect `Community 16` to `Community 99`, `Community 100`, `Community 70`, `Community 71`, `Community 9`, `Community 13`, `Community 48`, `Community 49`, `Community 17`, `Community 61`?**
+- **Why does `Open Code 리뷰(2) : oh-my-opencode 설치 및 설정 방법(기본 명령어, 슬래시 명령어, 연동 방법 등) with Claude,OpenAI,Gemini` connect `Community 17` to `Community 99`, `Community 100`, `Community 70`, `Community 71`, `Community 9`, `Community 13`, `Community 49`, `Community 18`, `Community 50`, `Community 61`?**
   _High betweenness centrality (0.011) - this node is a cross-community bridge._
-- **Why does `설치 및 설정 가이드` connect `Community 9` to `Community 16`?**
+- **Why does `설치 및 설정 가이드` connect `Community 9` to `Community 17`?**
   _High betweenness centrality (0.005) - this node is a cross-community bridge._
-- **Why does `GET SHIT DONE` connect `Community 47` to `Community 98`, `Community 68`, `Community 59`, `Community 11`, `Community 46`, `Community 27`, `Community 126`?**
+- **Why does `GET SHIT DONE` connect `Community 48` to `Community 98`, `Community 68`, `Community 11`, `Community 47`, `Community 59`, `Community 28`, `Community 126`?**
   _High betweenness centrality (0.003) - this node is a cross-community bridge._
 - **What connects `1. Purpose`, `2. Open [Source/Culture/Tech] Citizenship`, `3. Expected Behavior` to the rest of the system?**
-  _846 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _851 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.04 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
