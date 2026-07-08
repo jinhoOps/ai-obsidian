@@ -3,7 +3,8 @@ title: "에이전트 루프와 하네스 엔지니어링 (Loop vs Harness)"
 type: comparison
 tags: [agent, methodology, harness-engineering, agentic-loop]
 sources:
-  [content/raw/articles/Getting started with loops.md, content/raw/notes/Harness_Engineering.md]
+  - "content/raw/articles/Getting started with loops.md"
+  - "content/raw/notes/Harness_Engineering.md"
 created: 2026-07-08
 updated: 2026-07-08
 draft: false
@@ -26,7 +27,7 @@ draft: false
 
 ## 📊 아키텍처 수평 대조 (Comparison Matrix)
 
-| 구분              | [[agentic-loop\|에이전트 루프 (Agentic Loop)]]             | [[harness-engineering\|하네스 엔지니어링 (Harness Engineering)]] |
+| 구분              | [[agentic-loop]] (에이전트 루프)                           | [[harness-engineering]] (하네스 엔지니어링)                     |
 | ----------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
 | **역할 정의**     | 목표 달성을 위해 작업을 반복 수행하는 **동적 실행 엔진**   | 에이전트의 안정성과 논리적 무결성을 통제하는 **정적 가드레일**   |
 | **제어 수준**     | 오퍼레이션 / 프로세스 (Operations)                         | 거버넌스 / 불변성 규범 (Governance)                              |
